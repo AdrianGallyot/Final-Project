@@ -1,0 +1,5975 @@
+CountryID,Country,Year,GDP_Per_Capita
+ABW,Aruba,1988,10360
+ABW,Aruba,1989,11760
+ABW,Aruba,1990,12230
+ABW,Aruba,1991,13190
+ABW,Aruba,1992,13990
+ABW,Aruba,1993,14620
+ABW,Aruba,1994,15640
+ABW,Aruba,1995,16230
+ABW,Aruba,1996,16370
+ABW,Aruba,1997,17220
+ABW,Aruba,1998,17620
+ABW,Aruba,1999,17880
+ABW,Aruba,2000,20000
+ABW,Aruba,2001,19170
+ABW,Aruba,2002,17890
+ABW,Aruba,2003,20070
+ABW,Aruba,2004,22630
+ABW,Aruba,2005,19200
+ABW,Aruba,2006,23340
+ABW,Aruba,2007,21680
+ABW,Aruba,2008,25510
+ABW,Aruba,2009,23770
+ABW,Aruba,2010,22380
+ABW,Aruba,2011,22450
+ABW,Aruba,2012,23520
+ABW,Aruba,2013,24510
+ABW,Aruba,2014,25350
+ABW,Aruba,2015,26560
+ABW,Aruba,2016,26840
+ABW,Aruba,2017,27120
+AFG,Afghanistan,2009,450
+AFG,Afghanistan,2010,510
+AFG,Afghanistan,2011,530
+AFG,Afghanistan,2012,630
+AFG,Afghanistan,2013,660
+AFG,Afghanistan,2014,630
+AFG,Afghanistan,2015,600
+AFG,Afghanistan,2016,550
+AFG,Afghanistan,2017,530
+AFG,Afghanistan,2018,520
+AFG,Afghanistan,2019,530
+AFG,Afghanistan,2020,500
+AGO,Angola,1987,670
+AGO,Angola,1988,650
+AGO,Angola,1989,860
+AGO,Angola,1990,780
+AGO,Angola,1991,1380
+AGO,Angola,1992,1170
+AGO,Angola,1994,330
+AGO,Angola,1995,440
+AGO,Angola,1996,320
+AGO,Angola,1997,450
+AGO,Angola,1998,410
+AGO,Angola,1999,330
+AGO,Angola,2000,360
+AGO,Angola,2001,390
+AGO,Angola,2002,590
+AGO,Angola,2003,710
+AGO,Angola,2004,1010
+AGO,Angola,2005,1370
+AGO,Angola,2006,1810
+AGO,Angola,2007,2460
+AGO,Angola,2008,3030
+AGO,Angola,2009,3170
+AGO,Angola,2010,3230
+AGO,Angola,2011,3410
+AGO,Angola,2012,4170
+AGO,Angola,2013,4780
+AGO,Angola,2014,5010
+AGO,Angola,2015,4520
+AGO,Angola,2016,3770
+AGO,Angola,2017,3450
+AGO,Angola,2018,3210
+AGO,Angola,2019,2970
+AGO,Angola,2020,2230
+ALB,Albania,1987,730
+ALB,Albania,1988,730
+ALB,Albania,1989,760
+ALB,Albania,1990,650
+ALB,Albania,1991,410
+ALB,Albania,1992,280
+ALB,Albania,1993,320
+ALB,Albania,1994,380
+ALB,Albania,1995,640
+ALB,Albania,1996,890
+ALB,Albania,1997,800
+ALB,Albania,1998,860
+ALB,Albania,1999,950
+ALB,Albania,2000,1100
+ALB,Albania,2001,1280
+ALB,Albania,2002,1370
+ALB,Albania,2003,1650
+ALB,Albania,2004,2100
+ALB,Albania,2005,2620
+ALB,Albania,2006,3050
+ALB,Albania,2007,3460
+ALB,Albania,2008,4030
+ALB,Albania,2009,4280
+ALB,Albania,2010,4360
+ALB,Albania,2011,4410
+ALB,Albania,2012,4360
+ALB,Albania,2013,4540
+ALB,Albania,2014,4540
+ALB,Albania,2015,4390
+ALB,Albania,2016,4320
+ALB,Albania,2017,4290
+ALB,Albania,2018,4860
+ALB,Albania,2019,5220
+ALB,Albania,2020,5210
+ARE,United Arab Emirates,2000,31400
+ARE,United Arab Emirates,2001,31970
+ARE,United Arab Emirates,2002,30940
+ARE,United Arab Emirates,2003,32780
+ARE,United Arab Emirates,2004,36160
+ARE,United Arab Emirates,2005,37500
+ARE,United Arab Emirates,2006,39380
+ARE,United Arab Emirates,2007,39590
+ARE,United Arab Emirates,2008,39910
+ARE,United Arab Emirates,2009,35000
+ARE,United Arab Emirates,2010,33400
+ARE,United Arab Emirates,2011,35030
+ARE,United Arab Emirates,2012,39220
+ARE,United Arab Emirates,2013,42840
+ARE,United Arab Emirates,2014,44330
+ARE,United Arab Emirates,2015,42860
+ARE,United Arab Emirates,2016,40570
+ARE,United Arab Emirates,2017,39290
+ARE,United Arab Emirates,2018,41470
+ARE,United Arab Emirates,2019,43470
+ARG,Argentina,1987,3590
+ARG,Argentina,1988,3960
+ARG,Argentina,1989,2930
+ARG,Argentina,1990,3190
+ARG,Argentina,1991,3860
+ARG,Argentina,1992,6070
+ARG,Argentina,1993,7120
+ARG,Argentina,1994,7620
+ARG,Argentina,1995,7360
+ARG,Argentina,1996,7740
+ARG,Argentina,1997,8150
+ARG,Argentina,1998,8030
+ARG,Argentina,1999,7580
+ARG,Argentina,2000,7470
+ARG,Argentina,2001,7000
+ARG,Argentina,2002,4040
+ARG,Argentina,2003,3650
+ARG,Argentina,2004,3370
+ARG,Argentina,2005,4260
+ARG,Argentina,2006,5480
+ARG,Argentina,2007,6510
+ARG,Argentina,2008,7670
+ARG,Argentina,2009,7790
+ARG,Argentina,2010,9270
+ARG,Argentina,2011,10710
+ARG,Argentina,2012,11870
+ARG,Argentina,2013,12840
+ARG,Argentina,2014,12330
+ARG,Argentina,2015,12570
+ARG,Argentina,2016,12220
+ARG,Argentina,2017,13140
+ARG,Argentina,2018,12370
+ARG,Argentina,2019,11130
+ARG,Argentina,2020,8930
+ARM,Armenia,1992,310
+ARM,Armenia,1993,360
+ARM,Armenia,1994,400
+ARM,Armenia,1995,470
+ARM,Armenia,1996,520
+ARM,Armenia,1997,560
+ARM,Armenia,1998,590
+ARM,Armenia,1999,610
+ARM,Armenia,2000,660
+ARM,Armenia,2001,710
+ARM,Armenia,2002,800
+ARM,Armenia,2003,960
+ARM,Armenia,2004,1180
+ARM,Armenia,2005,1540
+ARM,Armenia,2006,2020
+ARM,Armenia,2007,2760
+ARM,Armenia,2008,3600
+ARM,Armenia,2009,3340
+ARM,Armenia,2010,3470
+ARM,Armenia,2011,3530
+ARM,Armenia,2012,3880
+ARM,Armenia,2013,4110
+ARM,Armenia,2014,4140
+ARM,Armenia,2015,4010
+ARM,Armenia,2016,3760
+ARM,Armenia,2017,3950
+ARM,Armenia,2018,4250
+ARM,Armenia,2019,4680
+ARM,Armenia,2020,4220
+ATG,Antigua and Barbuda,1987,4880
+ATG,Antigua and Barbuda,1988,6040
+ATG,Antigua and Barbuda,1989,6450
+ATG,Antigua and Barbuda,1990,6820
+ATG,Antigua and Barbuda,1991,7230
+ATG,Antigua and Barbuda,1992,7470
+ATG,Antigua and Barbuda,1993,7960
+ATG,Antigua and Barbuda,1994,8450
+ATG,Antigua and Barbuda,1995,8140
+ATG,Antigua and Barbuda,1996,8700
+ATG,Antigua and Barbuda,1997,9080
+ATG,Antigua and Barbuda,1998,9270
+ATG,Antigua and Barbuda,1999,9610
+ATG,Antigua and Barbuda,2000,10100
+ATG,Antigua and Barbuda,2001,9850
+ATG,Antigua and Barbuda,2002,9660
+ATG,Antigua and Barbuda,2003,10530
+ATG,Antigua and Barbuda,2004,11450
+ATG,Antigua and Barbuda,2005,12420
+ATG,Antigua and Barbuda,2006,13810
+ATG,Antigua and Barbuda,2007,15090
+ATG,Antigua and Barbuda,2008,15250
+ATG,Antigua and Barbuda,2009,13600
+ATG,Antigua and Barbuda,2010,12690
+ATG,Antigua and Barbuda,2011,12370
+ATG,Antigua and Barbuda,2012,12780
+ATG,Antigua and Barbuda,2013,12620
+ATG,Antigua and Barbuda,2014,12760
+ATG,Antigua and Barbuda,2015,12850
+ATG,Antigua and Barbuda,2016,13580
+ATG,Antigua and Barbuda,2017,14320
+ATG,Antigua and Barbuda,2018,15880
+ATG,Antigua and Barbuda,2019,16160
+ATG,Antigua and Barbuda,2020,14250
+AUS,Australia,1987,12530
+AUS,Australia,1988,14100
+AUS,Australia,1989,15560
+AUS,Australia,1990,17300
+AUS,Australia,1991,18190
+AUS,Australia,1992,18500
+AUS,Australia,1993,18860
+AUS,Australia,1994,18830
+AUS,Australia,1995,19250
+AUS,Australia,1996,20440
+AUS,Australia,1997,21900
+AUS,Australia,1998,21740
+AUS,Australia,1999,21430
+AUS,Australia,2000,21120
+AUS,Australia,2001,20110
+AUS,Australia,2002,19990
+AUS,Australia,2003,21120
+AUS,Australia,2004,25480
+AUS,Australia,2005,30310
+AUS,Australia,2006,34090
+AUS,Australia,2007,37300
+AUS,Australia,2008,42330
+AUS,Australia,2009,44050
+AUS,Australia,2010,46630
+AUS,Australia,2011,50320
+AUS,Australia,2012,60210
+AUS,Australia,2013,66020
+AUS,Australia,2014,65150
+AUS,Australia,2015,60500
+AUS,Australia,2016,54140
+AUS,Australia,2017,51560
+AUS,Australia,2018,53190
+AUS,Australia,2019,55100
+AUS,Australia,2020,53730
+AUT,Austria,1987,1000
+AUT,Austria,1988,1310
+AUT,Austria,1989,1400
+AUT,Austria,1990,1500
+AUT,Austria,1991,1580
+AUT,Austria,1992,1780
+AUT,Austria,1993,1810
+AUT,Austria,1994,1900
+AUT,Austria,1995,2050
+AUT,Austria,1996,2190
+AUT,Austria,1997,2150
+AUT,Austria,1998,2030
+AUT,Austria,1999,2860
+AUT,Austria,2000,5380
+AUT,Austria,2001,25320
+AUT,Austria,2002,25030
+AUT,Austria,2003,28100
+AUT,Austria,2004,33850
+AUT,Austria,2005,38770
+AUT,Austria,2006,41500
+AUT,Austria,2007,44540
+AUT,Austria,2008,49210
+AUT,Austria,2009,49150
+AUT,Austria,2010,49750
+AUT,Austria,2011,50700
+AUT,Austria,2012,50100
+AUT,Austria,2013,50720
+AUT,Austria,2014,50390
+AUT,Austria,2015,47480
+AUT,Austria,2016,46240
+AUT,Austria,2017,45090
+AUT,Austria,2018,49090
+AUT,Austria,2019,51440
+AZE,Azerbaijan,1994,80
+AZE,Azerbaijan,1995,180
+AZE,Azerbaijan,1996,240
+AZE,Azerbaijan,1997,410
+AZE,Azerbaijan,1998,510
+AZE,Azerbaijan,1999,570
+AZE,Azerbaijan,2000,610
+AZE,Azerbaijan,2001,650
+AZE,Azerbaijan,2002,710
+AZE,Azerbaijan,2003,810
+AZE,Azerbaijan,2004,940
+AZE,Azerbaijan,2005,1270
+AZE,Azerbaijan,2006,1900
+AZE,Azerbaijan,2007,2710
+AZE,Azerbaijan,2008,3870
+AZE,Azerbaijan,2009,4790
+AZE,Azerbaijan,2010,5370
+AZE,Azerbaijan,2011,5460
+AZE,Azerbaijan,2012,6410
+AZE,Azerbaijan,2013,7410
+AZE,Azerbaijan,2014,7690
+AZE,Azerbaijan,2015,6570
+AZE,Azerbaijan,2016,4760
+AZE,Azerbaijan,2017,4090
+AZE,Azerbaijan,2018,4060
+AZE,Azerbaijan,2019,4490
+AZE,Azerbaijan,2020,4450
+BDI,Burundi,1987,260
+BDI,Burundi,1988,250
+BDI,Burundi,1989,230
+BDI,Burundi,1990,220
+BDI,Burundi,1991,220
+BDI,Burundi,1992,210
+BDI,Burundi,1993,180
+BDI,Burundi,1994,160
+BDI,Burundi,1995,150
+BDI,Burundi,1996,140
+BDI,Burundi,1997,150
+BDI,Burundi,1998,150
+BDI,Burundi,1999,140
+BDI,Burundi,2000,130
+BDI,Burundi,2001,130
+BDI,Burundi,2002,130
+BDI,Burundi,2003,120
+BDI,Burundi,2004,120
+BDI,Burundi,2005,140
+BDI,Burundi,2006,150
+BDI,Burundi,2007,170
+BDI,Burundi,2008,190
+BDI,Burundi,2009,200
+BDI,Burundi,2010,220
+BDI,Burundi,2011,230
+BDI,Burundi,2012,250
+BDI,Burundi,2013,260
+BDI,Burundi,2014,260
+BDI,Burundi,2015,260
+BDI,Burundi,2016,270
+BDI,Burundi,2017,280
+BDI,Burundi,2018,280
+BDI,Burundi,2019,280
+BDI,Burundi,2020,270
+BEL,Belgium,1987,320
+BEL,Belgium,1988,420
+BEL,Belgium,1989,450
+BEL,Belgium,1990,480
+BEL,Belgium,1991,510
+BEL,Belgium,1992,570
+BEL,Belgium,1993,580
+BEL,Belgium,1994,620
+BEL,Belgium,1995,670
+BEL,Belgium,1996,710
+BEL,Belgium,1997,710
+BEL,Belgium,1998,660
+BEL,Belgium,1999,960
+BEL,Belgium,2000,1940
+BEL,Belgium,2001,24460
+BEL,Belgium,2002,24060
+BEL,Belgium,2003,27100
+BEL,Belgium,2004,32910
+BEL,Belgium,2005,37780
+BEL,Belgium,2006,39940
+BEL,Belgium,2007,42740
+BEL,Belgium,2008,46570
+BEL,Belgium,2009,46980
+BEL,Belgium,2010,47080
+BEL,Belgium,2011,46490
+BEL,Belgium,2012,47130
+BEL,Belgium,2013,47900
+BEL,Belgium,2014,47820
+BEL,Belgium,2015,45570
+BEL,Belgium,2016,43400
+BEL,Belgium,2017,42510
+BEL,Belgium,2018,46110
+BEL,Belgium,2019,48010
+BEN,Benin,1987,310
+BEN,Benin,1988,360
+BEN,Benin,1989,340
+BEN,Benin,1990,370
+BEN,Benin,1991,380
+BEN,Benin,1992,370
+BEN,Benin,1993,380
+BEN,Benin,1994,330
+BEN,Benin,1995,360
+BEN,Benin,1996,350
+BEN,Benin,1997,380
+BEN,Benin,1998,370
+BEN,Benin,1999,410
+BEN,Benin,2000,480
+BEN,Benin,2001,530
+BEN,Benin,2002,530
+BEN,Benin,2003,600
+BEN,Benin,2004,730
+BEN,Benin,2005,820
+BEN,Benin,2006,860
+BEN,Benin,2007,920
+BEN,Benin,2008,1030
+BEN,Benin,2009,1090
+BEN,Benin,2010,1080
+BEN,Benin,2011,1090
+BEN,Benin,2012,1120
+BEN,Benin,2013,1220
+BEN,Benin,2014,1270
+BEN,Benin,2015,1180
+BEN,Benin,2016,1110
+BEN,Benin,2017,1090
+BEN,Benin,2018,1200
+BEN,Benin,2019,1250
+BEN,Benin,2020,1280
+BFA,Burkina Faso,1987,270
+BFA,Burkina Faso,1988,330
+BFA,Burkina Faso,1989,330
+BFA,Burkina Faso,1990,330
+BFA,Burkina Faso,1991,360
+BFA,Burkina Faso,1992,370
+BFA,Burkina Faso,1993,360
+BFA,Burkina Faso,1994,280
+BFA,Burkina Faso,1995,250
+BFA,Burkina Faso,1996,250
+BFA,Burkina Faso,1997,250
+BFA,Burkina Faso,1998,250
+BFA,Burkina Faso,1999,270
+BFA,Burkina Faso,2000,270
+BFA,Burkina Faso,2001,280
+BFA,Burkina Faso,2002,270
+BFA,Burkina Faso,2003,320
+BFA,Burkina Faso,2004,390
+BFA,Burkina Faso,2005,460
+BFA,Burkina Faso,2006,490
+BFA,Burkina Faso,2007,510
+BFA,Burkina Faso,2008,570
+BFA,Burkina Faso,2009,610
+BFA,Burkina Faso,2010,650
+BFA,Burkina Faso,2011,680
+BFA,Burkina Faso,2012,730
+BFA,Burkina Faso,2013,770
+BFA,Burkina Faso,2014,760
+BFA,Burkina Faso,2015,700
+BFA,Burkina Faso,2016,680
+BFA,Burkina Faso,2017,670
+BFA,Burkina Faso,2018,750
+BFA,Burkina Faso,2019,780
+BFA,Burkina Faso,2020,790
+BGD,Bangladesh,1987,280
+BGD,Bangladesh,1988,290
+BGD,Bangladesh,1989,300
+BGD,Bangladesh,1990,320
+BGD,Bangladesh,1991,320
+BGD,Bangladesh,1992,330
+BGD,Bangladesh,1993,320
+BGD,Bangladesh,1994,320
+BGD,Bangladesh,1995,340
+BGD,Bangladesh,1996,370
+BGD,Bangladesh,1997,400
+BGD,Bangladesh,1998,420
+BGD,Bangladesh,1999,420
+BGD,Bangladesh,2000,440
+BGD,Bangladesh,2001,440
+BGD,Bangladesh,2002,440
+BGD,Bangladesh,2003,460
+BGD,Bangladesh,2004,510
+BGD,Bangladesh,2005,550
+BGD,Bangladesh,2006,570
+BGD,Bangladesh,2007,610
+BGD,Bangladesh,2008,660
+BGD,Bangladesh,2009,730
+BGD,Bangladesh,2010,800
+BGD,Bangladesh,2011,890
+BGD,Bangladesh,2012,970
+BGD,Bangladesh,2013,1040
+BGD,Bangladesh,2014,1110
+BGD,Bangladesh,2015,1220
+BGD,Bangladesh,2016,1370
+BGD,Bangladesh,2017,1520
+BGD,Bangladesh,2018,1750
+BGD,Bangladesh,2019,1940
+BGD,Bangladesh,2020,2010
+BGR,Bulgaria,1987,2720
+BGR,Bulgaria,1988,3110
+BGR,Bulgaria,1989,2830
+BGR,Bulgaria,1990,2250
+BGR,Bulgaria,1991,1620
+BGR,Bulgaria,1992,1430
+BGR,Bulgaria,1993,1250
+BGR,Bulgaria,1994,1240
+BGR,Bulgaria,1995,1520
+BGR,Bulgaria,1996,1590
+BGR,Bulgaria,1997,1460
+BGR,Bulgaria,1998,1440
+BGR,Bulgaria,1999,1480
+BGR,Bulgaria,2000,1660
+BGR,Bulgaria,2001,1770
+BGR,Bulgaria,2002,1970
+BGR,Bulgaria,2003,2370
+BGR,Bulgaria,2004,3060
+BGR,Bulgaria,2005,3800
+BGR,Bulgaria,2006,4300
+BGR,Bulgaria,2007,4810
+BGR,Bulgaria,2008,6070
+BGR,Bulgaria,2009,6670
+BGR,Bulgaria,2010,6940
+BGR,Bulgaria,2011,7220
+BGR,Bulgaria,2012,7440
+BGR,Bulgaria,2013,7590
+BGR,Bulgaria,2014,7740
+BGR,Bulgaria,2015,7450
+BGR,Bulgaria,2016,7430
+BGR,Bulgaria,2017,7640
+BGR,Bulgaria,2018,8560
+BGR,Bulgaria,2019,9570
+BGR,Bulgaria,2020,9540
+BHR,Bahrain,1987,7700
+BHR,Bahrain,1988,7800
+BHR,Bahrain,1989,7660
+BHR,Bahrain,1990,9070
+BHR,Bahrain,1991,9800
+BHR,Bahrain,1992,9890
+BHR,Bahrain,1993,10030
+BHR,Bahrain,1994,9680
+BHR,Bahrain,1995,10380
+BHR,Bahrain,1996,10790
+BHR,Bahrain,1997,10310
+BHR,Bahrain,1998,10070
+BHR,Bahrain,1999,9870
+BHR,Bahrain,2000,10940
+BHR,Bahrain,2001,11500
+BHR,Bahrain,2002,12060
+BHR,Bahrain,2003,12940
+BHR,Bahrain,2004,14570
+BHR,Bahrain,2005,16550
+BHR,Bahrain,2006,17890
+BHR,Bahrain,2007,19660
+BHR,Bahrain,2008,20860
+BHR,Bahrain,2009,18830
+BHR,Bahrain,2010,18970
+BHR,Bahrain,2011,18160
+BHR,Bahrain,2012,22010
+BHR,Bahrain,2013,23790
+BHR,Bahrain,2014,24070
+BHR,Bahrain,2015,22580
+BHR,Bahrain,2016,21570
+BHR,Bahrain,2017,21250
+BHR,Bahrain,2018,21910
+BHR,Bahrain,2019,22170
+BHS,"Bahamas, The",1987,10800
+BHS,"Bahamas, The",1988,11710
+BHS,"Bahamas, The",1989,12440
+BHS,"Bahamas, The",1990,11870
+BHS,"Bahamas, The",1991,11330
+BHS,"Bahamas, The",1992,11550
+BHS,"Bahamas, The",1993,11310
+BHS,"Bahamas, The",1994,11600
+BHS,"Bahamas, The",1995,14260
+BHS,"Bahamas, The",1996,15930
+BHS,"Bahamas, The",1997,15180
+BHS,"Bahamas, The",1998,16810
+BHS,"Bahamas, The",1999,24150
+BHS,"Bahamas, The",2000,26360
+BHS,"Bahamas, The",2001,26560
+BHS,"Bahamas, The",2002,27190
+BHS,"Bahamas, The",2003,27770
+BHS,"Bahamas, The",2004,29270
+BHS,"Bahamas, The",2005,30570
+BHS,"Bahamas, The",2006,30760
+BHS,"Bahamas, The",2007,31090
+BHS,"Bahamas, The",2008,30960
+BHS,"Bahamas, The",2009,29010
+BHS,"Bahamas, The",2010,28370
+BHS,"Bahamas, The",2011,28030
+BHS,"Bahamas, The",2012,29020
+BHS,"Bahamas, The",2013,28440
+BHS,"Bahamas, The",2014,28000
+BHS,"Bahamas, The",2015,28400
+BHS,"Bahamas, The",2016,29210
+BHS,"Bahamas, The",2017,30900
+BHS,"Bahamas, The",2018,31990
+BHS,"Bahamas, The",2019,33460
+BHS,"Bahamas, The",2020,27780
+BIH,Bosnia and Herzegovina,1996,760
+BIH,Bosnia and Herzegovina,1997,1010
+BIH,Bosnia and Herzegovina,1998,1330
+BIH,Bosnia and Herzegovina,1999,1400
+BIH,Bosnia and Herzegovina,2000,1490
+BIH,Bosnia and Herzegovina,2001,1600
+BIH,Bosnia and Herzegovina,2002,1770
+BIH,Bosnia and Herzegovina,2003,2040
+BIH,Bosnia and Herzegovina,2004,2590
+BIH,Bosnia and Herzegovina,2005,3180
+BIH,Bosnia and Herzegovina,2006,3510
+BIH,Bosnia and Herzegovina,2007,3920
+BIH,Bosnia and Herzegovina,2008,4730
+BIH,Bosnia and Herzegovina,2009,4970
+BIH,Bosnia and Herzegovina,2010,4960
+BIH,Bosnia and Herzegovina,2011,5010
+BIH,Bosnia and Herzegovina,2012,4990
+BIH,Bosnia and Herzegovina,2013,5270
+BIH,Bosnia and Herzegovina,2014,5300
+BIH,Bosnia and Herzegovina,2015,5210
+BIH,Bosnia and Herzegovina,2016,5130
+BIH,Bosnia and Herzegovina,2017,5120
+BIH,Bosnia and Herzegovina,2018,5750
+BIH,Bosnia and Herzegovina,2019,6180
+BIH,Bosnia and Herzegovina,2020,6090
+BLR,Belarus,1992,6230
+BLR,Belarus,1994,5190
+BLR,Belarus,1995,2180
+BLR,Belarus,1996,1510
+BLR,Belarus,1997,1520
+BLR,Belarus,1998,1550
+BLR,Belarus,1999,1410
+BLR,Belarus,2000,1380
+BLR,Belarus,2001,1300
+BLR,Belarus,2002,1380
+BLR,Belarus,2003,1630
+BLR,Belarus,2004,2170
+BLR,Belarus,2005,2810
+BLR,Belarus,2006,3520
+BLR,Belarus,2007,4310
+BLR,Belarus,2008,5500
+BLR,Belarus,2009,5700
+BLR,Belarus,2010,6150
+BLR,Belarus,2011,6260
+BLR,Belarus,2012,6610
+BLR,Belarus,2013,7010
+BLR,Belarus,2014,7590
+BLR,Belarus,2015,6710
+BLR,Belarus,2016,5620
+BLR,Belarus,2017,5300
+BLR,Belarus,2018,5700
+BLR,Belarus,2019,6370
+BLR,Belarus,2020,6330
+BLZ,Belize,1987,1610
+BLZ,Belize,1988,1870
+BLZ,Belize,1989,2080
+BLZ,Belize,1990,2260
+BLZ,Belize,1991,2420
+BLZ,Belize,1992,2680
+BLZ,Belize,1993,2790
+BLZ,Belize,1994,2780
+BLZ,Belize,1995,2860
+BLZ,Belize,1996,2880
+BLZ,Belize,1997,2890
+BLZ,Belize,1998,2780
+BLZ,Belize,1999,2880
+BLZ,Belize,2000,3150
+BLZ,Belize,2001,3130
+BLZ,Belize,2002,3200
+BLZ,Belize,2003,3420
+BLZ,Belize,2004,3560
+BLZ,Belize,2005,3620
+BLZ,Belize,2006,3740
+BLZ,Belize,2007,3670
+BLZ,Belize,2008,3880
+BLZ,Belize,2009,4050
+BLZ,Belize,2010,3880
+BLZ,Belize,2011,4050
+BLZ,Belize,2012,4100
+BLZ,Belize,2013,4180
+BLZ,Belize,2014,4260
+BLZ,Belize,2015,4400
+BLZ,Belize,2016,4340
+BLZ,Belize,2017,4420
+BLZ,Belize,2018,4550
+BLZ,Belize,2019,4700
+BLZ,Belize,2020,3970
+BMU,Bermuda,2010,103480
+BMU,Bermuda,2011,101610
+BMU,Bermuda,2012,100100
+BMU,Bermuda,2013,101760
+BMU,Bermuda,2014,99920
+BMU,Bermuda,2015,101120
+BMU,Bermuda,2016,103620
+BMU,Bermuda,2017,112940
+BMU,Bermuda,2018,117000
+BMU,Bermuda,2019,117740
+BOL,Bolivia,1987,720
+BOL,Bolivia,1988,710
+BOL,Bolivia,1989,720
+BOL,Bolivia,1990,720
+BOL,Bolivia,1991,740
+BOL,Bolivia,1992,770
+BOL,Bolivia,1993,790
+BOL,Bolivia,1994,810
+BOL,Bolivia,1995,850
+BOL,Bolivia,1996,900
+BOL,Bolivia,1997,950
+BOL,Bolivia,1998,990
+BOL,Bolivia,1999,980
+BOL,Bolivia,2000,980
+BOL,Bolivia,2001,950
+BOL,Bolivia,2002,920
+BOL,Bolivia,2003,910
+BOL,Bolivia,2004,950
+BOL,Bolivia,2005,1020
+BOL,Bolivia,2006,1110
+BOL,Bolivia,2007,1220
+BOL,Bolivia,2008,1480
+BOL,Bolivia,2009,1620
+BOL,Bolivia,2010,1780
+BOL,Bolivia,2011,2000
+BOL,Bolivia,2012,2250
+BOL,Bolivia,2013,2590
+BOL,Bolivia,2014,2830
+BOL,Bolivia,2015,2960
+BOL,Bolivia,2016,3040
+BOL,Bolivia,2017,3090
+BOL,Bolivia,2018,3370
+BOL,Bolivia,2019,3520
+BOL,Bolivia,2020,3200
+BRA,Brazil,1987,2030
+BRA,Brazil,1988,2260
+BRA,Brazil,1989,2760
+BRA,Brazil,1990,2730
+BRA,Brazil,1991,3280
+BRA,Brazil,1992,3170
+BRA,Brazil,1993,3090
+BRA,Brazil,1994,3030
+BRA,Brazil,1995,3760
+BRA,Brazil,1996,4460
+BRA,Brazil,1997,5020
+BRA,Brazil,1998,4840
+BRA,Brazil,1999,4120
+BRA,Brazil,2000,3930
+BRA,Brazil,2001,3350
+BRA,Brazil,2002,3090
+BRA,Brazil,2003,2980
+BRA,Brazil,2004,3340
+BRA,Brazil,2005,4000
+BRA,Brazil,2006,4850
+BRA,Brazil,2007,6190
+BRA,Brazil,2008,7620
+BRA,Brazil,2009,8320
+BRA,Brazil,2010,9650
+BRA,Brazil,2011,11080
+BRA,Brazil,2012,12310
+BRA,Brazil,2013,12790
+BRA,Brazil,2014,12120
+BRA,Brazil,2015,10190
+BRA,Brazil,2016,8920
+BRA,Brazil,2017,8700
+BRA,Brazil,2018,9170
+BRA,Brazil,2019,9270
+BRA,Brazil,2020,7850
+BRB,Barbados,1987,6690
+BRB,Barbados,1988,7430
+BRB,Barbados,1989,7860
+BRB,Barbados,1990,7600
+BRB,Barbados,1991,7570
+BRB,Barbados,1992,7460
+BRB,Barbados,1993,7690
+BRB,Barbados,1994,8010
+BRB,Barbados,1995,8340
+BRB,Barbados,1996,8700
+BRB,Barbados,1997,9050
+BRB,Barbados,1998,9420
+BRB,Barbados,1999,9820
+BRB,Barbados,2000,10780
+BRB,Barbados,2001,10630
+BRB,Barbados,2002,10650
+BRB,Barbados,2003,11300
+BRB,Barbados,2004,12290
+BRB,Barbados,2005,13240
+BRB,Barbados,2006,14220
+BRB,Barbados,2007,15530
+BRB,Barbados,2008,16180
+BRB,Barbados,2009,15730
+BRB,Barbados,2010,15540
+BRB,Barbados,2011,15050
+BRB,Barbados,2012,15720
+BRB,Barbados,2013,15660
+BRB,Barbados,2014,15630
+BRB,Barbados,2015,15740
+BRB,Barbados,2016,15920
+BRB,Barbados,2017,16070
+BRB,Barbados,2018,16700
+BRB,Barbados,2019,17380
+BRB,Barbados,2020,14460
+BRN,Brunei Darussalam,1989,12090
+BRN,Brunei Darussalam,1990,12460
+BRN,Brunei Darussalam,1991,13580
+BRN,Brunei Darussalam,1992,15160
+BRN,Brunei Darussalam,1993,15030
+BRN,Brunei Darussalam,1994,15090
+BRN,Brunei Darussalam,1995,15680
+BRN,Brunei Darussalam,1996,16210
+BRN,Brunei Darussalam,1997,16220
+BRN,Brunei Darussalam,1998,14420
+BRN,Brunei Darussalam,1999,14040
+BRN,Brunei Darussalam,2000,14680
+BRN,Brunei Darussalam,2001,16070
+BRN,Brunei Darussalam,2002,17140
+BRN,Brunei Darussalam,2003,17800
+BRN,Brunei Darussalam,2004,19990
+BRN,Brunei Darussalam,2005,23090
+BRN,Brunei Darussalam,2006,27580
+BRN,Brunei Darussalam,2007,30930
+BRN,Brunei Darussalam,2008,34150
+BRN,Brunei Darussalam,2009,32460
+BRN,Brunei Darussalam,2010,33300
+BRN,Brunei Darussalam,2011,35520
+BRN,Brunei Darussalam,2012,42370
+BRN,Brunei Darussalam,2013,45320
+BRN,Brunei Darussalam,2014,43090
+BRN,Brunei Darussalam,2015,38850
+BRN,Brunei Darussalam,2016,33170
+BRN,Brunei Darussalam,2017,29800
+BRN,Brunei Darussalam,2018,29390
+BRN,Brunei Darussalam,2019,32230
+BTN,Bhutan,1987,470
+BTN,Bhutan,1988,520
+BTN,Bhutan,1989,550
+BTN,Bhutan,1990,560
+BTN,Bhutan,1991,480
+BTN,Bhutan,1992,450
+BTN,Bhutan,1993,420
+BTN,Bhutan,1994,450
+BTN,Bhutan,1995,460
+BTN,Bhutan,1996,510
+BTN,Bhutan,1997,550
+BTN,Bhutan,1998,530
+BTN,Bhutan,1999,560
+BTN,Bhutan,2000,700
+BTN,Bhutan,2001,750
+BTN,Bhutan,2002,810
+BTN,Bhutan,2003,910
+BTN,Bhutan,2004,1030
+BTN,Bhutan,2005,1200
+BTN,Bhutan,2006,1330
+BTN,Bhutan,2007,1640
+BTN,Bhutan,2008,1770
+BTN,Bhutan,2009,1860
+BTN,Bhutan,2010,2040
+BTN,Bhutan,2011,2240
+BTN,Bhutan,2012,2390
+BTN,Bhutan,2013,2410
+BTN,Bhutan,2014,2460
+BTN,Bhutan,2015,2520
+BTN,Bhutan,2016,2650
+BTN,Bhutan,2017,2800
+BTN,Bhutan,2018,2970
+BTN,Bhutan,2019,3140
+BTN,Bhutan,2020,2860
+BWA,Botswana,1987,1340
+BWA,Botswana,1988,1980
+BWA,Botswana,1989,2320
+BWA,Botswana,1990,2720
+BWA,Botswana,1991,3070
+BWA,Botswana,1992,3270
+BWA,Botswana,1993,3330
+BWA,Botswana,1994,2960
+BWA,Botswana,1995,3260
+BWA,Botswana,1996,3180
+BWA,Botswana,1997,3330
+BWA,Botswana,1998,3210
+BWA,Botswana,1999,3150
+BWA,Botswana,2000,3170
+BWA,Botswana,2001,3260
+BWA,Botswana,2002,2930
+BWA,Botswana,2003,3370
+BWA,Botswana,2004,3920
+BWA,Botswana,2005,4930
+BWA,Botswana,2006,5440
+BWA,Botswana,2007,5730
+BWA,Botswana,2008,5740
+BWA,Botswana,2009,5330
+BWA,Botswana,2010,5610
+BWA,Botswana,2011,6610
+BWA,Botswana,2012,7250
+BWA,Botswana,2013,7570
+BWA,Botswana,2014,7520
+BWA,Botswana,2015,6840
+BWA,Botswana,2016,6560
+BWA,Botswana,2017,6690
+BWA,Botswana,2018,7340
+BWA,Botswana,2019,7660
+BWA,Botswana,2020,6640
+CAF,Central African Republic,1987,420
+CAF,Central African Republic,1988,490
+CAF,Central African Republic,1989,490
+CAF,Central African Republic,1990,480
+CAF,Central African Republic,1991,480
+CAF,Central African Republic,1992,470
+CAF,Central African Republic,1993,450
+CAF,Central African Republic,1994,370
+CAF,Central African Republic,1995,350
+CAF,Central African Republic,1996,300
+CAF,Central African Republic,1997,300
+CAF,Central African Republic,1998,280
+CAF,Central African Republic,1999,280
+CAF,Central African Republic,2000,260
+CAF,Central African Republic,2001,260
+CAF,Central African Republic,2002,250
+CAF,Central African Republic,2003,260
+CAF,Central African Republic,2004,300
+CAF,Central African Republic,2005,340
+CAF,Central African Republic,2006,350
+CAF,Central African Republic,2007,380
+CAF,Central African Republic,2008,420
+CAF,Central African Republic,2009,480
+CAF,Central African Republic,2010,510
+CAF,Central African Republic,2011,530
+CAF,Central African Republic,2012,570
+CAF,Central African Republic,2013,380
+CAF,Central African Republic,2014,390
+CAF,Central African Republic,2015,400
+CAF,Central African Republic,2016,410
+CAF,Central African Republic,2017,440
+CAF,Central African Republic,2018,490
+CAF,Central African Republic,2019,520
+CAF,Central African Republic,2020,510
+CAN,Canada,1999,21210
+CAN,Canada,2000,22620
+CAN,Canada,2001,23030
+CAN,Canada,2002,23610
+CAN,Canada,2003,25860
+CAN,Canada,2004,29890
+CAN,Canada,2005,34810
+CAN,Canada,2006,38520
+CAN,Canada,2007,43090
+CAN,Canada,2008,45650
+CAN,Canada,2009,43250
+CAN,Canada,2010,44510
+CAN,Canada,2011,47210
+CAN,Canada,2012,51080
+CAN,Canada,2013,52800
+CAN,Canada,2014,52200
+CAN,Canada,2015,47590
+CAN,Canada,2016,43890
+CAN,Canada,2017,42900
+CAN,Canada,2018,44950
+CAN,Canada,2019,46460
+CAN,Canada,2020,43440
+CHE,Switzerland,1995,46740
+CHE,Switzerland,1996,49730
+CHE,Switzerland,1997,49340
+CHE,Switzerland,1998,46200
+CHE,Switzerland,1999,44280
+CHE,Switzerland,2000,44680
+CHE,Switzerland,2001,42110
+CHE,Switzerland,2002,40760
+CHE,Switzerland,2003,46780
+CHE,Switzerland,2004,55200
+CHE,Switzerland,2005,63080
+CHE,Switzerland,2006,65590
+CHE,Switzerland,2007,64480
+CHE,Switzerland,2008,65260
+CHE,Switzerland,2009,72470
+CHE,Switzerland,2010,79850
+CHE,Switzerland,2011,82280
+CHE,Switzerland,2012,87770
+CHE,Switzerland,2013,91700
+CHE,Switzerland,2014,89400
+CHE,Switzerland,2015,88750
+CHE,Switzerland,2016,85190
+CHE,Switzerland,2017,81520
+CHE,Switzerland,2018,85030
+CHE,Switzerland,2019,87950
+CHI,Channel Islands,2000,42510
+CHI,Channel Islands,2001,41460
+CHI,Channel Islands,2002,40720
+CHI,Channel Islands,2003,43340
+CHI,Channel Islands,2004,50340
+CHI,Channel Islands,2005,56280
+CHI,Channel Islands,2006,60750
+CHI,Channel Islands,2007,66220
+CHL,Chile,1987,1660
+CHL,Chile,1988,1930
+CHL,Chile,1989,2200
+CHL,Chile,1990,2350
+CHL,Chile,1991,2600
+CHL,Chile,1992,3120
+CHL,Chile,1993,3440
+CHL,Chile,1994,3730
+CHL,Chile,1995,4420
+CHL,Chile,1996,5070
+CHL,Chile,1997,5590
+CHL,Chile,1998,5490
+CHL,Chile,1999,5120
+CHL,Chile,2000,5060
+CHL,Chile,2001,4800
+CHL,Chile,2002,4540
+CHL,Chile,2003,4510
+CHL,Chile,2004,5190
+CHL,Chile,2005,6210
+CHL,Chile,2006,7340
+CHL,Chile,2007,8690
+CHL,Chile,2008,10050
+CHL,Chile,2009,9950
+CHL,Chile,2010,10750
+CHL,Chile,2011,12340
+CHL,Chile,2012,14350
+CHL,Chile,2013,15160
+CHL,Chile,2014,14940
+CHL,Chile,2015,14130
+CHL,Chile,2016,13370
+CHL,Chile,2017,13270
+CHL,Chile,2018,14550
+CHL,Chile,2019,14990
+CHL,Chile,2020,13470
+CHN,China,1987,320
+CHN,China,1988,330
+CHN,China,1989,320
+CHN,China,1990,330
+CHN,China,1991,350
+CHN,China,1992,390
+CHN,China,1993,420
+CHN,China,1994,470
+CHN,China,1995,540
+CHN,China,1996,650
+CHN,China,1997,750
+CHN,China,1998,800
+CHN,China,1999,860
+CHN,China,2000,940
+CHN,China,2001,1010
+CHN,China,2002,1110
+CHN,China,2003,1280
+CHN,China,2004,1510
+CHN,China,2005,1760
+CHN,China,2006,2060
+CHN,China,2007,2510
+CHN,China,2008,3100
+CHN,China,2009,3680
+CHN,China,2010,4340
+CHN,China,2011,5050
+CHN,China,2012,5930
+CHN,China,2013,6770
+CHN,China,2014,7510
+CHN,China,2015,7940
+CHN,China,2016,8270
+CHN,China,2017,8740
+CHN,China,2018,9600
+CHN,China,2019,10390
+CHN,China,2020,10610
+#N/A,Cote d'Ivoire,1987,810
+#N/A,Cote d'Ivoire,1988,910
+#N/A,Cote d'Ivoire,1989,830
+#N/A,Cote d'Ivoire,1990,780
+#N/A,Cote d'Ivoire,1991,760
+#N/A,Cote d'Ivoire,1992,780
+#N/A,Cote d'Ivoire,1993,750
+#N/A,Cote d'Ivoire,1994,680
+#N/A,Cote d'Ivoire,1995,700
+#N/A,Cote d'Ivoire,1996,720
+#N/A,Cote d'Ivoire,1997,760
+#N/A,Cote d'Ivoire,1998,760
+#N/A,Cote d'Ivoire,1999,730
+#N/A,Cote d'Ivoire,2000,650
+#N/A,Cote d'Ivoire,2001,590
+#N/A,Cote d'Ivoire,2002,570
+#N/A,Cote d'Ivoire,2003,620
+#N/A,Cote d'Ivoire,2004,770
+#N/A,Cote d'Ivoire,2005,930
+#N/A,Cote d'Ivoire,2006,930
+#N/A,Cote d'Ivoire,2007,970
+#N/A,Cote d'Ivoire,2008,1070
+#N/A,Cote d'Ivoire,2009,1160
+#N/A,Cote d'Ivoire,2010,1190
+#N/A,Cote d'Ivoire,2011,1130
+#N/A,Cote d'Ivoire,2012,1230
+#N/A,Cote d'Ivoire,2013,1330
+#N/A,Cote d'Ivoire,2014,1450
+#N/A,Cote d'Ivoire,2015,1660
+#N/A,Cote d'Ivoire,2016,1840
+#N/A,Cote d'Ivoire,2017,2030
+#N/A,Cote d'Ivoire,2018,2180
+#N/A,Cote d'Ivoire,2019,2290
+#N/A,Cote d'Ivoire,2020,2280
+CMR,Cameroon,1987,1110
+CMR,Cameroon,1988,1180
+CMR,Cameroon,1989,1080
+CMR,Cameroon,1990,970
+CMR,Cameroon,1991,900
+CMR,Cameroon,1992,930
+CMR,Cameroon,1993,920
+CMR,Cameroon,1994,800
+CMR,Cameroon,1995,770
+CMR,Cameroon,1996,690
+CMR,Cameroon,1997,710
+CMR,Cameroon,1998,690
+CMR,Cameroon,1999,680
+CMR,Cameroon,2000,660
+CMR,Cameroon,2001,630
+CMR,Cameroon,2002,630
+CMR,Cameroon,2003,730
+CMR,Cameroon,2004,910
+CMR,Cameroon,2005,1010
+CMR,Cameroon,2006,1060
+CMR,Cameroon,2007,1110
+CMR,Cameroon,2008,1240
+CMR,Cameroon,2009,1320
+CMR,Cameroon,2010,1330
+CMR,Cameroon,2011,1350
+CMR,Cameroon,2012,1370
+CMR,Cameroon,2013,1430
+CMR,Cameroon,2014,1490
+CMR,Cameroon,2015,1440
+CMR,Cameroon,2016,1380
+CMR,Cameroon,2017,1340
+CMR,Cameroon,2018,1450
+CMR,Cameroon,2019,1500
+CMR,Cameroon,2020,1500
+COD,"Congo, Dem. Rep.",1994,160
+COD,"Congo, Dem. Rep.",1995,150
+COD,"Congo, Dem. Rep.",1996,130
+COD,"Congo, Dem. Rep.",1997,120
+COD,"Congo, Dem. Rep.",1998,120
+COD,"Congo, Dem. Rep.",1999,110
+COD,"Congo, Dem. Rep.",2000,130
+COD,"Congo, Dem. Rep.",2001,140
+COD,"Congo, Dem. Rep.",2002,190
+COD,"Congo, Dem. Rep.",2003,170
+COD,"Congo, Dem. Rep.",2004,190
+COD,"Congo, Dem. Rep.",2005,200
+COD,"Congo, Dem. Rep.",2006,230
+COD,"Congo, Dem. Rep.",2007,260
+COD,"Congo, Dem. Rep.",2008,290
+COD,"Congo, Dem. Rep.",2009,300
+COD,"Congo, Dem. Rep.",2010,320
+COD,"Congo, Dem. Rep.",2011,340
+COD,"Congo, Dem. Rep.",2012,380
+COD,"Congo, Dem. Rep.",2013,410
+COD,"Congo, Dem. Rep.",2014,440
+COD,"Congo, Dem. Rep.",2015,460
+COD,"Congo, Dem. Rep.",2016,470
+COD,"Congo, Dem. Rep.",2017,460
+COD,"Congo, Dem. Rep.",2018,500
+COD,"Congo, Dem. Rep.",2019,530
+COD,"Congo, Dem. Rep.",2020,550
+COG,"Congo, Rep.",1987,1050
+COG,"Congo, Rep.",1988,930
+COG,"Congo, Rep.",1989,940
+COG,"Congo, Rep.",1990,930
+COG,"Congo, Rep.",1991,960
+COG,"Congo, Rep.",1992,1060
+COG,"Congo, Rep.",1993,910
+COG,"Congo, Rep.",1994,760
+COG,"Congo, Rep.",1995,480
+COG,"Congo, Rep.",1996,470
+COG,"Congo, Rep.",1997,590
+COG,"Congo, Rep.",1998,580
+COG,"Congo, Rep.",1999,490
+COG,"Congo, Rep.",2000,570
+COG,"Congo, Rep.",2001,630
+COG,"Congo, Rep.",2002,670
+COG,"Congo, Rep.",2003,700
+COG,"Congo, Rep.",2004,770
+COG,"Congo, Rep.",2005,1120
+COG,"Congo, Rep.",2006,1600
+COG,"Congo, Rep.",2007,1700
+COG,"Congo, Rep.",2008,2140
+COG,"Congo, Rep.",2009,2480
+COG,"Congo, Rep.",2010,2750
+COG,"Congo, Rep.",2011,2710
+COG,"Congo, Rep.",2012,3500
+COG,"Congo, Rep.",2013,3740
+COG,"Congo, Rep.",2014,3990
+COG,"Congo, Rep.",2015,3090
+COG,"Congo, Rep.",2016,2210
+COG,"Congo, Rep.",2017,1700
+COG,"Congo, Rep.",2018,1790
+COG,"Congo, Rep.",2019,1810
+COG,"Congo, Rep.",2020,1830
+COL,Colombia,1987,1240
+COL,Colombia,1988,1300
+COL,Colombia,1989,1250
+COL,Colombia,1990,1330
+COL,Colombia,1991,1380
+COL,Colombia,1992,1560
+COL,Colombia,1993,1740
+COL,Colombia,1994,2050
+COL,Colombia,1995,2350
+COL,Colombia,1996,2540
+COL,Colombia,1997,2660
+COL,Colombia,1998,2570
+COL,Colombia,1999,2330
+COL,Colombia,2000,2340
+COL,Colombia,2001,2330
+COL,Colombia,2002,2370
+COL,Colombia,2003,2370
+COL,Colombia,2004,2620
+COL,Colombia,2005,3000
+COL,Colombia,2006,3500
+COL,Colombia,2007,4130
+COL,Colombia,2008,4710
+COL,Colombia,2009,5130
+COL,Colombia,2010,5620
+COL,Colombia,2011,6310
+COL,Colombia,2012,7290
+COL,Colombia,2013,7950
+COL,Colombia,2014,8200
+COL,Colombia,2015,7330
+COL,Colombia,2016,6460
+COL,Colombia,2017,5930
+COL,Colombia,2018,6260
+COL,Colombia,2019,6580
+COL,Colombia,2020,5780
+COM,Comoros,1987,780
+COM,Comoros,1988,960
+COM,Comoros,1989,930
+COM,Comoros,1990,980
+COM,Comoros,1991,950
+COM,Comoros,1992,1100
+COM,Comoros,1993,1080
+COM,Comoros,1994,870
+COM,Comoros,1995,850
+COM,Comoros,1996,780
+COM,Comoros,1997,790
+COM,Comoros,1998,730
+COM,Comoros,1999,700
+COM,Comoros,2000,730
+COM,Comoros,2001,700
+COM,Comoros,2002,680
+COM,Comoros,2003,790
+COM,Comoros,2004,950
+COM,Comoros,2005,1090
+COM,Comoros,2006,1130
+COM,Comoros,2007,1170
+COM,Comoros,2008,1290
+COM,Comoros,2009,1370
+COM,Comoros,2010,1380
+COM,Comoros,2011,1410
+COM,Comoros,2012,1420
+COM,Comoros,2013,1490
+COM,Comoros,2014,1490
+COM,Comoros,2015,1380
+COM,Comoros,2016,1320
+COM,Comoros,2017,1280
+COM,Comoros,2018,1380
+COM,Comoros,2019,1400
+COM,Comoros,2020,1450
+CPV,Cabo Verde,1987,650
+CPV,Cabo Verde,1988,840
+CPV,Cabo Verde,1989,900
+CPV,Cabo Verde,1990,900
+CPV,Cabo Verde,1991,910
+CPV,Cabo Verde,1992,1040
+CPV,Cabo Verde,1993,1190
+CPV,Cabo Verde,1994,1300
+CPV,Cabo Verde,1995,1410
+CPV,Cabo Verde,1996,1350
+CPV,Cabo Verde,1997,1350
+CPV,Cabo Verde,1998,1330
+CPV,Cabo Verde,1999,1370
+CPV,Cabo Verde,2000,1410
+CPV,Cabo Verde,2001,1350
+CPV,Cabo Verde,2002,1300
+CPV,Cabo Verde,2003,1520
+CPV,Cabo Verde,2004,1900
+CPV,Cabo Verde,2005,2160
+CPV,Cabo Verde,2006,2300
+CPV,Cabo Verde,2007,2820
+CPV,Cabo Verde,2008,3300
+CPV,Cabo Verde,2009,3480
+CPV,Cabo Verde,2010,3400
+CPV,Cabo Verde,2011,3510
+CPV,Cabo Verde,2012,3440
+CPV,Cabo Verde,2013,3490
+CPV,Cabo Verde,2014,3360
+CPV,Cabo Verde,2015,3210
+CPV,Cabo Verde,2016,3130
+CPV,Cabo Verde,2017,3080
+CPV,Cabo Verde,2018,3400
+CPV,Cabo Verde,2019,3630
+CPV,Cabo Verde,2020,3060
+CRI,Costa Rica,1987,1600
+CRI,Costa Rica,1988,1650
+CRI,Costa Rica,1989,1660
+CRI,Costa Rica,1990,1750
+CRI,Costa Rica,1991,1950
+CRI,Costa Rica,1992,2350
+CRI,Costa Rica,1993,2740
+CRI,Costa Rica,1994,2980
+CRI,Costa Rica,1995,3180
+CRI,Costa Rica,1996,3240
+CRI,Costa Rica,1997,3350
+CRI,Costa Rica,1998,3400
+CRI,Costa Rica,1999,3460
+CRI,Costa Rica,2000,3570
+CRI,Costa Rica,2001,3670
+CRI,Costa Rica,2002,3770
+CRI,Costa Rica,2003,4030
+CRI,Costa Rica,2004,4380
+CRI,Costa Rica,2005,4640
+CRI,Costa Rica,2006,5060
+CRI,Costa Rica,2007,5680
+CRI,Costa Rica,2008,6410
+CRI,Costa Rica,2009,6540
+CRI,Costa Rica,2010,7260
+CRI,Costa Rica,2011,8090
+CRI,Costa Rica,2012,9280
+CRI,Costa Rica,2013,9930
+CRI,Costa Rica,2014,10350
+CRI,Costa Rica,2015,10700
+CRI,Costa Rica,2016,11100
+CRI,Costa Rica,2017,11500
+CRI,Costa Rica,2018,11930
+CRI,Costa Rica,2019,12070
+CRI,Costa Rica,2020,11460
+CUB,Cuba,1987,2490
+CUB,Cuba,1988,2780
+CUB,Cuba,1989,2750
+CUB,Cuba,1990,2650
+CUB,Cuba,1991,2340
+CUB,Cuba,1992,2130
+CUB,Cuba,1993,1870
+CUB,Cuba,1994,2140
+CUB,Cuba,1995,2550
+CUB,Cuba,1996,2710
+CUB,Cuba,1997,2500
+CUB,Cuba,1998,2240
+CUB,Cuba,1999,2400
+CUB,Cuba,2000,2620
+CUB,Cuba,2001,2760
+CUB,Cuba,2002,2820
+CUB,Cuba,2003,3100
+CUB,Cuba,2004,3490
+CUB,Cuba,2005,3960
+CUB,Cuba,2006,4530
+CUB,Cuba,2007,5000
+CUB,Cuba,2008,5460
+CUB,Cuba,2009,5520
+CUB,Cuba,2010,5610
+CUB,Cuba,2011,5930
+CUB,Cuba,2012,6280
+CUB,Cuba,2013,6640
+CUB,Cuba,2014,6840
+CUB,Cuba,2015,7230
+CUB,Cuba,2016,7480
+CUW,Curacao,2013,19930
+CUW,Curacao,2014,19820
+CUW,Curacao,2015,19620
+CUW,Curacao,2016,19100
+CUW,Curacao,2017,19100
+CUW,Curacao,2018,20100
+CUW,Curacao,2019,20370
+CYM,Cayman Islands,2010,70220
+CYM,Cayman Islands,2011,71050
+CYM,Cayman Islands,2012,49570
+CYM,Cayman Islands,2013,44030
+CYM,Cayman Islands,2014,42930
+CYM,Cayman Islands,2015,44380
+CYM,Cayman Islands,2016,45880
+CYM,Cayman Islands,2017,52840
+CYM,Cayman Islands,2018,59380
+CYM,Cayman Islands,2019,68200
+CYP,Cyprus,1987,6300
+CYP,Cyprus,1988,7910
+CYP,Cyprus,1989,8570
+CYP,Cyprus,1990,9300
+CYP,Cyprus,1991,9460
+CYP,Cyprus,1992,11020
+CYP,Cyprus,1993,10970
+CYP,Cyprus,1994,11680
+CYP,Cyprus,1995,12810
+CYP,Cyprus,1996,13880
+CYP,Cyprus,1997,14280
+CYP,Cyprus,1998,15490
+CYP,Cyprus,1999,14340
+CYP,Cyprus,2000,14180
+CYP,Cyprus,2001,14170
+CYP,Cyprus,2002,14510
+CYP,Cyprus,2003,16710
+CYP,Cyprus,2004,20260
+CYP,Cyprus,2005,23990
+CYP,Cyprus,2006,25600
+CYP,Cyprus,2007,27340
+CYP,Cyprus,2008,31970
+CYP,Cyprus,2009,32780
+CYP,Cyprus,2010,32040
+CYP,Cyprus,2011,32550
+CYP,Cyprus,2012,29680
+CYP,Cyprus,2013,27830
+CYP,Cyprus,2014,26530
+CYP,Cyprus,2015,25980
+CYP,Cyprus,2016,24710
+CYP,Cyprus,2017,24710
+CYP,Cyprus,2018,26990
+CYP,Cyprus,2019,27930
+CYP,Cyprus,2020,26110
+CZE,Czech Republic,1995,5150
+CZE,Czech Republic,1996,5980
+CZE,Czech Republic,1997,6160
+CZE,Czech Republic,1998,6110
+CZE,Czech Republic,1999,6110
+CZE,Czech Republic,2000,6340
+CZE,Czech Republic,2001,6350
+CZE,Czech Republic,2002,6650
+CZE,Czech Republic,2003,8110
+CZE,Czech Republic,2004,10260
+CZE,Czech Republic,2005,12480
+CZE,Czech Republic,2006,14000
+CZE,Czech Republic,2007,15850
+CZE,Czech Republic,2008,18510
+CZE,Czech Republic,2009,18840
+CZE,Czech Republic,2010,19400
+CZE,Czech Republic,2011,19460
+CZE,Czech Republic,2012,19440
+CZE,Czech Republic,2013,19410
+CZE,Czech Republic,2014,18900
+CZE,Czech Republic,2015,18370
+CZE,Czech Republic,2016,17670
+CZE,Czech Republic,2017,18310
+CZE,Czech Republic,2018,20520
+CZE,Czech Republic,2019,21930
+DEU,Germany,1987,7280
+DEU,Germany,1988,9520
+DEU,Germany,1989,10100
+DEU,Germany,1990,10890
+DEU,Germany,1991,11700
+DEU,Germany,1992,13200
+DEU,Germany,1993,13290
+DEU,Germany,1994,14070
+DEU,Germany,1995,15090
+DEU,Germany,1996,15780
+DEU,Germany,1997,15410
+DEU,Germany,1998,14290
+DEU,Germany,1999,16430
+DEU,Germany,2000,20190
+DEU,Germany,2001,24770
+DEU,Germany,2002,23680
+DEU,Germany,2003,26140
+DEU,Germany,2004,31670
+DEU,Germany,2005,35770
+DEU,Germany,2006,38270
+DEU,Germany,2007,40470
+DEU,Germany,2008,43650
+DEU,Germany,2009,43660
+DEU,Germany,2010,44680
+DEU,Germany,2011,47320
+DEU,Germany,2012,46560
+DEU,Germany,2013,47220
+DEU,Germany,2014,47640
+DEU,Germany,2015,45780
+DEU,Germany,2016,44280
+DEU,Germany,2017,43700
+DEU,Germany,2018,47190
+DEU,Germany,2019,48600
+DEU,Germany,2020,46990
+DJI,Djibouti,2015,2730
+DJI,Djibouti,2016,2870
+DJI,Djibouti,2017,2990
+DJI,Djibouti,2018,3260
+DJI,Djibouti,2019,3310
+DJI,Djibouti,2020,3320
+DMA,Dominica,1987,2170
+DMA,Dominica,1988,2560
+DMA,Dominica,1989,2600
+DMA,Dominica,1990,2810
+DMA,Dominica,1991,2960
+DMA,Dominica,1992,3200
+DMA,Dominica,1993,3410
+DMA,Dominica,1994,3490
+DMA,Dominica,1995,3720
+DMA,Dominica,1996,3890
+DMA,Dominica,1997,4010
+DMA,Dominica,1998,4200
+DMA,Dominica,1999,4200
+DMA,Dominica,2000,4220
+DMA,Dominica,2001,4470
+DMA,Dominica,2002,4270
+DMA,Dominica,2003,4680
+DMA,Dominica,2004,4950
+DMA,Dominica,2005,5050
+DMA,Dominica,2006,5490
+DMA,Dominica,2007,5760
+DMA,Dominica,2008,6340
+DMA,Dominica,2009,6520
+DMA,Dominica,2010,6730
+DMA,Dominica,2011,6920
+DMA,Dominica,2012,6730
+DMA,Dominica,2013,6780
+DMA,Dominica,2014,7020
+DMA,Dominica,2015,6910
+DMA,Dominica,2016,7270
+DMA,Dominica,2017,7250
+DMA,Dominica,2018,7680
+DMA,Dominica,2019,7870
+DMA,Dominica,2020,6870
+DNK,Denmark,1987,17760
+DNK,Denmark,1988,22130
+DNK,Denmark,1989,23050
+DNK,Denmark,1990,24370
+DNK,Denmark,1991,25540
+DNK,Denmark,1992,28700
+DNK,Denmark,1993,28570
+DNK,Denmark,1994,30360
+DNK,Denmark,1995,32560
+DNK,Denmark,1996,34770
+DNK,Denmark,1997,35150
+DNK,Denmark,1998,33460
+DNK,Denmark,1999,33060
+DNK,Denmark,2000,32580
+DNK,Denmark,2001,31410
+DNK,Denmark,2002,30850
+DNK,Denmark,2003,34750
+DNK,Denmark,2004,42640
+DNK,Denmark,2005,49610
+DNK,Denmark,2006,53540
+DNK,Denmark,2007,55740
+DNK,Denmark,2008,60390
+DNK,Denmark,2009,60090
+DNK,Denmark,2010,61220
+DNK,Denmark,2011,61990
+DNK,Denmark,2012,61650
+DNK,Denmark,2013,63200
+DNK,Denmark,2014,63670
+DNK,Denmark,2015,60510
+DNK,Denmark,2016,58040
+DNK,Denmark,2017,56690
+DNK,Denmark,2018,61340
+DNK,Denmark,2019,64000
+DNK,Denmark,2020,62720
+DOM,Dominican Republic,1987,940
+DOM,Dominican Republic,1988,920
+DOM,Dominican Republic,1989,910
+DOM,Dominican Republic,1990,870
+DOM,Dominican Republic,1991,1040
+DOM,Dominican Republic,1992,1360
+DOM,Dominican Republic,1993,1620
+DOM,Dominican Republic,1994,1750
+DOM,Dominican Republic,1995,1960
+DOM,Dominican Republic,1996,2170
+DOM,Dominican Republic,1997,2360
+DOM,Dominican Republic,1998,2450
+DOM,Dominican Republic,1999,2540
+DOM,Dominican Republic,2000,2680
+DOM,Dominican Republic,2001,2740
+DOM,Dominican Republic,2002,2890
+DOM,Dominican Republic,2003,2640
+DOM,Dominican Republic,2004,2560
+DOM,Dominican Republic,2005,3040
+DOM,Dominican Republic,2006,3640
+DOM,Dominican Republic,2007,4430
+DOM,Dominican Republic,2008,4760
+DOM,Dominican Republic,2009,4920
+DOM,Dominican Republic,2010,5330
+DOM,Dominican Republic,2011,5540
+DOM,Dominican Republic,2012,5790
+DOM,Dominican Republic,2013,6030
+DOM,Dominican Republic,2014,6330
+DOM,Dominican Republic,2015,6580
+DOM,Dominican Republic,2016,6860
+DOM,Dominican Republic,2017,7090
+DOM,Dominican Republic,2018,7780
+DOM,Dominican Republic,2019,8100
+DOM,Dominican Republic,2020,7260
+DZA,Algeria,1987,2810
+DZA,Algeria,1988,2750
+DZA,Algeria,1989,2550
+DZA,Algeria,1990,2370
+DZA,Algeria,1991,1980
+DZA,Algeria,1992,1900
+DZA,Algeria,1993,1730
+DZA,Algeria,1994,1620
+DZA,Algeria,1995,1550
+DZA,Algeria,1996,1520
+DZA,Algeria,1997,1510
+DZA,Algeria,1998,1540
+DZA,Algeria,1999,1530
+DZA,Algeria,2000,1590
+DZA,Algeria,2001,1670
+DZA,Algeria,2002,1730
+DZA,Algeria,2003,1920
+DZA,Algeria,2004,2250
+DZA,Algeria,2005,2710
+DZA,Algeria,2006,3100
+DZA,Algeria,2007,3600
+DZA,Algeria,2008,4220
+DZA,Algeria,2009,4290
+DZA,Algeria,2010,4480
+DZA,Algeria,2011,4600
+DZA,Algeria,2012,5170
+DZA,Algeria,2013,5510
+DZA,Algeria,2014,5490
+DZA,Algeria,2015,4850
+DZA,Algeria,2016,4370
+DZA,Algeria,2017,3940
+DZA,Algeria,2018,3980
+DZA,Algeria,2019,4010
+DZA,Algeria,2020,3550
+ECU,Ecuador,1987,1640
+ECU,Ecuador,1988,1510
+ECU,Ecuador,1989,1360
+ECU,Ecuador,1990,1370
+ECU,Ecuador,1991,1480
+ECU,Ecuador,1992,1600
+ECU,Ecuador,1993,1670
+ECU,Ecuador,1994,1820
+ECU,Ecuador,1995,1970
+ECU,Ecuador,1996,2080
+ECU,Ecuador,1997,2180
+ECU,Ecuador,1998,2160
+ECU,Ecuador,1999,1780
+ECU,Ecuador,2000,1550
+ECU,Ecuador,2001,1550
+ECU,Ecuador,2002,1730
+ECU,Ecuador,2003,2110
+ECU,Ecuador,2004,2550
+ECU,Ecuador,2005,2880
+ECU,Ecuador,2006,3100
+ECU,Ecuador,2007,3310
+ECU,Ecuador,2008,3860
+ECU,Ecuador,2009,4060
+ECU,Ecuador,2010,4390
+ECU,Ecuador,2011,4870
+ECU,Ecuador,2012,5390
+ECU,Ecuador,2013,5810
+ECU,Ecuador,2014,6110
+ECU,Ecuador,2015,5970
+ECU,Ecuador,2016,5810
+ECU,Ecuador,2017,5860
+ECU,Ecuador,2018,6090
+ECU,Ecuador,2019,6100
+ECU,Ecuador,2020,5530
+EGY,"Egypt, Arab Rep.",1987,870
+EGY,"Egypt, Arab Rep.",1988,840
+EGY,"Egypt, Arab Rep.",1989,780
+EGY,"Egypt, Arab Rep.",1990,760
+EGY,"Egypt, Arab Rep.",1991,750
+EGY,"Egypt, Arab Rep.",1992,750
+EGY,"Egypt, Arab Rep.",1993,760
+EGY,"Egypt, Arab Rep.",1994,820
+EGY,"Egypt, Arab Rep.",1995,920
+EGY,"Egypt, Arab Rep.",1996,1020
+EGY,"Egypt, Arab Rep.",1997,1130
+EGY,"Egypt, Arab Rep.",1998,1210
+EGY,"Egypt, Arab Rep.",1999,1310
+EGY,"Egypt, Arab Rep.",2000,1420
+EGY,"Egypt, Arab Rep.",2001,1430
+EGY,"Egypt, Arab Rep.",2002,1330
+EGY,"Egypt, Arab Rep.",2003,1240
+EGY,"Egypt, Arab Rep.",2004,1200
+EGY,"Egypt, Arab Rep.",2005,1220
+EGY,"Egypt, Arab Rep.",2006,1320
+EGY,"Egypt, Arab Rep.",2007,1530
+EGY,"Egypt, Arab Rep.",2008,1840
+EGY,"Egypt, Arab Rep.",2009,2120
+EGY,"Egypt, Arab Rep.",2010,2370
+EGY,"Egypt, Arab Rep.",2011,2560
+EGY,"Egypt, Arab Rep.",2012,2840
+EGY,"Egypt, Arab Rep.",2013,3030
+EGY,"Egypt, Arab Rep.",2014,3230
+EGY,"Egypt, Arab Rep.",2015,3340
+EGY,"Egypt, Arab Rep.",2016,3440
+EGY,"Egypt, Arab Rep.",2017,3030
+EGY,"Egypt, Arab Rep.",2018,2790
+EGY,"Egypt, Arab Rep.",2019,2690
+EGY,"Egypt, Arab Rep.",2020,3000
+ERI,Eritrea,1994,270
+ERI,Eritrea,1995,270
+ERI,Eritrea,1996,300
+ERI,Eritrea,1997,320
+ERI,Eritrea,1998,330
+ERI,Eritrea,1999,310
+ERI,Eritrea,2000,300
+ERI,Eritrea,2001,310
+ERI,Eritrea,2002,300
+ERI,Eritrea,2003,300
+ERI,Eritrea,2004,340
+ERI,Eritrea,2005,390
+ERI,Eritrea,2006,410
+ERI,Eritrea,2007,420
+ERI,Eritrea,2008,410
+ERI,Eritrea,2009,480
+ERI,Eritrea,2010,510
+ERI,Eritrea,2011,600
+ESP,Spain,1987,40
+ESP,Spain,1988,60
+ESP,Spain,1989,60
+ESP,Spain,1990,70
+ESP,Spain,1991,80
+ESP,Spain,1992,90
+ESP,Spain,1993,90
+ESP,Spain,1994,90
+ESP,Spain,1995,90
+ESP,Spain,1996,90
+ESP,Spain,1997,100
+ESP,Spain,1998,90
+ESP,Spain,1999,140
+ESP,Spain,2000,290
+ESP,Spain,2001,15540
+ESP,Spain,2002,15630
+ESP,Spain,2003,18080
+ESP,Spain,2004,22130
+ESP,Spain,2005,25910
+ESP,Spain,2006,27850
+ESP,Spain,2007,29770
+ESP,Spain,2008,32250
+ESP,Spain,2009,32560
+ESP,Spain,2010,31970
+ESP,Spain,2011,31020
+ESP,Spain,2012,29540
+ESP,Spain,2013,29230
+ESP,Spain,2014,29140
+ESP,Spain,2015,28450
+ESP,Spain,2016,27550
+ESP,Spain,2017,27100
+ESP,Spain,2018,29360
+ESP,Spain,2019,30360
+EST,Estonia,2012,2780
+EST,Estonia,2013,18260
+EST,Estonia,2014,19000
+EST,Estonia,2015,18700
+EST,Estonia,2016,18430
+EST,Estonia,2017,18850
+EST,Estonia,2018,21340
+EST,Estonia,2019,23250
+ETH,Ethiopia,1987,280
+ETH,Ethiopia,1988,270
+ETH,Ethiopia,1989,260
+ETH,Ethiopia,1990,260
+ETH,Ethiopia,1991,250
+ETH,Ethiopia,1992,220
+ETH,Ethiopia,1993,210
+ETH,Ethiopia,1994,160
+ETH,Ethiopia,1995,150
+ETH,Ethiopia,1996,150
+ETH,Ethiopia,1997,140
+ETH,Ethiopia,1998,130
+ETH,Ethiopia,1999,120
+ETH,Ethiopia,2000,130
+ETH,Ethiopia,2001,130
+ETH,Ethiopia,2002,120
+ETH,Ethiopia,2003,110
+ETH,Ethiopia,2004,140
+ETH,Ethiopia,2005,160
+ETH,Ethiopia,2006,180
+ETH,Ethiopia,2007,220
+ETH,Ethiopia,2008,280
+ETH,Ethiopia,2009,340
+ETH,Ethiopia,2010,380
+ETH,Ethiopia,2011,390
+ETH,Ethiopia,2012,410
+ETH,Ethiopia,2013,470
+ETH,Ethiopia,2014,550
+ETH,Ethiopia,2015,600
+ETH,Ethiopia,2016,670
+ETH,Ethiopia,2017,740
+ETH,Ethiopia,2018,800
+ETH,Ethiopia,2019,850
+ETH,Ethiopia,2020,890
+FIN,Finland,1987,2770
+FIN,Finland,1988,3620
+FIN,Finland,1989,4050
+FIN,Finland,1990,4370
+FIN,Finland,1991,4220
+FIN,Finland,1992,4070
+FIN,Finland,1993,3480
+FIN,Finland,1994,3390
+FIN,Finland,1995,3700
+FIN,Finland,1996,4200
+FIN,Finland,1997,4490
+FIN,Finland,1998,4340
+FIN,Finland,1999,6070
+FIN,Finland,2000,10380
+FIN,Finland,2001,25850
+FIN,Finland,2002,25620
+FIN,Finland,2003,28800
+FIN,Finland,2004,35380
+FIN,Finland,2005,40230
+FIN,Finland,2006,42840
+FIN,Finland,2007,46190
+FIN,Finland,2008,50160
+FIN,Finland,2009,48950
+FIN,Finland,2010,49750
+FIN,Finland,2011,50260
+FIN,Finland,2012,48970
+FIN,Finland,2013,49510
+FIN,Finland,2014,49420
+FIN,Finland,2015,47180
+FIN,Finland,2016,45530
+FIN,Finland,2017,44840
+FIN,Finland,2018,48290
+FIN,Finland,2019,50010
+FIN,Finland,2020,49620
+FJI,Fiji,1987,1770
+FJI,Fiji,1988,1790
+FJI,Fiji,1989,1790
+FJI,Fiji,1990,1790
+FJI,Fiji,1991,1790
+FJI,Fiji,1992,1990
+FJI,Fiji,1993,2090
+FJI,Fiji,1994,2230
+FJI,Fiji,1995,2460
+FJI,Fiji,1996,2660
+FJI,Fiji,1997,2580
+FJI,Fiji,1998,2290
+FJI,Fiji,1999,2350
+FJI,Fiji,2000,2230
+FJI,Fiji,2001,2140
+FJI,Fiji,2002,2160
+FJI,Fiji,2003,2410
+FJI,Fiji,2004,3020
+FJI,Fiji,2005,3570
+FJI,Fiji,2006,3590
+FJI,Fiji,2007,3790
+FJI,Fiji,2008,3980
+FJI,Fiji,2009,3850
+FJI,Fiji,2010,3650
+FJI,Fiji,2011,3770
+FJI,Fiji,2012,4140
+FJI,Fiji,2013,4710
+FJI,Fiji,2014,5020
+FJI,Fiji,2015,5100
+FJI,Fiji,2016,5280
+FJI,Fiji,2017,5370
+FJI,Fiji,2018,5910
+FJI,Fiji,2019,5800
+FJI,Fiji,2020,4720
+FRA,France,1987,2200
+FRA,France,1988,2820
+FRA,France,1989,2970
+FRA,France,1990,3150
+FRA,France,1991,3260
+FRA,France,1992,3630
+FRA,France,1993,3600
+FRA,France,1994,3720
+FRA,France,1995,3920
+FRA,France,1996,4130
+FRA,France,1997,4110
+FRA,France,1998,3940
+FRA,France,1999,5420
+FRA,France,2000,9130
+FRA,France,2001,23870
+FRA,France,2002,23150
+FRA,France,2003,26000
+FRA,France,2004,31460
+FRA,France,2005,35920
+FRA,France,2006,37890
+FRA,France,2007,40160
+FRA,France,2008,43540
+FRA,France,2009,44070
+FRA,France,2010,43970
+FRA,France,2011,44440
+FRA,France,2012,43410
+FRA,France,2013,43800
+FRA,France,2014,43340
+FRA,France,2015,41130
+FRA,France,2016,39100
+FRA,France,2017,38320
+FRA,France,2018,41130
+FRA,France,2019,42330
+FSM,"Micronesia, Fed. Sts.",1993,2120
+FSM,"Micronesia, Fed. Sts.",1994,2130
+FSM,"Micronesia, Fed. Sts.",1995,2200
+FSM,"Micronesia, Fed. Sts.",1996,2140
+FSM,"Micronesia, Fed. Sts.",1997,1930
+FSM,"Micronesia, Fed. Sts.",1998,1950
+FSM,"Micronesia, Fed. Sts.",1999,2050
+FSM,"Micronesia, Fed. Sts.",2000,2210
+FSM,"Micronesia, Fed. Sts.",2001,2260
+FSM,"Micronesia, Fed. Sts.",2002,2270
+FSM,"Micronesia, Fed. Sts.",2003,2380
+FSM,"Micronesia, Fed. Sts.",2004,2440
+FSM,"Micronesia, Fed. Sts.",2005,2560
+FSM,"Micronesia, Fed. Sts.",2006,2560
+FSM,"Micronesia, Fed. Sts.",2007,2570
+FSM,"Micronesia, Fed. Sts.",2008,2590
+FSM,"Micronesia, Fed. Sts.",2009,2820
+FSM,"Micronesia, Fed. Sts.",2010,2900
+FSM,"Micronesia, Fed. Sts.",2011,3070
+FSM,"Micronesia, Fed. Sts.",2012,3150
+FSM,"Micronesia, Fed. Sts.",2013,3180
+FSM,"Micronesia, Fed. Sts.",2014,3150
+FSM,"Micronesia, Fed. Sts.",2015,3490
+FSM,"Micronesia, Fed. Sts.",2016,3410
+FSM,"Micronesia, Fed. Sts.",2017,3450
+FSM,"Micronesia, Fed. Sts.",2018,3400
+FSM,"Micronesia, Fed. Sts.",2019,4010
+GAB,Gabon,1987,3430
+GAB,Gabon,1988,4150
+GAB,Gabon,1989,4580
+GAB,Gabon,1990,4820
+GAB,Gabon,1991,5170
+GAB,Gabon,1992,5120
+GAB,Gabon,1993,4430
+GAB,Gabon,1994,4130
+GAB,Gabon,1995,3910
+GAB,Gabon,1996,4100
+GAB,Gabon,1997,4270
+GAB,Gabon,1998,3940
+GAB,Gabon,1999,3280
+GAB,Gabon,2000,3100
+GAB,Gabon,2001,3430
+GAB,Gabon,2002,3610
+GAB,Gabon,2003,3880
+GAB,Gabon,2004,4310
+GAB,Gabon,2005,5520
+GAB,Gabon,2006,5740
+GAB,Gabon,2007,6590
+GAB,Gabon,2008,7320
+GAB,Gabon,2009,7590
+GAB,Gabon,2010,7850
+GAB,Gabon,2011,8120
+GAB,Gabon,2012,9090
+GAB,Gabon,2013,9330
+GAB,Gabon,2014,9330
+GAB,Gabon,2015,7970
+GAB,Gabon,2016,7080
+GAB,Gabon,2017,6510
+GAB,Gabon,2018,6830
+GAB,Gabon,2019,7170
+GAB,Gabon,2020,6970
+GBR,United Kingdom,1987,12680
+GBR,United Kingdom,1988,16130
+GBR,United Kingdom,1989,17350
+GBR,United Kingdom,1990,18530
+GBR,United Kingdom,1991,19350
+GBR,United Kingdom,1992,21440
+GBR,United Kingdom,1993,21320
+GBR,United Kingdom,1994,21850
+GBR,United Kingdom,1995,21080
+GBR,United Kingdom,1996,22790
+GBR,United Kingdom,1997,25480
+GBR,United Kingdom,1998,26920
+GBR,United Kingdom,1999,28130
+GBR,United Kingdom,2000,29230
+GBR,United Kingdom,2001,28970
+GBR,United Kingdom,2002,29180
+GBR,United Kingdom,2003,32250
+GBR,United Kingdom,2004,37770
+GBR,United Kingdom,2005,42740
+GBR,United Kingdom,2006,45060
+GBR,United Kingdom,2007,47500
+GBR,United Kingdom,2008,48480
+GBR,United Kingdom,2009,44230
+GBR,United Kingdom,2010,41740
+GBR,United Kingdom,2011,41060
+GBR,United Kingdom,2012,41690
+GBR,United Kingdom,2013,42730
+GBR,United Kingdom,2014,44400
+GBR,United Kingdom,2015,44340
+GBR,United Kingdom,2016,42940
+GBR,United Kingdom,2017,41280
+GBR,United Kingdom,2018,41740
+GBR,United Kingdom,2019,42130
+GEO,Georgia,1992,2260
+GEO,Georgia,1993,1610
+GEO,Georgia,1994,760
+GEO,Georgia,1995,550
+GEO,Georgia,1996,670
+GEO,Georgia,1997,820
+GEO,Georgia,1998,870
+GEO,Georgia,1999,840
+GEO,Georgia,2000,790
+GEO,Georgia,2001,780
+GEO,Georgia,2002,840
+GEO,Georgia,2003,990
+GEO,Georgia,2004,1210
+GEO,Georgia,2005,1520
+GEO,Georgia,2006,1910
+GEO,Georgia,2007,2380
+GEO,Georgia,2008,2820
+GEO,Georgia,2009,2950
+GEO,Georgia,2010,3210
+GEO,Georgia,2011,3520
+GEO,Georgia,2012,4150
+GEO,Georgia,2013,4530
+GEO,Georgia,2014,4740
+GEO,Georgia,2015,4410
+GEO,Georgia,2016,4080
+GEO,Georgia,2017,4040
+GEO,Georgia,2018,4460
+GEO,Georgia,2019,4690
+GEO,Georgia,2020,4290
+GHA,Ghana,1987,420
+GHA,Ghana,1988,440
+GHA,Ghana,1989,400
+GHA,Ghana,1990,400
+GHA,Ghana,1991,410
+GHA,Ghana,1992,430
+GHA,Ghana,1993,420
+GHA,Ghana,1994,370
+GHA,Ghana,1995,370
+GHA,Ghana,1996,380
+GHA,Ghana,1997,390
+GHA,Ghana,1998,390
+GHA,Ghana,1999,390
+GHA,Ghana,2000,340
+GHA,Ghana,2001,300
+GHA,Ghana,2002,270
+GHA,Ghana,2003,320
+GHA,Ghana,2004,380
+GHA,Ghana,2005,460
+GHA,Ghana,2006,600
+GHA,Ghana,2007,790
+GHA,Ghana,2008,1150
+GHA,Ghana,2009,1190
+GHA,Ghana,2010,1240
+GHA,Ghana,2011,1380
+GHA,Ghana,2012,1530
+GHA,Ghana,2013,1840
+GHA,Ghana,2014,1960
+GHA,Ghana,2015,1950
+GHA,Ghana,2016,1790
+GHA,Ghana,2017,1870
+GHA,Ghana,2018,2120
+GHA,Ghana,2019,2210
+GHA,Ghana,2020,2230
+GIN,Guinea,1988,400
+GIN,Guinea,1989,390
+GIN,Guinea,1990,410
+GIN,Guinea,1991,420
+GIN,Guinea,1992,460
+GIN,Guinea,1993,490
+GIN,Guinea,1994,500
+GIN,Guinea,1995,500
+GIN,Guinea,1996,510
+GIN,Guinea,1997,510
+GIN,Guinea,1998,470
+GIN,Guinea,1999,450
+GIN,Guinea,2000,400
+GIN,Guinea,2001,360
+GIN,Guinea,2002,350
+GIN,Guinea,2003,340
+GIN,Guinea,2004,370
+GIN,Guinea,2005,360
+GIN,Guinea,2006,400
+GIN,Guinea,2007,470
+GIN,Guinea,2008,620
+GIN,Guinea,2009,670
+GIN,Guinea,2010,690
+GIN,Guinea,2011,680
+GIN,Guinea,2012,700
+GIN,Guinea,2013,700
+GIN,Guinea,2014,740
+GIN,Guinea,2015,760
+GIN,Guinea,2016,780
+GIN,Guinea,2017,820
+GIN,Guinea,2018,860
+GIN,Guinea,2019,950
+GIN,Guinea,2020,1020
+GMB,"Gambia, The",1987,320
+GMB,"Gambia, The",1988,300
+GMB,"Gambia, The",1989,300
+GMB,"Gambia, The",1990,310
+GMB,"Gambia, The",1991,400
+GMB,"Gambia, The",1992,520
+GMB,"Gambia, The",1993,710
+GMB,"Gambia, The",1994,690
+GMB,"Gambia, The",1995,690
+GMB,"Gambia, The",1996,700
+GMB,"Gambia, The",1997,690
+GMB,"Gambia, The",1998,660
+GMB,"Gambia, The",1999,640
+GMB,"Gambia, The",2000,620
+GMB,"Gambia, The",2001,560
+GMB,"Gambia, The",2002,440
+GMB,"Gambia, The",2003,390
+GMB,"Gambia, The",2004,470
+GMB,"Gambia, The",2005,520
+GMB,"Gambia, The",2006,640
+GMB,"Gambia, The",2007,700
+GMB,"Gambia, The",2008,810
+GMB,"Gambia, The",2009,880
+GMB,"Gambia, The",2010,890
+GMB,"Gambia, The",2011,760
+GMB,"Gambia, The",2012,760
+GMB,"Gambia, The",2013,730
+GMB,"Gambia, The",2014,650
+GMB,"Gambia, The",2015,620
+GMB,"Gambia, The",2016,620
+GMB,"Gambia, The",2017,660
+GMB,"Gambia, The",2018,720
+GMB,"Gambia, The",2019,750
+GMB,"Gambia, The",2020,750
+GNB,Guinea-Bissau,1987,170
+GNB,Guinea-Bissau,1988,180
+GNB,Guinea-Bissau,1989,210
+GNB,Guinea-Bissau,1990,220
+GNB,Guinea-Bissau,1991,240
+GNB,Guinea-Bissau,1992,240
+GNB,Guinea-Bissau,1993,230
+GNB,Guinea-Bissau,1994,220
+GNB,Guinea-Bissau,1995,220
+GNB,Guinea-Bissau,1996,240
+GNB,Guinea-Bissau,1997,240
+GNB,Guinea-Bissau,1998,160
+GNB,Guinea-Bissau,1999,160
+GNB,Guinea-Bissau,2000,210
+GNB,Guinea-Bissau,2001,250
+GNB,Guinea-Bissau,2002,300
+GNB,Guinea-Bissau,2003,330
+GNB,Guinea-Bissau,2004,380
+GNB,Guinea-Bissau,2005,430
+GNB,Guinea-Bissau,2006,440
+GNB,Guinea-Bissau,2007,470
+GNB,Guinea-Bissau,2008,510
+GNB,Guinea-Bissau,2009,560
+GNB,Guinea-Bissau,2010,580
+GNB,Guinea-Bissau,2011,640
+GNB,Guinea-Bissau,2012,630
+GNB,Guinea-Bissau,2013,640
+GNB,Guinea-Bissau,2014,640
+GNB,Guinea-Bissau,2015,640
+GNB,Guinea-Bissau,2016,650
+GNB,Guinea-Bissau,2017,680
+GNB,Guinea-Bissau,2018,720
+GNB,Guinea-Bissau,2019,800
+GNB,Guinea-Bissau,2020,760
+GNQ,Equatorial Guinea,1987,210
+GNQ,Equatorial Guinea,1988,250
+GNQ,Equatorial Guinea,1989,230
+GNQ,Equatorial Guinea,1990,260
+GNQ,Equatorial Guinea,1991,270
+GNQ,Equatorial Guinea,1992,380
+GNQ,Equatorial Guinea,1993,370
+GNQ,Equatorial Guinea,1994,270
+GNQ,Equatorial Guinea,1995,250
+GNQ,Equatorial Guinea,1996,360
+GNQ,Equatorial Guinea,1997,870
+GNQ,Equatorial Guinea,1998,700
+GNQ,Equatorial Guinea,1999,820
+GNQ,Equatorial Guinea,2000,770
+GNQ,Equatorial Guinea,2001,900
+GNQ,Equatorial Guinea,2002,1270
+GNQ,Equatorial Guinea,2003,1190
+GNQ,Equatorial Guinea,2004,1720
+GNQ,Equatorial Guinea,2005,3890
+GNQ,Equatorial Guinea,2006,8110
+GNQ,Equatorial Guinea,2007,11600
+GNQ,Equatorial Guinea,2008,14250
+GNQ,Equatorial Guinea,2009,12530
+GNQ,Equatorial Guinea,2010,9970
+GNQ,Equatorial Guinea,2011,11540
+GNQ,Equatorial Guinea,2012,13870
+GNQ,Equatorial Guinea,2013,14030
+GNQ,Equatorial Guinea,2014,13230
+GNQ,Equatorial Guinea,2015,10850
+GNQ,Equatorial Guinea,2016,8270
+GNQ,Equatorial Guinea,2017,6510
+GNQ,Equatorial Guinea,2018,6730
+GNQ,Equatorial Guinea,2019,6280
+GNQ,Equatorial Guinea,2020,5810
+GRC,Greece,2006,24570
+GRC,Greece,2007,26370
+GRC,Greece,2008,28710
+GRC,Greece,2009,29420
+GRC,Greece,2010,27610
+GRC,Greece,2011,24560
+GRC,Greece,2012,23180
+GRC,Greece,2013,22380
+GRC,Greece,2014,22010
+GRC,Greece,2015,20150
+GRC,Greece,2016,18610
+GRC,Greece,2017,17970
+GRC,Greece,2018,19070
+GRC,Greece,2019,19710
+GRD,Grenada,1987,2200
+GRD,Grenada,1988,2490
+GRD,Grenada,1989,2670
+GRD,Grenada,1990,2840
+GRD,Grenada,1991,3040
+GRD,Grenada,1992,3140
+GRD,Grenada,1993,3120
+GRD,Grenada,1994,3210
+GRD,Grenada,1995,3310
+GRD,Grenada,1996,3500
+GRD,Grenada,1997,3660
+GRD,Grenada,1998,3990
+GRD,Grenada,1999,4310
+GRD,Grenada,2000,4610
+GRD,Grenada,2001,4510
+GRD,Grenada,2002,4650
+GRD,Grenada,2003,5290
+GRD,Grenada,2004,5350
+GRD,Grenada,2005,6650
+GRD,Grenada,2006,6430
+GRD,Grenada,2007,6830
+GRD,Grenada,2008,7260
+GRD,Grenada,2009,6720
+GRD,Grenada,2010,6940
+GRD,Grenada,2011,7060
+GRD,Grenada,2012,7030
+GRD,Grenada,2013,7350
+GRD,Grenada,2014,7520
+GRD,Grenada,2015,7750
+GRD,Grenada,2016,8350
+GRD,Grenada,2017,8740
+GRD,Grenada,2018,9560
+GRD,Grenada,2019,9830
+GRD,Grenada,2020,8740
+GRL,Greenland,1987,11470
+GRL,Greenland,1988,15170
+GRL,Greenland,1989,16970
+GRL,Greenland,1990,15690
+GRL,Greenland,1991,16510
+GRL,Greenland,1992,17440
+GRL,Greenland,1993,16600
+GRL,Greenland,1994,17830
+GRL,Greenland,1995,19470
+GRL,Greenland,1996,20780
+GRL,Greenland,1997,20540
+GRL,Greenland,1998,20440
+GRL,Greenland,1999,19740
+GRL,Greenland,2000,20290
+GRL,Greenland,2001,19390
+GRL,Greenland,2002,18760
+GRL,Greenland,2003,20440
+GRL,Greenland,2004,25730
+GRL,Greenland,2005,30920
+GRL,Greenland,2006,30240
+GRL,Greenland,2007,34800
+GTM,Guatemala,1987,1020
+GTM,Guatemala,1988,980
+GTM,Guatemala,1989,980
+GTM,Guatemala,1990,930
+GTM,Guatemala,1991,970
+GTM,Guatemala,1992,1030
+GTM,Guatemala,1993,1140
+GTM,Guatemala,1994,1230
+GTM,Guatemala,1995,1360
+GTM,Guatemala,1996,1440
+GTM,Guatemala,1997,1530
+GTM,Guatemala,1998,1610
+GTM,Guatemala,1999,1650
+GTM,Guatemala,2000,1670
+GTM,Guatemala,2001,1600
+GTM,Guatemala,2002,1600
+GTM,Guatemala,2003,1670
+GTM,Guatemala,2004,1850
+GTM,Guatemala,2005,2000
+GTM,Guatemala,2006,2150
+GTM,Guatemala,2007,2370
+GTM,Guatemala,2008,2610
+GTM,Guatemala,2009,2650
+GTM,Guatemala,2010,2730
+GTM,Guatemala,2011,2910
+GTM,Guatemala,2012,3160
+GTM,Guatemala,2013,3380
+GTM,Guatemala,2014,3550
+GTM,Guatemala,2015,3700
+GTM,Guatemala,2016,3870
+GTM,Guatemala,2017,4100
+GTM,Guatemala,2018,4400
+GTM,Guatemala,2019,4610
+GTM,Guatemala,2020,4490
+GUY,Guyana,1987,460
+GUY,Guyana,1988,470
+GUY,Guyana,1989,360
+GUY,Guyana,1990,400
+GUY,Guyana,1991,330
+GUY,Guyana,1992,390
+GUY,Guyana,1993,460
+GUY,Guyana,1994,570
+GUY,Guyana,1995,670
+GUY,Guyana,1996,830
+GUY,Guyana,1997,890
+GUY,Guyana,1998,880
+GUY,Guyana,1999,860
+GUY,Guyana,2000,890
+GUY,Guyana,2001,880
+GUY,Guyana,2002,890
+GUY,Guyana,2003,940
+GUY,Guyana,2004,1030
+GUY,Guyana,2005,1090
+GUY,Guyana,2006,1470
+GUY,Guyana,2007,2280
+GUY,Guyana,2008,3850
+GUY,Guyana,2009,4190
+GUY,Guyana,2010,4510
+GUY,Guyana,2011,4820
+GUY,Guyana,2012,5290
+GUY,Guyana,2013,5540
+GUY,Guyana,2014,5570
+GUY,Guyana,2015,5470
+GUY,Guyana,2016,5600
+GUY,Guyana,2017,5910
+GUY,Guyana,2018,6290
+GUY,Guyana,2019,6630
+GUY,Guyana,2020,6600
+HKG,"Hong Kong SAR, China",1987,9080
+HKG,"Hong Kong SAR, China",1988,10770
+HKG,"Hong Kong SAR, China",1989,11550
+HKG,"Hong Kong SAR, China",1990,12660
+HKG,"Hong Kong SAR, China",1991,14320
+HKG,"Hong Kong SAR, China",1992,16560
+HKG,"Hong Kong SAR, China",1993,19560
+HKG,"Hong Kong SAR, China",1994,21820
+HKG,"Hong Kong SAR, China",1995,23570
+HKG,"Hong Kong SAR, China",1996,24140
+HKG,"Hong Kong SAR, China",1997,26080
+HKG,"Hong Kong SAR, China",1998,25110
+HKG,"Hong Kong SAR, China",1999,25800
+HKG,"Hong Kong SAR, China",2000,26930
+HKG,"Hong Kong SAR, China",2001,26350
+HKG,"Hong Kong SAR, China",2002,25270
+HKG,"Hong Kong SAR, China",2003,26340
+HKG,"Hong Kong SAR, China",2004,28120
+HKG,"Hong Kong SAR, China",2005,28890
+HKG,"Hong Kong SAR, China",2006,30290
+HKG,"Hong Kong SAR, China",2007,32070
+HKG,"Hong Kong SAR, China",2008,33950
+HKG,"Hong Kong SAR, China",2009,32350
+HKG,"Hong Kong SAR, China",2010,33620
+HKG,"Hong Kong SAR, China",2011,35690
+HKG,"Hong Kong SAR, China",2012,36340
+HKG,"Hong Kong SAR, China",2013,38570
+HKG,"Hong Kong SAR, China",2014,40240
+HKG,"Hong Kong SAR, China",2015,41180
+HKG,"Hong Kong SAR, China",2016,42970
+HKG,"Hong Kong SAR, China",2017,46390
+HKG,"Hong Kong SAR, China",2018,50060
+HKG,"Hong Kong SAR, China",2019,50480
+HKG,"Hong Kong SAR, China",2020,48630
+HND,Honduras,1987,1410
+HND,Honduras,1988,1410
+HND,Honduras,1989,1270
+HND,Honduras,1990,1110
+HND,Honduras,1991,940
+HND,Honduras,1992,930
+HND,Honduras,1993,950
+HND,Honduras,1994,880
+HND,Honduras,1995,900
+HND,Honduras,1996,870
+HND,Honduras,1997,910
+HND,Honduras,1998,910
+HND,Honduras,1999,930
+HND,Honduras,2000,1020
+HND,Honduras,2001,1050
+HND,Honduras,2002,1070
+HND,Honduras,2003,1130
+HND,Honduras,2004,1210
+HND,Honduras,2005,1290
+HND,Honduras,2006,1360
+HND,Honduras,2007,1490
+HND,Honduras,2008,1630
+HND,Honduras,2009,1670
+HND,Honduras,2010,1740
+HND,Honduras,2011,1880
+HND,Honduras,2012,1970
+HND,Honduras,2013,2010
+HND,Honduras,2014,2010
+HND,Honduras,2015,2060
+HND,Honduras,2016,2120
+HND,Honduras,2017,2250
+HND,Honduras,2018,2330
+HND,Honduras,2019,2390
+HND,Honduras,2020,2200
+HRV,Croatia,1997,5520
+HRV,Croatia,1998,5430
+HRV,Croatia,1999,5180
+HRV,Croatia,2000,5210
+HRV,Croatia,2001,5290
+HRV,Croatia,2002,5600
+HRV,Croatia,2003,6670
+HRV,Croatia,2004,8520
+HRV,Croatia,2005,10150
+HRV,Croatia,2006,11310
+HRV,Croatia,2007,12670
+HRV,Croatia,2008,14250
+HRV,Croatia,2009,14110
+HRV,Croatia,2010,14090
+HRV,Croatia,2011,14040
+HRV,Croatia,2012,13440
+HRV,Croatia,2013,13580
+HRV,Croatia,2014,13260
+HRV,Croatia,2015,12970
+HRV,Croatia,2016,12380
+HRV,Croatia,2017,12680
+HRV,Croatia,2018,14080
+HRV,Croatia,2019,14990
+HRV,Croatia,2020,14190
+HTI,Haiti,1987,340
+HTI,Haiti,1988,380
+HTI,Haiti,1989,370
+HTI,Haiti,1990,420
+HTI,Haiti,1991,450
+HTI,Haiti,1992,390
+HTI,Haiti,1993,310
+HTI,Haiti,1994,260
+HTI,Haiti,1995,310
+HTI,Haiti,1996,360
+HTI,Haiti,1997,390
+HTI,Haiti,1998,400
+HTI,Haiti,1999,450
+HTI,Haiti,2000,550
+HTI,Haiti,2001,640
+HTI,Haiti,2002,730
+HTI,Haiti,2003,670
+HTI,Haiti,2004,660
+HTI,Haiti,2005,700
+HTI,Haiti,2006,780
+HTI,Haiti,2007,890
+HTI,Haiti,2008,990
+HTI,Haiti,2009,1140
+HTI,Haiti,2010,1120
+HTI,Haiti,2011,1230
+HTI,Haiti,2012,1300
+HTI,Haiti,2013,1370
+HTI,Haiti,2014,1410
+HTI,Haiti,2015,1390
+HTI,Haiti,2016,1330
+HTI,Haiti,2017,1310
+HTI,Haiti,2018,1360
+HTI,Haiti,2019,1330
+HTI,Haiti,2020,1250
+HUN,Hungary,1993,3660
+HUN,Hungary,1994,4030
+HUN,Hungary,1995,4250
+HUN,Hungary,1996,4370
+HUN,Hungary,1997,4400
+HUN,Hungary,1998,4410
+HUN,Hungary,1999,4490
+HUN,Hungary,2000,4620
+HUN,Hungary,2001,4790
+HUN,Hungary,2002,5290
+HUN,Hungary,2003,6630
+HUN,Hungary,2004,8640
+HUN,Hungary,2005,10360
+HUN,Hungary,2006,11230
+HUN,Hungary,2007,11750
+HUN,Hungary,2008,13230
+HUN,Hungary,2009,13380
+HUN,Hungary,2010,13260
+HUN,Hungary,2011,13250
+HUN,Hungary,2012,13060
+HUN,Hungary,2013,13500
+HUN,Hungary,2014,13560
+HUN,Hungary,2015,13250
+HUN,Hungary,2016,13100
+HUN,Hungary,2017,13190
+HUN,Hungary,2018,15010
+HUN,Hungary,2019,16530
+IDN,Indonesia,1987,510
+IDN,Indonesia,1988,510
+IDN,Indonesia,1989,530
+IDN,Indonesia,1990,560
+IDN,Indonesia,1991,610
+IDN,Indonesia,1992,660
+IDN,Indonesia,1993,740
+IDN,Indonesia,1994,850
+IDN,Indonesia,1995,990
+IDN,Indonesia,1996,1090
+IDN,Indonesia,1997,1100
+IDN,Indonesia,1998,660
+IDN,Indonesia,1999,570
+IDN,Indonesia,2000,580
+IDN,Indonesia,2001,720
+IDN,Indonesia,2002,790
+IDN,Indonesia,2003,900
+IDN,Indonesia,2004,1080
+IDN,Indonesia,2005,1220
+IDN,Indonesia,2006,1380
+IDN,Indonesia,2007,1600
+IDN,Indonesia,2008,1940
+IDN,Indonesia,2009,2150
+IDN,Indonesia,2010,2530
+IDN,Indonesia,2011,3010
+IDN,Indonesia,2012,3580
+IDN,Indonesia,2013,3730
+IDN,Indonesia,2014,3620
+IDN,Indonesia,2015,3430
+IDN,Indonesia,2016,3400
+IDN,Indonesia,2017,3530
+IDN,Indonesia,2018,3840
+IDN,Indonesia,2019,4050
+IDN,Indonesia,2020,3870
+IMN,Isle of Man,1997,17050
+IMN,Isle of Man,1998,18800
+IMN,Isle of Man,1999,21310
+IMN,Isle of Man,2000,21880
+IMN,Isle of Man,2001,22480
+IMN,Isle of Man,2002,23780
+IMN,Isle of Man,2003,27790
+IMN,Isle of Man,2004,34170
+IMN,Isle of Man,2005,39600
+IMN,Isle of Man,2006,44420
+IMN,Isle of Man,2007,47220
+IMN,Isle of Man,2008,42870
+IMN,Isle of Man,2009,45990
+IMN,Isle of Man,2010,71570
+IMN,Isle of Man,2011,74390
+IMN,Isle of Man,2012,82210
+IMN,Isle of Man,2013,87840
+IMN,Isle of Man,2014,89000
+IMN,Isle of Man,2015,83990
+IMN,Isle of Man,2016,78860
+IMN,Isle of Man,2017,77890
+IMN,Isle of Man,2018,83160
+IND,India,1987,350
+IND,India,1988,390
+IND,India,1989,390
+IND,India,1990,380
+IND,India,1991,350
+IND,India,1992,340
+IND,India,1993,320
+IND,India,1994,340
+IND,India,1995,370
+IND,India,1996,400
+IND,India,1997,410
+IND,India,1998,410
+IND,India,1999,440
+IND,India,2000,440
+IND,India,2001,450
+IND,India,2002,460
+IND,India,2003,520
+IND,India,2004,610
+IND,India,2005,710
+IND,India,2006,790
+IND,India,2007,910
+IND,India,2008,1000
+IND,India,2009,1120
+IND,India,2010,1220
+IND,India,2011,1360
+IND,India,2012,1480
+IND,India,2013,1520
+IND,India,2014,1560
+IND,India,2015,1600
+IND,India,2016,1680
+IND,India,2017,1820
+IND,India,2018,2010
+IND,India,2019,2120
+IND,India,2020,1900
+IRL,Ireland,1987,10430
+IRL,Ireland,1988,13230
+IRL,Ireland,1989,14090
+IRL,Ireland,1990,15950
+IRL,Ireland,1991,16670
+IRL,Ireland,1992,18340
+IRL,Ireland,1993,18540
+IRL,Ireland,1994,19660
+IRL,Ireland,1995,21480
+IRL,Ireland,1996,23970
+IRL,Ireland,1997,26230
+IRL,Ireland,1998,27210
+IRL,Ireland,1999,26430
+IRL,Ireland,2000,25890
+IRL,Ireland,2001,24060
+IRL,Ireland,2002,24900
+IRL,Ireland,2003,29970
+IRL,Ireland,2004,37820
+IRL,Ireland,2005,44620
+IRL,Ireland,2006,47940
+IRL,Ireland,2007,50540
+IRL,Ireland,2008,51000
+IRL,Ireland,2009,46890
+IRL,Ireland,2010,44950
+IRL,Ireland,2011,42040
+IRL,Ireland,2012,40630
+IRL,Ireland,2013,43450
+IRL,Ireland,2014,46380
+IRL,Ireland,2015,50430
+IRL,Ireland,2016,51900
+IRL,Ireland,2017,53810
+IRL,Ireland,2018,60520
+IRL,Ireland,2019,63530
+IRN,"Iran, Islamic Rep.",1987,3470
+IRN,"Iran, Islamic Rep.",1988,2970
+IRN,"Iran, Islamic Rep.",1989,2530
+IRN,"Iran, Islamic Rep.",1990,2540
+IRN,"Iran, Islamic Rep.",1995,1290
+IRN,"Iran, Islamic Rep.",1996,1600
+IRN,"Iran, Islamic Rep.",1997,1790
+IRN,"Iran, Islamic Rep.",1998,1780
+IRN,"Iran, Islamic Rep.",1999,1740
+IRN,"Iran, Islamic Rep.",2000,1760
+IRN,"Iran, Islamic Rep.",2001,1790
+IRN,"Iran, Islamic Rep.",2002,1880
+IRN,"Iran, Islamic Rep.",2003,2200
+IRN,"Iran, Islamic Rep.",2004,2520
+IRN,"Iran, Islamic Rep.",2005,2960
+IRN,"Iran, Islamic Rep.",2006,3480
+IRN,"Iran, Islamic Rep.",2007,4270
+IRN,"Iran, Islamic Rep.",2008,4970
+IRN,"Iran, Islamic Rep.",2009,5560
+IRN,"Iran, Islamic Rep.",2010,6250
+IRN,"Iran, Islamic Rep.",2011,6870
+IRN,"Iran, Islamic Rep.",2012,7130
+IRN,"Iran, Islamic Rep.",2013,6990
+IRN,"Iran, Islamic Rep.",2014,6500
+IRN,"Iran, Islamic Rep.",2015,5370
+IRN,"Iran, Islamic Rep.",2016,5500
+IRN,"Iran, Islamic Rep.",2017,5420
+IRN,"Iran, Islamic Rep.",2018,4530
+IRN,"Iran, Islamic Rep.",2019,3640
+IRN,"Iran, Islamic Rep.",2020,2870
+IRQ,Iraq,1987,3540
+IRQ,Iraq,1988,3730
+IRQ,Iraq,1989,3730
+IRQ,Iraq,1990,7070
+IRQ,Iraq,1991,70
+IRQ,Iraq,1992,50
+IRQ,Iraq,1993,40
+IRQ,Iraq,1994,60
+IRQ,Iraq,1995,130
+IRQ,Iraq,1996,390
+IRQ,Iraq,1997,750
+IRQ,Iraq,1998,920
+IRQ,Iraq,1999,1290
+IRQ,Iraq,2000,1600
+IRQ,Iraq,2001,1730
+IRQ,Iraq,2002,1420
+IRQ,Iraq,2003,850
+IRQ,Iraq,2004,1370
+IRQ,Iraq,2005,1430
+IRQ,Iraq,2006,1820
+IRQ,Iraq,2007,2400
+IRQ,Iraq,2008,3550
+IRQ,Iraq,2009,4160
+IRQ,Iraq,2010,4580
+IRQ,Iraq,2011,4960
+IRQ,Iraq,2012,6310
+IRQ,Iraq,2013,7050
+IRQ,Iraq,2014,6750
+IRQ,Iraq,2015,5800
+IRQ,Iraq,2016,5340
+IRQ,Iraq,2017,4670
+IRQ,Iraq,2018,4840
+IRQ,Iraq,2019,5490
+IRQ,Iraq,2020,4660
+ISL,Iceland,1997,28480
+ISL,Iceland,1998,29270
+ISL,Iceland,1999,30400
+ISL,Iceland,2000,31540
+ISL,Iceland,2001,30700
+ISL,Iceland,2002,30930
+ISL,Iceland,2003,33710
+ISL,Iceland,2004,42020
+ISL,Iceland,2005,50520
+ISL,Iceland,2006,53450
+ISL,Iceland,2007,61880
+ISL,Iceland,2008,50060
+ISL,Iceland,2009,41860
+ISL,Iceland,2010,36270
+ISL,Iceland,2011,37610
+ISL,Iceland,2012,40690
+ISL,Iceland,2013,46960
+ISL,Iceland,2014,48090
+ISL,Iceland,2015,49940
+ISL,Iceland,2016,54910
+ISL,Iceland,2017,60230
+ISL,Iceland,2018,67760
+ISL,Iceland,2019,72930
+ISR,Israel,1997,18930
+ISR,Israel,1998,18780
+ISR,Israel,1999,18450
+ISR,Israel,2000,19200
+ISR,Israel,2001,19270
+ISR,Israel,2002,18600
+ISR,Israel,2003,18700
+ISR,Israel,2004,19960
+ISR,Israel,2005,21440
+ISR,Israel,2006,22330
+ISR,Israel,2007,23960
+ISR,Israel,2008,26140
+ISR,Israel,2009,27280
+ISR,Israel,2010,29660
+ISR,Israel,2011,31450
+ISR,Israel,2012,32220
+ISR,Israel,2013,34320
+ISR,Israel,2014,36020
+ISR,Israel,2015,36060
+ISR,Israel,2016,36340
+ISR,Israel,2017,37580
+ISR,Israel,2018,40840
+ISR,Israel,2019,43070
+ITA,Italy,1987,10
+ITA,Italy,1988,10
+ITA,Italy,1989,10
+ITA,Italy,1990,10
+ITA,Italy,1991,10
+ITA,Italy,1992,10
+ITA,Italy,1993,10
+ITA,Italy,1994,10
+ITA,Italy,1995,10
+ITA,Italy,1996,10
+ITA,Italy,1997,10
+ITA,Italy,1998,10
+ITA,Italy,1999,20
+ITA,Italy,2000,40
+ITA,Italy,2001,21190
+ITA,Italy,2002,20770
+ITA,Italy,2003,23410
+ITA,Italy,2004,28360
+ITA,Italy,2005,32480
+ITA,Italy,2006,34280
+ITA,Italy,2007,35930
+ITA,Italy,2008,37980
+ITA,Italy,2009,37990
+ITA,Italy,2010,37960
+ITA,Italy,2011,37980
+ITA,Italy,2012,36220
+ITA,Italy,2013,35570
+ITA,Italy,2014,34910
+ITA,Italy,2015,33000
+ITA,Italy,2016,31970
+ITA,Italy,2017,31370
+ITA,Italy,2018,33850
+ITA,Italy,2019,34860
+ITA,Italy,2020,32200
+JAM,Jamaica,1987,1170
+JAM,Jamaica,1988,1480
+JAM,Jamaica,1989,1690
+JAM,Jamaica,1990,1770
+JAM,Jamaica,1991,1740
+JAM,Jamaica,1992,1610
+JAM,Jamaica,1993,1840
+JAM,Jamaica,1994,1880
+JAM,Jamaica,1995,2290
+JAM,Jamaica,1996,2520
+JAM,Jamaica,1997,2760
+JAM,Jamaica,1998,2890
+JAM,Jamaica,1999,3120
+JAM,Jamaica,2000,3240
+JAM,Jamaica,2001,3240
+JAM,Jamaica,2002,3250
+JAM,Jamaica,2003,3440
+JAM,Jamaica,2004,3650
+JAM,Jamaica,2005,3800
+JAM,Jamaica,2006,4090
+JAM,Jamaica,2007,4320
+JAM,Jamaica,2008,4570
+JAM,Jamaica,2009,4330
+JAM,Jamaica,2010,4390
+JAM,Jamaica,2011,4590
+JAM,Jamaica,2012,4980
+JAM,Jamaica,2013,5010
+JAM,Jamaica,2014,4910
+JAM,Jamaica,2015,4700
+JAM,Jamaica,2016,4600
+JAM,Jamaica,2017,4750
+JAM,Jamaica,2018,5010
+JAM,Jamaica,2019,5260
+JAM,Jamaica,2020,4620
+JOR,Jordan,1987,2100
+JOR,Jordan,1988,2160
+JOR,Jordan,1989,1560
+JOR,Jordan,1990,1270
+JOR,Jordan,1991,1090
+JOR,Jordan,1992,1240
+JOR,Jordan,1993,1280
+JOR,Jordan,1994,1340
+JOR,Jordan,1995,1420
+JOR,Jordan,1996,1430
+JOR,Jordan,1997,1450
+JOR,Jordan,1998,1480
+JOR,Jordan,1999,1530
+JOR,Jordan,2000,1670
+JOR,Jordan,2001,1740
+JOR,Jordan,2002,1780
+JOR,Jordan,2003,1900
+JOR,Jordan,2004,2160
+JOR,Jordan,2005,2340
+JOR,Jordan,2006,2510
+JOR,Jordan,2007,2730
+JOR,Jordan,2008,3110
+JOR,Jordan,2009,3380
+JOR,Jordan,2010,3520
+JOR,Jordan,2011,3620
+JOR,Jordan,2012,3720
+JOR,Jordan,2013,3830
+JOR,Jordan,2014,3920
+JOR,Jordan,2015,3950
+JOR,Jordan,2016,4000
+JOR,Jordan,2017,4080
+JOR,Jordan,2018,4270
+JOR,Jordan,2019,4410
+JOR,Jordan,2020,4310
+JPN,Japan,1987,18180
+JPN,Japan,1988,24920
+JPN,Japan,1989,27010
+JPN,Japan,1990,27820
+JPN,Japan,1991,28580
+JPN,Japan,1992,30540
+JPN,Japan,1993,33350
+JPN,Japan,1994,36920
+JPN,Japan,1995,42090
+JPN,Japan,1996,43150
+JPN,Japan,1997,40040
+JPN,Japan,1998,34450
+JPN,Japan,1999,33780
+JPN,Japan,2000,36230
+JPN,Japan,2001,36770
+JPN,Japan,2002,34790
+JPN,Japan,2003,35070
+JPN,Japan,2004,38350
+JPN,Japan,2005,40560
+JPN,Japan,2006,39930
+JPN,Japan,2007,38740
+JPN,Japan,2008,38850
+JPN,Japan,2009,38800
+JPN,Japan,2010,43440
+JPN,Japan,2011,46880
+JPN,Japan,2012,49480
+JPN,Japan,2013,48280
+JPN,Japan,2014,43950
+JPN,Japan,2015,38840
+JPN,Japan,2016,37860
+JPN,Japan,2017,38490
+JPN,Japan,2018,41150
+JPN,Japan,2019,41580
+KAZ,Kazakhstan,1993,1430
+KAZ,Kazakhstan,1994,1310
+KAZ,Kazakhstan,1995,1280
+KAZ,Kazakhstan,1996,1340
+KAZ,Kazakhstan,1997,1390
+KAZ,Kazakhstan,1998,1390
+KAZ,Kazakhstan,1999,1290
+KAZ,Kazakhstan,2000,1270
+KAZ,Kazakhstan,2001,1360
+KAZ,Kazakhstan,2002,1530
+KAZ,Kazakhstan,2003,1810
+KAZ,Kazakhstan,2004,2300
+KAZ,Kazakhstan,2005,2930
+KAZ,Kazakhstan,2006,3860
+KAZ,Kazakhstan,2007,4980
+KAZ,Kazakhstan,2008,6110
+KAZ,Kazakhstan,2009,6790
+KAZ,Kazakhstan,2010,7440
+KAZ,Kazakhstan,2011,8280
+KAZ,Kazakhstan,2012,9940
+KAZ,Kazakhstan,2013,11840
+KAZ,Kazakhstan,2014,12080
+KAZ,Kazakhstan,2015,11380
+KAZ,Kazakhstan,2016,8770
+KAZ,Kazakhstan,2017,8040
+KAZ,Kazakhstan,2018,8070
+KAZ,Kazakhstan,2019,8820
+KAZ,Kazakhstan,2020,8680
+KEN,Kenya,1987,370
+KEN,Kenya,1988,410
+KEN,Kenya,1989,400
+KEN,Kenya,1990,370
+KEN,Kenya,1991,350
+KEN,Kenya,1992,330
+KEN,Kenya,1993,270
+KEN,Kenya,1994,260
+KEN,Kenya,1995,270
+KEN,Kenya,1996,340
+KEN,Kenya,1997,390
+KEN,Kenya,1998,430
+KEN,Kenya,1999,430
+KEN,Kenya,2000,410
+KEN,Kenya,2001,400
+KEN,Kenya,2002,380
+KEN,Kenya,2003,400
+KEN,Kenya,2004,450
+KEN,Kenya,2005,510
+KEN,Kenya,2006,580
+KEN,Kenya,2007,700
+KEN,Kenya,2008,820
+KEN,Kenya,2009,900
+KEN,Kenya,2010,960
+KEN,Kenya,2011,990
+KEN,Kenya,2012,1050
+KEN,Kenya,2013,1130
+KEN,Kenya,2014,1240
+KEN,Kenya,2015,1290
+KEN,Kenya,2016,1350
+KEN,Kenya,2017,1420
+KEN,Kenya,2018,1600
+KEN,Kenya,2019,1750
+KEN,Kenya,2020,1760
+KGZ,Kyrgyz Republic,1992,520
+KGZ,Kyrgyz Republic,1993,450
+KGZ,Kyrgyz Republic,1994,370
+KGZ,Kyrgyz Republic,1995,360
+KGZ,Kyrgyz Republic,1996,390
+KGZ,Kyrgyz Republic,1997,390
+KGZ,Kyrgyz Republic,1998,360
+KGZ,Kyrgyz Republic,1999,300
+KGZ,Kyrgyz Republic,2000,280
+KGZ,Kyrgyz Republic,2001,280
+KGZ,Kyrgyz Republic,2002,290
+KGZ,Kyrgyz Republic,2003,340
+KGZ,Kyrgyz Republic,2004,400
+KGZ,Kyrgyz Republic,2005,450
+KGZ,Kyrgyz Republic,2006,500
+KGZ,Kyrgyz Republic,2007,610
+KGZ,Kyrgyz Republic,2008,760
+KGZ,Kyrgyz Republic,2009,860
+KGZ,Kyrgyz Republic,2010,850
+KGZ,Kyrgyz Republic,2011,880
+KGZ,Kyrgyz Republic,2012,1040
+KGZ,Kyrgyz Republic,2013,1190
+KGZ,Kyrgyz Republic,2014,1250
+KGZ,Kyrgyz Republic,2015,1180
+KGZ,Kyrgyz Republic,2016,1110
+KGZ,Kyrgyz Republic,2017,1110
+KGZ,Kyrgyz Republic,2018,1220
+KGZ,Kyrgyz Republic,2019,1240
+KGZ,Kyrgyz Republic,2020,1160
+KHM,Cambodia,1995,250
+KHM,Cambodia,1996,320
+KHM,Cambodia,1997,320
+KHM,Cambodia,1998,290
+KHM,Cambodia,1999,300
+KHM,Cambodia,2000,300
+KHM,Cambodia,2001,310
+KHM,Cambodia,2002,320
+KHM,Cambodia,2003,350
+KHM,Cambodia,2004,400
+KHM,Cambodia,2005,460
+KHM,Cambodia,2006,520
+KHM,Cambodia,2007,590
+KHM,Cambodia,2008,670
+KHM,Cambodia,2009,700
+KHM,Cambodia,2010,750
+KHM,Cambodia,2011,810
+KHM,Cambodia,2012,880
+KHM,Cambodia,2013,970
+KHM,Cambodia,2014,1020
+KHM,Cambodia,2015,1060
+KHM,Cambodia,2016,1140
+KHM,Cambodia,2017,1230
+KHM,Cambodia,2018,1380
+KHM,Cambodia,2019,1530
+KHM,Cambodia,2020,1490
+KIR,Kiribati,1987,550
+KIR,Kiribati,1988,640
+KIR,Kiribati,1989,670
+KIR,Kiribati,1990,720
+KIR,Kiribati,1991,960
+KIR,Kiribati,1992,1030
+KIR,Kiribati,1993,1020
+KIR,Kiribati,1994,1050
+KIR,Kiribati,1995,1150
+KIR,Kiribati,1996,1090
+KIR,Kiribati,1997,1340
+KIR,Kiribati,1998,1470
+KIR,Kiribati,1999,1300
+KIR,Kiribati,2000,1330
+KIR,Kiribati,2001,1340
+KIR,Kiribati,2002,1250
+KIR,Kiribati,2003,1310
+KIR,Kiribati,2004,1480
+KIR,Kiribati,2005,1700
+KIR,Kiribati,2006,1710
+KIR,Kiribati,2007,1820
+KIR,Kiribati,2008,1930
+KIR,Kiribati,2009,1900
+KIR,Kiribati,2010,2050
+KIR,Kiribati,2011,2090
+KIR,Kiribati,2012,2620
+KIR,Kiribati,2013,2980
+KIR,Kiribati,2014,3220
+KIR,Kiribati,2015,3470
+KIR,Kiribati,2016,2920
+KIR,Kiribati,2017,3020
+KIR,Kiribati,2018,3080
+KIR,Kiribati,2019,3340
+KIR,Kiribati,2020,3010
+KNA,St. Kitts and Nevis,1987,3690
+KNA,St. Kitts and Nevis,1988,4390
+KNA,St. Kitts and Nevis,1989,4660
+KNA,St. Kitts and Nevis,1990,5220
+KNA,St. Kitts and Nevis,1991,5260
+KNA,St. Kitts and Nevis,1992,5710
+KNA,St. Kitts and Nevis,1993,6190
+KNA,St. Kitts and Nevis,1994,6710
+KNA,St. Kitts and Nevis,1995,7310
+KNA,St. Kitts and Nevis,1996,7690
+KNA,St. Kitts and Nevis,1997,8080
+KNA,St. Kitts and Nevis,1998,7830
+KNA,St. Kitts and Nevis,1999,8280
+KNA,St. Kitts and Nevis,2000,9120
+KNA,St. Kitts and Nevis,2001,9440
+KNA,St. Kitts and Nevis,2002,9370
+KNA,St. Kitts and Nevis,2003,9270
+KNA,St. Kitts and Nevis,2004,10390
+KNA,St. Kitts and Nevis,2005,11640
+KNA,St. Kitts and Nevis,2006,12440
+KNA,St. Kitts and Nevis,2007,13050
+KNA,St. Kitts and Nevis,2008,14850
+KNA,St. Kitts and Nevis,2009,14620
+KNA,St. Kitts and Nevis,2010,14690
+KNA,St. Kitts and Nevis,2011,15450
+KNA,St. Kitts and Nevis,2012,15470
+KNA,St. Kitts and Nevis,2013,16610
+KNA,St. Kitts and Nevis,2014,16490
+KNA,St. Kitts and Nevis,2015,16410
+KNA,St. Kitts and Nevis,2016,17080
+KNA,St. Kitts and Nevis,2017,17240
+KNA,St. Kitts and Nevis,2018,18520
+KNA,St. Kitts and Nevis,2019,19130
+KNA,St. Kitts and Nevis,2020,17400
+KOR,"Korea, Rep.",1987,3530
+KOR,"Korea, Rep.",1988,4520
+KOR,"Korea, Rep.",1989,5380
+KOR,"Korea, Rep.",1990,6450
+KOR,"Korea, Rep.",1991,7570
+KOR,"Korea, Rep.",1992,8310
+KOR,"Korea, Rep.",1993,9010
+KOR,"Korea, Rep.",1994,10090
+KOR,"Korea, Rep.",1995,11820
+KOR,"Korea, Rep.",1996,13320
+KOR,"Korea, Rep.",1997,13550
+KOR,"Korea, Rep.",1998,10330
+KOR,"Korea, Rep.",1999,10430
+KOR,"Korea, Rep.",2000,11030
+KOR,"Korea, Rep.",2001,11950
+KOR,"Korea, Rep.",2002,12850
+KOR,"Korea, Rep.",2003,13790
+KOR,"Korea, Rep.",2004,16200
+KOR,"Korea, Rep.",2005,18520
+KOR,"Korea, Rep.",2006,20800
+KOR,"Korea, Rep.",2007,23440
+KOR,"Korea, Rep.",2008,23860
+KOR,"Korea, Rep.",2009,22040
+KOR,"Korea, Rep.",2010,22290
+KOR,"Korea, Rep.",2011,23590
+KOR,"Korea, Rep.",2012,25660
+KOR,"Korea, Rep.",2013,26980
+KOR,"Korea, Rep.",2014,28160
+KOR,"Korea, Rep.",2015,28720
+KOR,"Korea, Rep.",2016,29330
+KOR,"Korea, Rep.",2017,30300
+KOR,"Korea, Rep.",2018,32730
+KOR,"Korea, Rep.",2019,33790
+KOR,"Korea, Rep.",2020,32860
+KWT,Kuwait,1995,20520
+KWT,Kuwait,1996,20870
+KWT,Kuwait,1997,21480
+KWT,Kuwait,1998,19680
+KWT,Kuwait,1999,16870
+KWT,Kuwait,2000,17980
+KWT,Kuwait,2001,18660
+KWT,Kuwait,2002,18930
+KWT,Kuwait,2003,22600
+KWT,Kuwait,2004,28510
+KWT,Kuwait,2005,35220
+KWT,Kuwait,2006,42300
+KWT,Kuwait,2007,47580
+KWT,Kuwait,2008,51710
+KWT,Kuwait,2009,45000
+KWT,Kuwait,2010,42490
+KWT,Kuwait,2011,43790
+KWT,Kuwait,2012,49690
+KWT,Kuwait,2013,53060
+KWT,Kuwait,2014,51000
+KWT,Kuwait,2015,41820
+KWT,Kuwait,2016,35330
+KWT,Kuwait,2017,31400
+KWT,Kuwait,2018,33430
+KWT,Kuwait,2019,36290
+LAO,Lao PDR,1987,430
+LAO,Lao PDR,1988,250
+LAO,Lao PDR,1989,210
+LAO,Lao PDR,1990,190
+LAO,Lao PDR,1991,210
+LAO,Lao PDR,1992,250
+LAO,Lao PDR,1993,280
+LAO,Lao PDR,1994,310
+LAO,Lao PDR,1995,350
+LAO,Lao PDR,1996,380
+LAO,Lao PDR,1997,370
+LAO,Lao PDR,1998,310
+LAO,Lao PDR,1999,290
+LAO,Lao PDR,2000,280
+LAO,Lao PDR,2001,310
+LAO,Lao PDR,2002,320
+LAO,Lao PDR,2003,340
+LAO,Lao PDR,2004,390
+LAO,Lao PDR,2005,460
+LAO,Lao PDR,2006,510
+LAO,Lao PDR,2007,620
+LAO,Lao PDR,2008,750
+LAO,Lao PDR,2009,890
+LAO,Lao PDR,2010,1000
+LAO,Lao PDR,2011,1140
+LAO,Lao PDR,2012,1370
+LAO,Lao PDR,2013,1610
+LAO,Lao PDR,2014,1820
+LAO,Lao PDR,2015,1970
+LAO,Lao PDR,2016,2120
+LAO,Lao PDR,2017,2240
+LAO,Lao PDR,2018,2450
+LAO,Lao PDR,2019,2490
+LAO,Lao PDR,2020,2480
+LBN,Lebanon,1990,1310
+LBN,Lebanon,1991,1700
+LBN,Lebanon,1992,1920
+LBN,Lebanon,1993,2220
+LBN,Lebanon,1994,2610
+LBN,Lebanon,1995,3160
+LBN,Lebanon,1996,3720
+LBN,Lebanon,1997,4000
+LBN,Lebanon,1998,4250
+LBN,Lebanon,1999,4490
+LBN,Lebanon,2000,4600
+LBN,Lebanon,2001,4460
+LBN,Lebanon,2002,4200
+LBN,Lebanon,2003,3790
+LBN,Lebanon,2004,4730
+LBN,Lebanon,2005,4890
+LBN,Lebanon,2006,4860
+LBN,Lebanon,2007,5410
+LBN,Lebanon,2008,6060
+LBN,Lebanon,2009,6870
+LBN,Lebanon,2010,7470
+LBN,Lebanon,2011,7560
+LBN,Lebanon,2012,7560
+LBN,Lebanon,2013,7640
+LBN,Lebanon,2014,7550
+LBN,Lebanon,2015,7280
+LBN,Lebanon,2016,7220
+LBN,Lebanon,2017,7470
+LBN,Lebanon,2018,7710
+LBN,Lebanon,2019,7420
+LBN,Lebanon,2020,5510
+LBR,Liberia,2002,250
+LBR,Liberia,2003,180
+LBR,Liberia,2004,210
+LBR,Liberia,2005,250
+LBR,Liberia,2006,290
+LBR,Liberia,2007,330
+LBR,Liberia,2008,390
+LBR,Liberia,2009,430
+LBR,Liberia,2010,460
+LBR,Liberia,2011,520
+LBR,Liberia,2012,560
+LBR,Liberia,2013,630
+LBR,Liberia,2014,630
+LBR,Liberia,2015,630
+LBR,Liberia,2016,620
+LBR,Liberia,2017,620
+LBR,Liberia,2018,610
+LBR,Liberia,2019,580
+LBR,Liberia,2020,530
+LBY,Libya,2002,5170
+LBY,Libya,2003,5160
+LBY,Libya,2004,5140
+LBY,Libya,2005,6860
+LBY,Libya,2006,8600
+LBY,Libya,2007,10400
+LBY,Libya,2008,12200
+LBY,Libya,2009,12090
+LBY,Libya,2010,12380
+LBY,Libya,2011,4690
+LBY,Libya,2012,11550
+LBY,Libya,2013,10750
+LBY,Libya,2014,7610
+LBY,Libya,2015,5690
+LBY,Libya,2016,4550
+LBY,Libya,2017,5410
+LBY,Libya,2018,6800
+LBY,Libya,2019,7640
+LBY,Libya,2020,4850
+LCA,St. Lucia,1987,2830
+LCA,St. Lucia,1988,3330
+LCA,St. Lucia,1989,3570
+LCA,St. Lucia,1990,3730
+LCA,St. Lucia,1991,3850
+LCA,St. Lucia,1992,4400
+LCA,St. Lucia,1993,4420
+LCA,St. Lucia,1994,4510
+LCA,St. Lucia,1995,4650
+LCA,St. Lucia,1996,4850
+LCA,St. Lucia,1997,4760
+LCA,St. Lucia,1998,4930
+LCA,St. Lucia,1999,5150
+LCA,St. Lucia,2000,5250
+LCA,St. Lucia,2001,4990
+LCA,St. Lucia,2002,5010
+LCA,St. Lucia,2003,5370
+LCA,St. Lucia,2004,6000
+LCA,St. Lucia,2005,6230
+LCA,St. Lucia,2006,7260
+LCA,St. Lucia,2007,7500
+LCA,St. Lucia,2008,8090
+LCA,St. Lucia,2009,8020
+LCA,St. Lucia,2010,8170
+LCA,St. Lucia,2011,8820
+LCA,St. Lucia,2012,8850
+LCA,St. Lucia,2013,8790
+LCA,St. Lucia,2014,8840
+LCA,St. Lucia,2015,8740
+LCA,St. Lucia,2016,9450
+LCA,St. Lucia,2017,10080
+LCA,St. Lucia,2018,10700
+LCA,St. Lucia,2019,11080
+LCA,St. Lucia,2020,8790
+LIE,Liechtenstein,1987,31170
+LIE,Liechtenstein,1988,41490
+LIE,Liechtenstein,1989,43620
+LIE,Liechtenstein,1990,45470
+LIE,Liechtenstein,1991,47570
+LIE,Liechtenstein,1992,54350
+LIE,Liechtenstein,1993,56680
+LIE,Liechtenstein,1994,62010
+LIE,Liechtenstein,1995,70050
+LIE,Liechtenstein,1996,78570
+LIE,Liechtenstein,1997,80150
+LIE,Liechtenstein,1998,77660
+LIE,Liechtenstein,1999,78660
+LIE,Liechtenstein,2000,78870
+LIE,Liechtenstein,2001,68260
+LIE,Liechtenstein,2002,65050
+LIE,Liechtenstein,2003,68450
+LIE,Liechtenstein,2004,78700
+LIE,Liechtenstein,2005,92710
+LIE,Liechtenstein,2006,104050
+LIE,Liechtenstein,2007,112190
+LIE,Liechtenstein,2008,121900
+LIE,Liechtenstein,2009,116440
+LKA,Sri Lanka,1987,430
+LKA,Sri Lanka,1988,460
+LKA,Sri Lanka,1989,440
+LKA,Sri Lanka,1990,460
+LKA,Sri Lanka,1991,490
+LKA,Sri Lanka,1992,550
+LKA,Sri Lanka,1993,600
+LKA,Sri Lanka,1994,640
+LKA,Sri Lanka,1995,690
+LKA,Sri Lanka,1996,740
+LKA,Sri Lanka,1997,800
+LKA,Sri Lanka,1998,820
+LKA,Sri Lanka,1999,840
+LKA,Sri Lanka,2000,870
+LKA,Sri Lanka,2001,830
+LKA,Sri Lanka,2002,840
+LKA,Sri Lanka,2003,940
+LKA,Sri Lanka,2004,1060
+LKA,Sri Lanka,2005,1210
+LKA,Sri Lanka,2006,1360
+LKA,Sri Lanka,2007,1550
+LKA,Sri Lanka,2008,1790
+LKA,Sri Lanka,2009,2010
+LKA,Sri Lanka,2010,2410
+LKA,Sri Lanka,2011,2850
+LKA,Sri Lanka,2012,3360
+LKA,Sri Lanka,2013,3490
+LKA,Sri Lanka,2014,3640
+LKA,Sri Lanka,2015,3760
+LKA,Sri Lanka,2016,3810
+LKA,Sri Lanka,2017,3870
+LKA,Sri Lanka,2018,4040
+LKA,Sri Lanka,2019,4010
+LKA,Sri Lanka,2020,3720
+LSO,Lesotho,1987,420
+LSO,Lesotho,1988,500
+LSO,Lesotho,1989,520
+LSO,Lesotho,1990,550
+LSO,Lesotho,1991,580
+LSO,Lesotho,1992,650
+LSO,Lesotho,1993,660
+LSO,Lesotho,1994,680
+LSO,Lesotho,1995,690
+LSO,Lesotho,1996,700
+LSO,Lesotho,1997,690
+LSO,Lesotho,1998,620
+LSO,Lesotho,1999,610
+LSO,Lesotho,2000,580
+LSO,Lesotho,2001,640
+LSO,Lesotho,2002,590
+LSO,Lesotho,2003,670
+LSO,Lesotho,2004,810
+LSO,Lesotho,2005,1020
+LSO,Lesotho,2006,1130
+LSO,Lesotho,2007,1300
+LSO,Lesotho,2008,1290
+LSO,Lesotho,2009,1190
+LSO,Lesotho,2010,1270
+LSO,Lesotho,2011,1360
+LSO,Lesotho,2012,1500
+LSO,Lesotho,2013,1460
+LSO,Lesotho,2014,1350
+LSO,Lesotho,2015,1310
+LSO,Lesotho,2016,1270
+LSO,Lesotho,2017,1190
+LSO,Lesotho,2018,1230
+LSO,Lesotho,2019,1290
+LSO,Lesotho,2020,1100
+LTU,Lithuania,1997,710
+LTU,Lithuania,1998,830
+LTU,Lithuania,1999,860
+LTU,Lithuania,2000,930
+LTU,Lithuania,2001,1000
+LTU,Lithuania,2002,1110
+LTU,Lithuania,2003,1360
+LTU,Lithuania,2004,1740
+LTU,Lithuania,2005,2200
+LTU,Lithuania,2006,2550
+LTU,Lithuania,2007,3070
+LTU,Lithuania,2008,3670
+LTU,Lithuania,2009,3610
+LTU,Lithuania,2010,3640
+LTU,Lithuania,2011,3860
+LTU,Lithuania,2012,4090
+LTU,Lithuania,2013,4440
+LTU,Lithuania,2014,4660
+LTU,Lithuania,2015,5960
+LTU,Lithuania,2016,8550
+LTU,Lithuania,2017,15280
+LTU,Lithuania,2018,17460
+LTU,Lithuania,2019,19020
+LUX,Luxembourg,1987,500
+LUX,Luxembourg,1988,640
+LUX,Luxembourg,1989,710
+LUX,Luxembourg,1990,780
+LUX,Luxembourg,1991,880
+LUX,Luxembourg,1992,970
+LUX,Luxembourg,1993,1000
+LUX,Luxembourg,1994,1030
+LUX,Luxembourg,1995,1140
+LUX,Luxembourg,1996,1200
+LUX,Luxembourg,1997,1260
+LUX,Luxembourg,1998,1170
+LUX,Luxembourg,1999,1690
+LUX,Luxembourg,2000,3370
+LUX,Luxembourg,2001,45690
+LUX,Luxembourg,2002,42740
+LUX,Luxembourg,2003,46110
+LUX,Luxembourg,2004,62990
+LUX,Luxembourg,2005,73920
+LUX,Luxembourg,2006,71650
+LUX,Luxembourg,2007,86280
+LUX,Luxembourg,2008,88170
+LUX,Luxembourg,2009,71440
+LUX,Luxembourg,2010,78460
+LUX,Luxembourg,2011,76420
+LUX,Luxembourg,2012,75500
+LUX,Luxembourg,2013,75540
+LUX,Luxembourg,2014,76500
+LUX,Luxembourg,2015,72520
+LUX,Luxembourg,2016,68720
+LUX,Luxembourg,2017,66460
+LUX,Luxembourg,2018,70930
+LVA,Latvia,1997,3780
+LVA,Latvia,1998,4080
+LVA,Latvia,1999,4250
+LVA,Latvia,2000,4720
+LVA,Latvia,2001,5120
+LVA,Latvia,2002,5590
+LVA,Latvia,2003,6640
+LVA,Latvia,2004,8290
+LVA,Latvia,2005,10490
+LVA,Latvia,2006,12680
+LVA,Latvia,2007,15950
+LVA,Latvia,2008,19190
+LVA,Latvia,2009,20040
+LVA,Latvia,2010,17950
+LVA,Latvia,2011,18800
+LVA,Latvia,2012,19820
+LVA,Latvia,2013,21360
+LVA,Latvia,2014,19190
+LVA,Latvia,2015,16690
+LVA,Latvia,2016,14790
+LVA,Latvia,2017,14850
+LVA,Latvia,2018,16540
+LVA,Latvia,2019,17740
+MAC,"Macao SAR, China",1987,6510
+MAC,"Macao SAR, China",1988,7490
+MAC,"Macao SAR, China",1989,8080
+MAC,"Macao SAR, China",1990,8980
+MAC,"Macao SAR, China",1991,9990
+MAC,"Macao SAR, China",1992,12570
+MAC,"Macao SAR, China",1993,14310
+MAC,"Macao SAR, China",1994,16030
+MAC,"Macao SAR, China",1995,17430
+MAC,"Macao SAR, China",1996,17490
+MAC,"Macao SAR, China",1997,17330
+MAC,"Macao SAR, China",1998,15700
+MAC,"Macao SAR, China",1999,14640
+MAC,"Macao SAR, China",2000,14720
+MAC,"Macao SAR, China",2001,15760
+MAC,"Macao SAR, China",2002,16290
+MAC,"Macao SAR, China",2003,17840
+MAC,"Macao SAR, China",2004,22220
+MAC,"Macao SAR, China",2005,23950
+MAC,"Macao SAR, China",2006,26190
+MAC,"Macao SAR, China",2007,34150
+MAC,"Macao SAR, China",2008,33780
+MAC,"Macao SAR, China",2009,36100
+MAC,"Macao SAR, China",2010,45260
+MAC,"Macao SAR, China",2011,54490
+MAC,"Macao SAR, China",2012,60790
+MAC,"Macao SAR, China",2013,69510
+MAC,"Macao SAR, China",2014,72140
+MAC,"Macao SAR, China",2015,62090
+MAC,"Macao SAR, China",2016,63730
+MAC,"Macao SAR, China",2017,69980
+MAC,"Macao SAR, China",2018,76510
+MAC,"Macao SAR, China",2019,75610
+MAR,Morocco,1987,860
+MAR,Morocco,1988,1080
+MAR,Morocco,1989,1110
+MAR,Morocco,1990,1160
+MAR,Morocco,1991,1240
+MAR,Morocco,1992,1270
+MAR,Morocco,1993,1230
+MAR,Morocco,1994,1350
+MAR,Morocco,1995,1300
+MAR,Morocco,1996,1510
+MAR,Morocco,1997,1460
+MAR,Morocco,1998,1460
+MAR,Morocco,1999,1410
+MAR,Morocco,2000,1390
+MAR,Morocco,2001,1400
+MAR,Morocco,2002,1370
+MAR,Morocco,2003,1540
+MAR,Morocco,2004,1830
+MAR,Morocco,2005,2070
+MAR,Morocco,2006,2240
+MAR,Morocco,2007,2380
+MAR,Morocco,2008,2700
+MAR,Morocco,2009,2880
+MAR,Morocco,2010,2930
+MAR,Morocco,2011,3000
+MAR,Morocco,2012,2980
+MAR,Morocco,2013,3090
+MAR,Morocco,2014,3060
+MAR,Morocco,2015,3020
+MAR,Morocco,2016,2880
+MAR,Morocco,2017,2880
+MAR,Morocco,2018,3090
+MAR,Morocco,2019,3200
+MAR,Morocco,2020,2980
+MDA,Moldova,1997,630
+MDA,Moldova,1998,580
+MDA,Moldova,1999,510
+MDA,Moldova,2000,490
+MDA,Moldova,2001,500
+MDA,Moldova,2002,590
+MDA,Moldova,2003,710
+MDA,Moldova,2004,910
+MDA,Moldova,2005,1120
+MDA,Moldova,2006,1280
+MDA,Moldova,2007,1440
+MDA,Moldova,2008,1870
+MDA,Moldova,2009,1950
+MDA,Moldova,2010,2380
+MDA,Moldova,2011,2730
+MDA,Moldova,2012,3140
+MDA,Moldova,2013,3620
+MDA,Moldova,2014,3740
+MDA,Moldova,2015,3300
+MDA,Moldova,2016,3180
+MDA,Moldova,2017,3330
+MDA,Moldova,2018,3920
+MDA,Moldova,2019,4580
+MDA,Moldova,2020,4570
+MDG,Madagascar,1987,370
+MDG,Madagascar,1988,340
+MDG,Madagascar,1989,300
+MDG,Madagascar,1990,310
+MDG,Madagascar,1991,280
+MDG,Madagascar,1992,290
+MDG,Madagascar,1993,290
+MDG,Madagascar,1994,290
+MDG,Madagascar,1995,280
+MDG,Madagascar,1996,300
+MDG,Madagascar,1997,300
+MDG,Madagascar,1998,300
+MDG,Madagascar,1999,280
+MDG,Madagascar,2000,290
+MDG,Madagascar,2001,300
+MDG,Madagascar,2002,280
+MDG,Madagascar,2003,340
+MDG,Madagascar,2004,340
+MDG,Madagascar,2005,340
+MDG,Madagascar,2006,330
+MDG,Madagascar,2007,380
+MDG,Madagascar,2008,450
+MDG,Madagascar,2009,470
+MDG,Madagascar,2010,470
+MDG,Madagascar,2011,480
+MDG,Madagascar,2012,500
+MDG,Madagascar,2013,520
+MDG,Madagascar,2014,520
+MDG,Madagascar,2015,490
+MDG,Madagascar,2016,470
+MDG,Madagascar,2017,470
+MDG,Madagascar,2018,500
+MDG,Madagascar,2019,510
+MDG,Madagascar,2020,480
+MDV,Maldives,1997,1760
+MDV,Maldives,1998,1860
+MDV,Maldives,1999,1980
+MDV,Maldives,2000,2070
+MDV,Maldives,2001,2240
+MDV,Maldives,2002,2620
+MDV,Maldives,2003,3400
+MDV,Maldives,2004,3770
+MDV,Maldives,2005,3460
+MDV,Maldives,2006,4540
+MDV,Maldives,2007,4480
+MDV,Maldives,2008,5420
+MDV,Maldives,2009,5460
+MDV,Maldives,2010,5960
+MDV,Maldives,2011,6600
+MDV,Maldives,2012,6630
+MDV,Maldives,2013,6800
+MDV,Maldives,2014,7320
+MDV,Maldives,2015,7650
+MDV,Maldives,2016,8070
+MDV,Maldives,2017,8600
+MDV,Maldives,2018,9210
+MDV,Maldives,2019,9670
+MDV,Maldives,2020,6830
+MEX,Mexico,1987,2040
+MEX,Mexico,1988,2090
+MEX,Mexico,1989,2370
+MEX,Mexico,1990,2790
+MEX,Mexico,1991,3250
+MEX,Mexico,1992,3770
+MEX,Mexico,1993,4490
+MEX,Mexico,1994,5310
+MEX,Mexico,1995,4790
+MEX,Mexico,1996,4620
+MEX,Mexico,1997,4660
+MEX,Mexico,1998,5000
+MEX,Mexico,1999,5510
+MEX,Mexico,2000,6210
+MEX,Mexico,2001,6740
+MEX,Mexico,2002,7100
+MEX,Mexico,2003,7360
+MEX,Mexico,2004,7820
+MEX,Mexico,2005,8050
+MEX,Mexico,2006,8690
+MEX,Mexico,2007,9250
+MEX,Mexico,2008,9780
+MEX,Mexico,2009,8820
+MEX,Mexico,2010,9040
+MEX,Mexico,2011,9310
+MEX,Mexico,2012,10050
+MEX,Mexico,2013,10270
+MEX,Mexico,2014,10500
+MEX,Mexico,2015,10160
+MEX,Mexico,2016,9390
+MEX,Mexico,2017,8920
+MEX,Mexico,2018,9180
+MEX,Mexico,2019,9480
+MEX,Mexico,2020,8480
+MHL,Marshall Islands,1995,3070
+MHL,Marshall Islands,1996,2690
+MHL,Marshall Islands,1997,2590
+MHL,Marshall Islands,1998,2690
+MHL,Marshall Islands,1999,2830
+MHL,Marshall Islands,2000,2960
+MHL,Marshall Islands,2001,3110
+MHL,Marshall Islands,2002,3100
+MHL,Marshall Islands,2003,3130
+MHL,Marshall Islands,2004,3280
+MHL,Marshall Islands,2005,3440
+MHL,Marshall Islands,2006,3310
+MHL,Marshall Islands,2007,3450
+MHL,Marshall Islands,2008,3280
+MHL,Marshall Islands,2009,3470
+MHL,Marshall Islands,2010,3550
+MHL,Marshall Islands,2011,3570
+MHL,Marshall Islands,2012,3480
+MHL,Marshall Islands,2013,3880
+MHL,Marshall Islands,2014,4030
+MHL,Marshall Islands,2015,4250
+MHL,Marshall Islands,2016,4200
+MHL,Marshall Islands,2017,4390
+MHL,Marshall Islands,2018,4780
+MHL,Marshall Islands,2019,5010
+#N/A,North Macedonia,1992,1750
+#N/A,North Macedonia,1993,1460
+#N/A,North Macedonia,1994,1400
+#N/A,North Macedonia,1995,1790
+#N/A,North Macedonia,1996,2190
+#N/A,North Macedonia,1997,2210
+#N/A,North Macedonia,1998,2010
+#N/A,North Macedonia,1999,1910
+#N/A,North Macedonia,2000,1910
+#N/A,North Macedonia,2001,1820
+#N/A,North Macedonia,2002,1820
+#N/A,North Macedonia,2003,2080
+#N/A,North Macedonia,2004,2560
+#N/A,North Macedonia,2005,2990
+#N/A,North Macedonia,2006,3310
+#N/A,North Macedonia,2007,3580
+#N/A,North Macedonia,2008,4330
+#N/A,North Macedonia,2009,4610
+#N/A,North Macedonia,2010,4710
+#N/A,North Macedonia,2011,4810
+#N/A,North Macedonia,2012,4740
+#N/A,North Macedonia,2013,5000
+#N/A,North Macedonia,2014,5200
+#N/A,North Macedonia,2015,5110
+#N/A,North Macedonia,2016,4980
+#N/A,North Macedonia,2017,4920
+#N/A,North Macedonia,2018,5490
+#N/A,North Macedonia,2019,5840
+#N/A,North Macedonia,2020,5720
+MLI,Mali,1987,240
+MLI,Mali,1988,290
+MLI,Mali,1989,290
+MLI,Mali,1990,290
+MLI,Mali,1991,320
+MLI,Mali,1992,330
+MLI,Mali,1993,320
+MLI,Mali,1994,280
+MLI,Mali,1995,270
+MLI,Mali,1996,270
+MLI,Mali,1997,280
+MLI,Mali,1998,280
+MLI,Mali,1999,290
+MLI,Mali,2000,280
+MLI,Mali,2001,300
+MLI,Mali,2002,290
+MLI,Mali,2003,350
+MLI,Mali,2004,400
+MLI,Mali,2005,460
+MLI,Mali,2006,500
+MLI,Mali,2007,530
+MLI,Mali,2008,610
+MLI,Mali,2009,660
+MLI,Mali,2010,700
+MLI,Mali,2011,730
+MLI,Mali,2012,730
+MLI,Mali,2013,780
+MLI,Mali,2014,810
+MLI,Mali,2015,800
+MLI,Mali,2016,780
+MLI,Mali,2017,770
+MLI,Mali,2018,830
+MLI,Mali,2019,870
+MLI,Mali,2020,830
+MLT,Malta,1987,4930
+MLT,Malta,1988,6260
+MLT,Malta,1989,6910
+MLT,Malta,1990,7600
+MLT,Malta,1991,7940
+MLT,Malta,1992,8720
+MLT,Malta,1993,8570
+MLT,Malta,1994,8600
+MLT,Malta,1995,9250
+MLT,Malta,1996,10010
+MLT,Malta,1997,10530
+MLT,Malta,1998,10260
+MLT,Malta,1999,10710
+MLT,Malta,2000,11400
+MLT,Malta,2001,10950
+MLT,Malta,2002,10710
+MLT,Malta,2003,12170
+MLT,Malta,2004,14100
+MLT,Malta,2005,15660
+MLT,Malta,2006,16350
+MLT,Malta,2007,17580
+MLT,Malta,2008,20410
+MLT,Malta,2009,20310
+MLT,Malta,2010,21370
+MLT,Malta,2011,22120
+MLT,Malta,2012,22160
+MLT,Malta,2013,23370
+MLT,Malta,2014,24560
+MLT,Malta,2015,25230
+MLT,Malta,2016,23590
+MLT,Malta,2017,24140
+MLT,Malta,2018,27090
+MLT,Malta,2019,28340
+MLT,Malta,2020,25370
+MMR,Myanmar,2001,120
+MMR,Myanmar,2002,120
+MMR,Myanmar,2003,150
+MMR,Myanmar,2004,210
+MMR,Myanmar,2005,230
+MMR,Myanmar,2006,270
+MMR,Myanmar,2007,360
+MMR,Myanmar,2008,510
+MMR,Myanmar,2009,730
+MMR,Myanmar,2010,900
+MMR,Myanmar,2011,1040
+MMR,Myanmar,2012,1070
+MMR,Myanmar,2013,1120
+MMR,Myanmar,2014,1130
+MMR,Myanmar,2015,1160
+MMR,Myanmar,2016,1150
+MMR,Myanmar,2017,1200
+MMR,Myanmar,2018,1280
+MMR,Myanmar,2019,1360
+MMR,Myanmar,2020,1260
+MNE,Montenegro,2002,1970
+MNE,Montenegro,2003,2440
+MNE,Montenegro,2004,3100
+MNE,Montenegro,2005,3660
+MNE,Montenegro,2006,4320
+MNE,Montenegro,2007,5120
+MNE,Montenegro,2008,6470
+MNE,Montenegro,2009,6740
+MNE,Montenegro,2010,6920
+MNE,Montenegro,2011,7260
+MNE,Montenegro,2012,7000
+MNE,Montenegro,2013,7330
+MNE,Montenegro,2014,7320
+MNE,Montenegro,2015,7260
+MNE,Montenegro,2016,7090
+MNE,Montenegro,2017,7410
+MNE,Montenegro,2018,8450
+MNE,Montenegro,2019,9070
+MNE,Montenegro,2020,7900
+MNG,Mongolia,1987,1520
+MNG,Mongolia,1988,1690
+MNG,Mongolia,1989,1590
+MNG,Mongolia,1990,1430
+MNG,Mongolia,1991,1200
+MNG,Mongolia,1992,810
+MNG,Mongolia,1993,510
+MNG,Mongolia,1994,430
+MNG,Mongolia,1995,460
+MNG,Mongolia,1996,550
+MNG,Mongolia,1997,580
+MNG,Mongolia,1998,520
+MNG,Mongolia,1999,480
+MNG,Mongolia,2000,470
+MNG,Mongolia,2001,480
+MNG,Mongolia,2002,530
+MNG,Mongolia,2003,610
+MNG,Mongolia,2004,760
+MNG,Mongolia,2005,900
+MNG,Mongolia,2006,1120
+MNG,Mongolia,2007,1410
+MNG,Mongolia,2008,1800
+MNG,Mongolia,2009,1790
+MNG,Mongolia,2010,2000
+MNG,Mongolia,2011,2590
+MNG,Mongolia,2012,3650
+MNG,Mongolia,2013,4330
+MNG,Mongolia,2014,4210
+MNG,Mongolia,2015,3820
+MNG,Mongolia,2016,3500
+MNG,Mongolia,2017,3230
+MNG,Mongolia,2018,3630
+MNG,Mongolia,2019,3790
+MNG,Mongolia,2020,3670
+MOZ,Mozambique,1993,210
+MOZ,Mozambique,1994,190
+MOZ,Mozambique,1995,190
+MOZ,Mozambique,1996,210
+MOZ,Mozambique,1997,250
+MOZ,Mozambique,1998,290
+MOZ,Mozambique,1999,330
+MOZ,Mozambique,2000,320
+MOZ,Mozambique,2001,320
+MOZ,Mozambique,2002,290
+MOZ,Mozambique,2003,320
+MOZ,Mozambique,2004,360
+MOZ,Mozambique,2005,400
+MOZ,Mozambique,2006,420
+MOZ,Mozambique,2007,460
+MOZ,Mozambique,2008,500
+MOZ,Mozambique,2009,540
+MOZ,Mozambique,2010,520
+MOZ,Mozambique,2011,540
+MOZ,Mozambique,2012,600
+MOZ,Mozambique,2013,670
+MOZ,Mozambique,2014,690
+MOZ,Mozambique,2015,640
+MOZ,Mozambique,2016,530
+MOZ,Mozambique,2017,470
+MOZ,Mozambique,2018,460
+MOZ,Mozambique,2019,490
+MOZ,Mozambique,2020,460
+MRT,Mauritania,1987,670
+MRT,Mauritania,1988,740
+MRT,Mauritania,1989,760
+MRT,Mauritania,1990,730
+MRT,Mauritania,1991,810
+MRT,Mauritania,1992,920
+MRT,Mauritania,1993,970
+MRT,Mauritania,1994,870
+MRT,Mauritania,1995,900
+MRT,Mauritania,1996,970
+MRT,Mauritania,1997,870
+MRT,Mauritania,1998,830
+MRT,Mauritania,1999,820
+MRT,Mauritania,2000,730
+MRT,Mauritania,2001,650
+MRT,Mauritania,2002,650
+MRT,Mauritania,2003,710
+MRT,Mauritania,2004,800
+MRT,Mauritania,2005,940
+MRT,Mauritania,2006,1140
+MRT,Mauritania,2007,1220
+MRT,Mauritania,2008,1380
+MRT,Mauritania,2009,1450
+MRT,Mauritania,2010,1500
+MRT,Mauritania,2011,1600
+MRT,Mauritania,2012,1760
+MRT,Mauritania,2013,1850
+MRT,Mauritania,2014,1750
+MRT,Mauritania,2015,1640
+MRT,Mauritania,2016,1510
+MRT,Mauritania,2017,1500
+MRT,Mauritania,2018,1580
+MRT,Mauritania,2019,1660
+MRT,Mauritania,2020,1640
+MUS,Mauritius,1987,1620
+MUS,Mauritius,1988,2060
+MUS,Mauritius,1989,2220
+MUS,Mauritius,1990,2430
+MUS,Mauritius,1991,2620
+MUS,Mauritius,1992,2990
+MUS,Mauritius,1993,3120
+MUS,Mauritius,1994,3230
+MUS,Mauritius,1995,3470
+MUS,Mauritius,1996,3780
+MUS,Mauritius,1997,3900
+MUS,Mauritius,1998,3780
+MUS,Mauritius,1999,3660
+MUS,Mauritius,2000,3900
+MUS,Mauritius,2001,3970
+MUS,Mauritius,2002,3960
+MUS,Mauritius,2003,4410
+MUS,Mauritius,2004,5170
+MUS,Mauritius,2005,5600
+MUS,Mauritius,2006,5930
+MUS,Mauritius,2007,6490
+MUS,Mauritius,2008,7400
+MUS,Mauritius,2009,7800
+MUS,Mauritius,2010,8080
+MUS,Mauritius,2011,8400
+MUS,Mauritius,2012,9550
+MUS,Mauritius,2013,10520
+MUS,Mauritius,2014,10820
+MUS,Mauritius,2015,10700
+MUS,Mauritius,2016,10640
+MUS,Mauritius,2017,10980
+MUS,Mauritius,2018,12270
+MUS,Mauritius,2019,12900
+MUS,Mauritius,2020,10230
+MWI,Malawi,1987,150
+MWI,Malawi,1988,160
+MWI,Malawi,1989,160
+MWI,Malawi,1990,180
+MWI,Malawi,1991,210
+MWI,Malawi,1992,200
+MWI,Malawi,1993,220
+MWI,Malawi,1994,160
+MWI,Malawi,1995,160
+MWI,Malawi,1996,170
+MWI,Malawi,1997,200
+MWI,Malawi,1998,200
+MWI,Malawi,1999,180
+MWI,Malawi,2000,160
+MWI,Malawi,2001,140
+MWI,Malawi,2002,170
+MWI,Malawi,2003,220
+MWI,Malawi,2004,300
+MWI,Malawi,2005,300
+MWI,Malawi,2006,310
+MWI,Malawi,2007,330
+MWI,Malawi,2008,370
+MWI,Malawi,2009,410
+MWI,Malawi,2010,450
+MWI,Malawi,2011,490
+MWI,Malawi,2012,460
+MWI,Malawi,2013,410
+MWI,Malawi,2014,370
+MWI,Malawi,2015,350
+MWI,Malawi,2016,340
+MWI,Malawi,2017,370
+MWI,Malawi,2018,430
+MWI,Malawi,2019,550
+MWI,Malawi,2020,580
+MYS,Malaysia,1987,1960
+MYS,Malaysia,1988,2140
+MYS,Malaysia,1989,2260
+MYS,Malaysia,1990,2400
+MYS,Malaysia,1991,2560
+MYS,Malaysia,1992,2880
+MYS,Malaysia,1993,3230
+MYS,Malaysia,1994,3600
+MYS,Malaysia,1995,4050
+MYS,Malaysia,1996,4500
+MYS,Malaysia,1997,4620
+MYS,Malaysia,1998,3640
+MYS,Malaysia,1999,3380
+MYS,Malaysia,2000,3460
+MYS,Malaysia,2001,3550
+MYS,Malaysia,2002,3790
+MYS,Malaysia,2003,4160
+MYS,Malaysia,2004,4740
+MYS,Malaysia,2005,5270
+MYS,Malaysia,2006,5840
+MYS,Malaysia,2007,6630
+MYS,Malaysia,2008,7510
+MYS,Malaysia,2009,7600
+MYS,Malaysia,2010,8260
+MYS,Malaysia,2011,9050
+MYS,Malaysia,2012,10180
+MYS,Malaysia,2013,10840
+MYS,Malaysia,2014,11140
+MYS,Malaysia,2015,10680
+MYS,Malaysia,2016,10150
+MYS,Malaysia,2017,9950
+MYS,Malaysia,2018,10650
+MYS,Malaysia,2019,11230
+MYS,Malaysia,2020,10580
+NAM,Namibia,1987,1600
+NAM,Namibia,1988,1690
+NAM,Namibia,1989,1850
+NAM,Namibia,1990,1990
+NAM,Namibia,1991,2150
+NAM,Namibia,1992,2300
+NAM,Namibia,1993,2200
+NAM,Namibia,1994,2270
+NAM,Namibia,1995,2460
+NAM,Namibia,1996,2510
+NAM,Namibia,1997,2500
+NAM,Namibia,1998,2370
+NAM,Namibia,1999,2240
+NAM,Namibia,2000,2240
+NAM,Namibia,2001,2090
+NAM,Namibia,2002,2010
+NAM,Namibia,2003,2280
+NAM,Namibia,2004,2900
+NAM,Namibia,2005,3530
+NAM,Namibia,2006,4030
+NAM,Namibia,2007,4230
+NAM,Namibia,2008,4320
+NAM,Namibia,2009,4250
+NAM,Namibia,2010,4500
+NAM,Namibia,2011,5130
+NAM,Namibia,2012,5730
+NAM,Namibia,2013,5950
+NAM,Namibia,2014,5790
+NAM,Namibia,2015,5310
+NAM,Namibia,2016,4740
+NAM,Namibia,2017,4620
+NAM,Namibia,2018,4950
+NAM,Namibia,2019,5180
+NAM,Namibia,2020,4520
+NCL,New Caledonia,1987,8070
+NCL,New Caledonia,1988,13270
+NCL,New Caledonia,1989,14530
+NCL,New Caledonia,1990,14760
+NCL,New Caledonia,1991,15200
+NCL,New Caledonia,1992,16070
+NCL,New Caledonia,1993,16340
+NCL,New Caledonia,1994,16780
+NCL,New Caledonia,1995,18220
+NCL,New Caledonia,1996,18240
+NCL,New Caledonia,1997,17810
+NCL,New Caledonia,1998,15730
+NCL,New Caledonia,1999,14810
+NCL,New Caledonia,2000,14020
+NER,Niger,1987,270
+NER,Niger,1988,330
+NER,Niger,1989,320
+NER,Niger,1990,340
+NER,Niger,1991,360
+NER,Niger,1992,420
+NER,Niger,1993,390
+NER,Niger,1994,300
+NER,Niger,1995,260
+NER,Niger,1996,240
+NER,Niger,1997,240
+NER,Niger,1998,250
+NER,Niger,1999,240
+NER,Niger,2000,220
+NER,Niger,2001,220
+NER,Niger,2002,220
+NER,Niger,2003,250
+NER,Niger,2004,280
+NER,Niger,2005,330
+NER,Niger,2006,360
+NER,Niger,2007,380
+NER,Niger,2008,440
+NER,Niger,2009,480
+NER,Niger,2010,520
+NER,Niger,2011,520
+NER,Niger,2012,550
+NER,Niger,2013,570
+NER,Niger,2014,590
+NER,Niger,2015,560
+NER,Niger,2016,530
+NER,Niger,2017,520
+NER,Niger,2018,570
+NER,Niger,2019,600
+NER,Niger,2020,540
+NGA,Nigeria,1987,710
+NGA,Nigeria,1988,680
+NGA,Nigeria,1989,550
+NGA,Nigeria,1990,560
+NGA,Nigeria,1991,510
+NGA,Nigeria,1992,510
+NGA,Nigeria,1993,360
+NGA,Nigeria,1994,310
+NGA,Nigeria,1995,310
+NGA,Nigeria,1996,390
+NGA,Nigeria,1997,440
+NGA,Nigeria,1998,440
+NGA,Nigeria,1999,460
+NGA,Nigeria,2000,470
+NGA,Nigeria,2001,530
+NGA,Nigeria,2002,630
+NGA,Nigeria,2003,710
+NGA,Nigeria,2004,870
+NGA,Nigeria,2005,1030
+NGA,Nigeria,2006,1350
+NGA,Nigeria,2007,1610
+NGA,Nigeria,2008,1960
+NGA,Nigeria,2009,2040
+NGA,Nigeria,2010,2140
+NGA,Nigeria,2011,2180
+NGA,Nigeria,2012,2440
+NGA,Nigeria,2013,2690
+NGA,Nigeria,2014,2940
+NGA,Nigeria,2015,2820
+NGA,Nigeria,2016,2430
+NGA,Nigeria,2017,2090
+NGA,Nigeria,2018,1960
+NGA,Nigeria,2019,2030
+NGA,Nigeria,2020,2000
+NIC,Nicaragua,1987,860
+NIC,Nicaragua,1988,680
+NIC,Nicaragua,1989,360
+NIC,Nicaragua,1990,310
+NIC,Nicaragua,1991,220
+NIC,Nicaragua,1992,240
+NIC,Nicaragua,1993,290
+NIC,Nicaragua,1994,450
+NIC,Nicaragua,1995,610
+NIC,Nicaragua,1996,880
+NIC,Nicaragua,1997,880
+NIC,Nicaragua,1998,880
+NIC,Nicaragua,1999,930
+NIC,Nicaragua,2000,960
+NIC,Nicaragua,2001,970
+NIC,Nicaragua,2002,960
+NIC,Nicaragua,2003,1000
+NIC,Nicaragua,2004,1080
+NIC,Nicaragua,2005,1160
+NIC,Nicaragua,2006,1200
+NIC,Nicaragua,2007,1290
+NIC,Nicaragua,2008,1390
+NIC,Nicaragua,2009,1380
+NIC,Nicaragua,2010,1460
+NIC,Nicaragua,2011,1570
+NIC,Nicaragua,2012,1670
+NIC,Nicaragua,2013,1740
+NIC,Nicaragua,2014,1830
+NIC,Nicaragua,2015,1890
+NIC,Nicaragua,2016,1960
+NIC,Nicaragua,2017,2030
+NIC,Nicaragua,2018,1970
+NIC,Nicaragua,2019,1900
+NIC,Nicaragua,2020,1850
+NLD,Netherlands,2001,27420
+NLD,Netherlands,2002,27090
+NLD,Netherlands,2003,31030
+NLD,Netherlands,2004,37390
+NLD,Netherlands,2005,42110
+NLD,Netherlands,2006,45950
+NLD,Netherlands,2007,49150
+NLD,Netherlands,2008,52770
+NLD,Netherlands,2009,53830
+NLD,Netherlands,2010,54060
+NLD,Netherlands,2011,54590
+NLD,Netherlands,2012,52970
+NLD,Netherlands,2013,52980
+NLD,Netherlands,2014,52000
+NLD,Netherlands,2015,49850
+NLD,Netherlands,2016,46930
+NLD,Netherlands,2017,47160
+NLD,Netherlands,2018,51310
+NLD,Netherlands,2019,53060
+NOR,Norway,1987,20830
+NOR,Norway,1988,23970
+NOR,Norway,1989,25080
+NOR,Norway,1990,26500
+NOR,Norway,1991,27820
+NOR,Norway,1992,30780
+NOR,Norway,1993,30210
+NOR,Norway,1994,30850
+NOR,Norway,1995,32690
+NOR,Norway,1996,35790
+NOR,Norway,1997,37910
+NOR,Norway,1998,36100
+NOR,Norway,1999,35540
+NOR,Norway,2000,36540
+NOR,Norway,2001,38220
+NOR,Norway,2002,39890
+NOR,Norway,2003,44750
+NOR,Norway,2004,54140
+NOR,Norway,2005,63830
+NOR,Norway,2006,70020
+NOR,Norway,2007,78470
+NOR,Norway,2008,87470
+NOR,Norway,2009,87830
+NOR,Norway,2010,88490
+NOR,Norway,2011,90330
+NOR,Norway,2012,99110
+NOR,Norway,2013,104190
+NOR,Norway,2014,104370
+NOR,Norway,2015,92910
+NOR,Norway,2016,81370
+NOR,Norway,2017,75650
+NOR,Norway,2018,80320
+NOR,Norway,2019,81620
+NOR,Norway,2020,78250
+NPL,Nepal,1987,180
+NPL,Nepal,1988,200
+NPL,Nepal,1989,210
+NPL,Nepal,1990,210
+NPL,Nepal,1991,210
+NPL,Nepal,1992,200
+NPL,Nepal,1993,190
+NPL,Nepal,1994,200
+NPL,Nepal,1995,200
+NPL,Nepal,1996,210
+NPL,Nepal,1997,220
+NPL,Nepal,1998,210
+NPL,Nepal,1999,220
+NPL,Nepal,2000,230
+NPL,Nepal,2001,240
+NPL,Nepal,2002,240
+NPL,Nepal,2003,260
+NPL,Nepal,2004,280
+NPL,Nepal,2005,310
+NPL,Nepal,2006,340
+NPL,Nepal,2007,370
+NPL,Nepal,2008,430
+NPL,Nepal,2009,480
+NPL,Nepal,2010,540
+NPL,Nepal,2011,630
+NPL,Nepal,2012,770
+NPL,Nepal,2013,860
+NPL,Nepal,2014,880
+NPL,Nepal,2015,890
+NPL,Nepal,2016,880
+NPL,Nepal,2017,990
+NPL,Nepal,2018,1120
+NPL,Nepal,2019,1230
+NPL,Nepal,2020,1190
+NRU,Nauru,2012,8870
+NRU,Nauru,2013,13000
+NRU,Nauru,2014,14920
+NRU,Nauru,2015,13690
+NRU,Nauru,2016,12730
+NRU,Nauru,2017,12370
+NRU,Nauru,2018,14320
+NRU,Nauru,2019,16630
+NZL,New Zealand,1987,10010
+NZL,New Zealand,1988,12550
+NZL,New Zealand,1989,13570
+NZL,New Zealand,1990,13640
+NZL,New Zealand,1991,12160
+NZL,New Zealand,1992,12050
+NZL,New Zealand,1993,12360
+NZL,New Zealand,1994,13400
+NZL,New Zealand,1995,15280
+NZL,New Zealand,1996,16730
+NZL,New Zealand,1997,17160
+NZL,New Zealand,1998,15780
+NZL,New Zealand,1999,15040
+NZL,New Zealand,2000,14080
+NZL,New Zealand,2001,13810
+NZL,New Zealand,2002,14170
+NZL,New Zealand,2003,16960
+NZL,New Zealand,2004,21500
+NZL,New Zealand,2005,25290
+NZL,New Zealand,2006,26340
+NZL,New Zealand,2007,28360
+NZL,New Zealand,2008,28010
+NZL,New Zealand,2009,29730
+NZL,New Zealand,2010,29570
+NZL,New Zealand,2011,33540
+NZL,New Zealand,2012,37210
+NZL,New Zealand,2013,40270
+NZL,New Zealand,2014,41380
+NZL,New Zealand,2015,39850
+NZL,New Zealand,2016,38910
+NZL,New Zealand,2017,38780
+NZL,New Zealand,2018,41790
+NZL,New Zealand,2019,42450
+OMN,Oman,1987,5390
+OMN,Oman,1988,5210
+OMN,Oman,1989,5660
+OMN,Oman,1990,5710
+OMN,Oman,1991,6040
+OMN,Oman,1992,6510
+OMN,Oman,1993,6280
+OMN,Oman,1994,6160
+OMN,Oman,1995,6270
+OMN,Oman,1996,6470
+OMN,Oman,1997,6810
+OMN,Oman,1998,6530
+OMN,Oman,1999,6370
+OMN,Oman,2000,7070
+OMN,Oman,2001,7830
+OMN,Oman,2002,8000
+OMN,Oman,2003,8290
+OMN,Oman,2004,9410
+OMN,Oman,2005,10690
+OMN,Oman,2006,12660
+OMN,Oman,2007,14560
+OMN,Oman,2008,17430
+OMN,Oman,2009,17740
+OMN,Oman,2010,17600
+OMN,Oman,2011,17010
+OMN,Oman,2012,19360
+OMN,Oman,2013,20310
+OMN,Oman,2014,19010
+OMN,Oman,2015,17450
+OMN,Oman,2016,15750
+OMN,Oman,2017,13970
+OMN,Oman,2018,14110
+OMN,Oman,2019,14150
+PAK,Pakistan,1987,370
+PAK,Pakistan,1988,400
+PAK,Pakistan,1989,400
+PAK,Pakistan,1990,400
+PAK,Pakistan,1991,400
+PAK,Pakistan,1992,430
+PAK,Pakistan,1993,440
+PAK,Pakistan,1994,440
+PAK,Pakistan,1995,470
+PAK,Pakistan,1996,480
+PAK,Pakistan,1997,470
+PAK,Pakistan,1998,450
+PAK,Pakistan,1999,440
+PAK,Pakistan,2000,480
+PAK,Pakistan,2001,510
+PAK,Pakistan,2002,530
+PAK,Pakistan,2003,570
+PAK,Pakistan,2004,660
+PAK,Pakistan,2005,740
+PAK,Pakistan,2006,800
+PAK,Pakistan,2007,860
+PAK,Pakistan,2008,920
+PAK,Pakistan,2009,950
+PAK,Pakistan,2010,970
+PAK,Pakistan,2011,1030
+PAK,Pakistan,2012,1120
+PAK,Pakistan,2013,1210
+PAK,Pakistan,2014,1230
+PAK,Pakistan,2015,1260
+PAK,Pakistan,2016,1310
+PAK,Pakistan,2017,1400
+PAK,Pakistan,2018,1480
+PAK,Pakistan,2019,1410
+PAK,Pakistan,2020,1280
+PAN,Panama,1987,3280
+PAN,Panama,1988,2740
+PAN,Panama,1989,2570
+PAN,Panama,1990,2660
+PAN,Panama,1991,2730
+PAN,Panama,1992,3020
+PAN,Panama,1993,3260
+PAN,Panama,1994,3440
+PAN,Panama,1995,3470
+PAN,Panama,1996,3560
+PAN,Panama,1997,3600
+PAN,Panama,1998,3690
+PAN,Panama,1999,3760
+PAN,Panama,2000,3910
+PAN,Panama,2001,3840
+PAN,Panama,2002,3970
+PAN,Panama,2003,4110
+PAN,Panama,2004,4510
+PAN,Panama,2005,4790
+PAN,Panama,2006,5100
+PAN,Panama,2007,5770
+PAN,Panama,2008,6540
+PAN,Panama,2009,6900
+PAN,Panama,2010,7260
+PAN,Panama,2011,8550
+PAN,Panama,2012,9540
+PAN,Panama,2013,10630
+PAN,Panama,2014,11190
+PAN,Panama,2015,12200
+PAN,Panama,2016,12780
+PAN,Panama,2017,13750
+PAN,Panama,2018,14480
+PAN,Panama,2019,14900
+PAN,Panama,2020,11880
+PER,Peru,1987,950
+PER,Peru,1988,790
+PER,Peru,1989,790
+PER,Peru,1990,840
+PER,Peru,1991,1220
+PER,Peru,1992,1420
+PER,Peru,1993,1550
+PER,Peru,1994,1760
+PER,Peru,1995,1950
+PER,Peru,1996,2150
+PER,Peru,1997,2280
+PER,Peru,1998,2150
+PER,Peru,1999,2030
+PER,Peru,2000,1970
+PER,Peru,2001,1900
+PER,Peru,2002,1960
+PER,Peru,2003,2080
+PER,Peru,2004,2280
+PER,Peru,2005,2540
+PER,Peru,2006,2810
+PER,Peru,2007,3210
+PER,Peru,2008,3790
+PER,Peru,2009,3970
+PER,Peru,2010,4410
+PER,Peru,2011,4970
+PER,Peru,2012,5790
+PER,Peru,2013,6420
+PER,Peru,2014,6530
+PER,Peru,2015,6340
+PER,Peru,2016,6110
+PER,Peru,2017,6060
+PER,Peru,2018,6470
+PER,Peru,2019,6790
+PER,Peru,2020,6010
+PHL,Philippines,1987,600
+PHL,Philippines,1988,660
+PHL,Philippines,1989,700
+PHL,Philippines,1990,720
+PHL,Philippines,1991,730
+PHL,Philippines,1992,770
+PHL,Philippines,1993,820
+PHL,Philippines,1994,920
+PHL,Philippines,1995,1020
+PHL,Philippines,1996,1160
+PHL,Philippines,1997,1230
+PHL,Philippines,1998,1200
+PHL,Philippines,1999,1180
+PHL,Philippines,2000,1150
+PHL,Philippines,2001,1160
+PHL,Philippines,2002,1130
+PHL,Philippines,2003,1170
+PHL,Philippines,2004,1290
+PHL,Philippines,2005,1380
+PHL,Philippines,2006,1490
+PHL,Philippines,2007,1720
+PHL,Philippines,2008,2000
+PHL,Philippines,2009,2170
+PHL,Philippines,2010,2370
+PHL,Philippines,2011,2520
+PHL,Philippines,2012,2860
+PHL,Philippines,2013,3160
+PHL,Philippines,2014,3330
+PHL,Philippines,2015,3380
+PHL,Philippines,2016,3450
+PHL,Philippines,2017,3530
+PHL,Philippines,2018,3710
+PHL,Philippines,2019,3850
+PHL,Philippines,2020,3430
+PLW,Palau,2002,9200
+PLW,Palau,2003,8810
+PLW,Palau,2004,9420
+PLW,Palau,2005,10350
+PLW,Palau,2006,10830
+PLW,Palau,2007,11780
+PLW,Palau,2008,11800
+PLW,Palau,2009,11090
+PLW,Palau,2010,11400
+PLW,Palau,2011,12270
+PLW,Palau,2012,12760
+PLW,Palau,2013,12870
+PLW,Palau,2014,14150
+PLW,Palau,2015,15860
+PLW,Palau,2016,16680
+PLW,Palau,2017,16650
+PLW,Palau,2018,17810
+PLW,Palau,2019,16500
+PNG,Papua New Guinea,1987,690
+PNG,Papua New Guinea,1988,790
+PNG,Papua New Guinea,1989,800
+PNG,Papua New Guinea,1990,740
+PNG,Papua New Guinea,1991,790
+PNG,Papua New Guinea,1992,840
+PNG,Papua New Guinea,1993,980
+PNG,Papua New Guinea,1994,1030
+PNG,Papua New Guinea,1995,950
+PNG,Papua New Guinea,1996,930
+PNG,Papua New Guinea,1997,850
+PNG,Papua New Guinea,1998,720
+PNG,Papua New Guinea,1999,630
+PNG,Papua New Guinea,2000,570
+PNG,Papua New Guinea,2001,510
+PNG,Papua New Guinea,2002,480
+PNG,Papua New Guinea,2003,470
+PNG,Papua New Guinea,2004,540
+PNG,Papua New Guinea,2005,650
+PNG,Papua New Guinea,2006,790
+PNG,Papua New Guinea,2007,1070
+PNG,Papua New Guinea,2008,1400
+PNG,Papua New Guinea,2009,1510
+PNG,Papua New Guinea,2010,1740
+PNG,Papua New Guinea,2011,1820
+PNG,Papua New Guinea,2012,2270
+PNG,Papua New Guinea,2013,2500
+PNG,Papua New Guinea,2014,2990
+PNG,Papua New Guinea,2015,2860
+PNG,Papua New Guinea,2016,2710
+PNG,Papua New Guinea,2017,2590
+PNG,Papua New Guinea,2018,2600
+PNG,Papua New Guinea,2019,2750
+PNG,Papua New Guinea,2020,2660
+POL,Poland,1992,2080
+POL,Poland,1993,2480
+POL,Poland,1994,2760
+POL,Poland,1995,3240
+POL,Poland,1996,3830
+POL,Poland,1997,4230
+POL,Poland,1998,4350
+POL,Poland,1999,4430
+POL,Poland,2000,4670
+POL,Poland,2001,4710
+POL,Poland,2002,4900
+POL,Poland,2003,5500
+POL,Poland,2004,6250
+POL,Poland,2005,7340
+POL,Poland,2006,8460
+POL,Poland,2007,9940
+POL,Poland,2008,11980
+POL,Poland,2009,12500
+POL,Poland,2010,12740
+POL,Poland,2011,12890
+POL,Poland,2012,13160
+POL,Poland,2013,13390
+POL,Poland,2014,13560
+POL,Poland,2015,13310
+POL,Poland,2016,12720
+POL,Poland,2017,12730
+POL,Poland,2018,14150
+POL,Poland,2019,15350
+POL,Poland,2020,15270
+PRI,Puerto Rico,1987,5350
+PRI,Puerto Rico,1988,5860
+PRI,Puerto Rico,1989,6050
+PRI,Puerto Rico,1990,5950
+PRI,Puerto Rico,1991,6300
+PRI,Puerto Rico,1992,6760
+PRI,Puerto Rico,1993,7100
+PRI,Puerto Rico,1994,7370
+PRI,Puerto Rico,1995,7820
+PRI,Puerto Rico,1996,8130
+PRI,Puerto Rico,1997,8510
+PRI,Puerto Rico,1998,8690
+PRI,Puerto Rico,1999,9590
+PRI,Puerto Rico,2000,10550
+PRI,Puerto Rico,2001,10950
+PRI,Puerto Rico,2002,11250
+PRI,Puerto Rico,2003,12170
+PRI,Puerto Rico,2004,14260
+PRI,Puerto Rico,2005,14750
+PRI,Puerto Rico,2006,15030
+PRI,Puerto Rico,2007,15860
+PRI,Puerto Rico,2008,16360
+PRI,Puerto Rico,2009,16580
+PRI,Puerto Rico,2010,16920
+PRI,Puerto Rico,2011,17670
+PRI,Puerto Rico,2012,18680
+PRI,Puerto Rico,2013,19170
+PRI,Puerto Rico,2014,19280
+PRI,Puerto Rico,2015,19420
+PRI,Puerto Rico,2016,19710
+PRI,Puerto Rico,2017,20000
+PRI,Puerto Rico,2018,21080
+PRI,Puerto Rico,2019,22060
+PRI,Puerto Rico,2020,21740
+PRT,Portugal,1987,20
+PRT,Portugal,1988,30
+PRT,Portugal,1989,30
+PRT,Portugal,1990,40
+PRT,Portugal,1991,40
+PRT,Portugal,1992,50
+PRT,Portugal,1993,50
+PRT,Portugal,1994,50
+PRT,Portugal,1995,60
+PRT,Portugal,1996,60
+PRT,Portugal,1997,60
+PRT,Portugal,1998,60
+PRT,Portugal,1999,90
+PRT,Portugal,2000,190
+PRT,Portugal,2001,11850
+PRT,Portugal,2002,11780
+PRT,Portugal,2003,13290
+PRT,Portugal,2004,16190
+PRT,Portugal,2005,18600
+PRT,Portugal,2006,19410
+PRT,Portugal,2007,20860
+PRT,Portugal,2008,22640
+PRT,Portugal,2009,22990
+PRT,Portugal,2010,23030
+PRT,Portugal,2011,22770
+PRT,Portugal,2012,21170
+PRT,Portugal,2013,21380
+PRT,Portugal,2014,21200
+PRT,Portugal,2015,20460
+PRT,Portugal,2016,19940
+PRT,Portugal,2017,20060
+PRT,Portugal,2018,22060
+PRT,Portugal,2019,23170
+PRT,Portugal,2020,22000
+PRY,Paraguay,1995,1680
+PRY,Paraguay,1996,1840
+PRY,Paraguay,1997,1840
+PRY,Paraguay,1998,1730
+PRY,Paraguay,1999,1600
+PRY,Paraguay,2000,1440
+PRY,Paraguay,2001,1410
+PRY,Paraguay,2002,1330
+PRY,Paraguay,2003,1230
+PRY,Paraguay,2004,1350
+PRY,Paraguay,2005,1520
+PRY,Paraguay,2006,1840
+PRY,Paraguay,2007,2320
+PRY,Paraguay,2008,3080
+PRY,Paraguay,2009,3450
+PRY,Paraguay,2010,4070
+PRY,Paraguay,2011,4480
+PRY,Paraguay,2012,4750
+PRY,Paraguay,2013,5510
+PRY,Paraguay,2014,5810
+PRY,Paraguay,2015,5640
+PRY,Paraguay,2016,5400
+PRY,Paraguay,2017,5370
+PRY,Paraguay,2018,5600
+PRY,Paraguay,2019,5510
+PRY,Paraguay,2020,5140
+PSE,West Bank and Gaza,1996,1470
+PSE,West Bank and Gaza,1997,1630
+PSE,West Bank and Gaza,1998,1780
+PSE,West Bank and Gaza,1999,1800
+PSE,West Bank and Gaza,2000,1550
+PSE,West Bank and Gaza,2001,1370
+PSE,West Bank and Gaza,2002,1190
+PSE,West Bank and Gaza,2003,1370
+PSE,West Bank and Gaza,2004,1640
+PSE,West Bank and Gaza,2005,1780
+PSE,West Bank and Gaza,2006,1710
+PSE,West Bank and Gaza,2007,1790
+PSE,West Bank and Gaza,2008,2040
+PSE,West Bank and Gaza,2009,2250
+PSE,West Bank and Gaza,2010,2510
+PSE,West Bank and Gaza,2011,2880
+PSE,West Bank and Gaza,2012,3210
+PSE,West Bank and Gaza,2013,3470
+PSE,West Bank and Gaza,2014,3560
+PSE,West Bank and Gaza,2015,3670
+PSE,West Bank and Gaza,2016,3900
+PSE,West Bank and Gaza,2017,3930
+PSE,West Bank and Gaza,2018,4190
+PSE,West Bank and Gaza,2019,4270
+PSE,West Bank and Gaza,2020,3710
+PYF,French Polynesia,1987,13000
+PYF,French Polynesia,1988,15360
+PYF,French Polynesia,1989,14940
+PYF,French Polynesia,1990,15270
+PYF,French Polynesia,1991,16030
+PYF,French Polynesia,1992,17260
+PYF,French Polynesia,1993,17400
+PYF,French Polynesia,1994,17470
+PYF,French Polynesia,1995,17920
+PYF,French Polynesia,1996,17780
+PYF,French Polynesia,1997,17250
+PYF,French Polynesia,1998,16660
+PYF,French Polynesia,1999,16170
+PYF,French Polynesia,2000,15770
+QAT,Qatar,2002,28400
+QAT,Qatar,2003,30680
+QAT,Qatar,2004,36160
+QAT,Qatar,2005,38260
+QAT,Qatar,2006,50810
+QAT,Qatar,2007,58030
+QAT,Qatar,2008,65580
+QAT,Qatar,2009,61250
+QAT,Qatar,2010,63620
+QAT,Qatar,2011,66950
+QAT,Qatar,2012,72880
+QAT,Qatar,2013,79390
+QAT,Qatar,2014,80890
+QAT,Qatar,2015,73440
+QAT,Qatar,2016,64550
+QAT,Qatar,2017,56920
+QAT,Qatar,2018,58830
+QAT,Qatar,2019,61180
+QAT,Qatar,2020,56210
+ROU,Romania,1992,1250
+ROU,Romania,1993,1190
+ROU,Romania,1994,1270
+ROU,Romania,1995,1490
+ROU,Romania,1996,1640
+ROU,Romania,1997,1590
+ROU,Romania,1998,1580
+ROU,Romania,1999,1610
+ROU,Romania,2000,1710
+ROU,Romania,2001,1760
+ROU,Romania,2002,1950
+ROU,Romania,2003,2250
+ROU,Romania,2004,2960
+ROU,Romania,2005,3880
+ROU,Romania,2006,4900
+ROU,Romania,2007,6390
+ROU,Romania,2008,8800
+ROU,Romania,2009,9220
+ROU,Romania,2010,8640
+ROU,Romania,2011,8650
+ROU,Romania,2012,8760
+ROU,Romania,2013,9320
+ROU,Romania,2014,9700
+ROU,Romania,2015,9600
+ROU,Romania,2016,9620
+ROU,Romania,2017,10110
+ROU,Romania,2018,11430
+ROU,Romania,2019,12610
+ROU,Romania,2020,12570
+RUS,Russian Federation,1991,3440
+RUS,Russian Federation,1992,3090
+RUS,Russian Federation,1993,2920
+RUS,Russian Federation,1994,2650
+RUS,Russian Federation,1995,2640
+RUS,Russian Federation,1996,2600
+RUS,Russian Federation,1997,2650
+RUS,Russian Federation,1998,2130
+RUS,Russian Federation,1999,1750
+RUS,Russian Federation,2000,1710
+RUS,Russian Federation,2001,1780
+RUS,Russian Federation,2002,2100
+RUS,Russian Federation,2003,2590
+RUS,Russian Federation,2004,3410
+RUS,Russian Federation,2005,4450
+RUS,Russian Federation,2006,5810
+RUS,Russian Federation,2007,7560
+RUS,Russian Federation,2008,9580
+RUS,Russian Federation,2009,9230
+RUS,Russian Federation,2010,9980
+RUS,Russian Federation,2011,11060
+RUS,Russian Federation,2012,13490
+RUS,Russian Federation,2013,15190
+RUS,Russian Federation,2014,14630
+RUS,Russian Federation,2015,11780
+RUS,Russian Federation,2016,9730
+RUS,Russian Federation,2017,9210
+RUS,Russian Federation,2018,10250
+RUS,Russian Federation,2019,11250
+RUS,Russian Federation,2020,10690
+RWA,Rwanda,1987,320
+RWA,Rwanda,1988,350
+RWA,Rwanda,1989,350
+RWA,Rwanda,1990,350
+RWA,Rwanda,1991,320
+RWA,Rwanda,1992,340
+RWA,Rwanda,1993,310
+RWA,Rwanda,1994,150
+RWA,Rwanda,1995,210
+RWA,Rwanda,1996,220
+RWA,Rwanda,1997,260
+RWA,Rwanda,1998,260
+RWA,Rwanda,1999,280
+RWA,Rwanda,2000,280
+RWA,Rwanda,2001,270
+RWA,Rwanda,2002,260
+RWA,Rwanda,2003,250
+RWA,Rwanda,2004,270
+RWA,Rwanda,2005,320
+RWA,Rwanda,2006,360
+RWA,Rwanda,2007,410
+RWA,Rwanda,2008,490
+RWA,Rwanda,2009,550
+RWA,Rwanda,2010,600
+RWA,Rwanda,2011,650
+RWA,Rwanda,2012,700
+RWA,Rwanda,2013,720
+RWA,Rwanda,2014,740
+RWA,Rwanda,2015,750
+RWA,Rwanda,2016,740
+RWA,Rwanda,2017,730
+RWA,Rwanda,2018,780
+RWA,Rwanda,2019,830
+RWA,Rwanda,2020,780
+SAU,Saudi Arabia,1987,7700
+SAU,Saudi Arabia,1988,7630
+SAU,Saudi Arabia,1989,7080
+SAU,Saudi Arabia,1990,7390
+SAU,Saudi Arabia,1991,8310
+SAU,Saudi Arabia,1992,8500
+SAU,Saudi Arabia,1993,8050
+SAU,Saudi Arabia,1994,7720
+SAU,Saudi Arabia,1995,7810
+SAU,Saudi Arabia,1996,8030
+SAU,Saudi Arabia,1997,8230
+SAU,Saudi Arabia,1998,8010
+SAU,Saudi Arabia,1999,7650
+SAU,Saudi Arabia,2000,8150
+SAU,Saudi Arabia,2001,8520
+SAU,Saudi Arabia,2002,8370
+SAU,Saudi Arabia,2003,9480
+SAU,Saudi Arabia,2004,11040
+SAU,Saudi Arabia,2005,12650
+SAU,Saudi Arabia,2006,14160
+SAU,Saudi Arabia,2007,15800
+SAU,Saudi Arabia,2008,18460
+SAU,Saudi Arabia,2009,17900
+SAU,Saudi Arabia,2010,18750
+SAU,Saudi Arabia,2011,20880
+SAU,Saudi Arabia,2012,24040
+SAU,Saudi Arabia,2013,25440
+SAU,Saudi Arabia,2014,25550
+SAU,Saudi Arabia,2015,23710
+SAU,Saudi Arabia,2016,21610
+SAU,Saudi Arabia,2017,19990
+SAU,Saudi Arabia,2018,21610
+SAU,Saudi Arabia,2019,22840
+SAU,Saudi Arabia,2020,21930
+SDN,Sudan,1987,790
+SDN,Sudan,1988,780
+SDN,Sudan,1989,720
+SDN,Sudan,1990,530
+SDN,Sudan,1991,450
+SDN,Sudan,1992,340
+SDN,Sudan,1993,310
+SDN,Sudan,1994,320
+SDN,Sudan,1995,400
+SDN,Sudan,1996,400
+SDN,Sudan,1997,380
+SDN,Sudan,1998,340
+SDN,Sudan,1999,330
+SDN,Sudan,2000,340
+SDN,Sudan,2001,350
+SDN,Sudan,2002,380
+SDN,Sudan,2003,430
+SDN,Sudan,2004,500
+SDN,Sudan,2005,600
+SDN,Sudan,2006,700
+SDN,Sudan,2007,910
+SDN,Sudan,2008,1080
+SDN,Sudan,2009,1150
+SDN,Sudan,2010,1320
+SDN,Sudan,2011,1360
+SDN,Sudan,2012,1520
+SDN,Sudan,2013,1400
+SDN,Sudan,2014,1490
+SDN,Sudan,2015,1540
+SDN,Sudan,2016,1500
+SDN,Sudan,2017,1310
+SDN,Sudan,2018,1040
+SDN,Sudan,2019,820
+SDN,Sudan,2020,650
+SEN,Senegal,1987,830
+SEN,Senegal,1988,950
+SEN,Senegal,1989,940
+SEN,Senegal,1990,920
+SEN,Senegal,1991,930
+SEN,Senegal,1992,980
+SEN,Senegal,1993,930
+SEN,Senegal,1994,770
+SEN,Senegal,1995,740
+SEN,Senegal,1996,700
+SEN,Senegal,1997,710
+SEN,Senegal,1998,690
+SEN,Senegal,1999,690
+SEN,Senegal,2000,670
+SEN,Senegal,2001,650
+SEN,Senegal,2002,630
+SEN,Senegal,2003,730
+SEN,Senegal,2004,870
+SEN,Senegal,2005,990
+SEN,Senegal,2006,1030
+SEN,Senegal,2007,1100
+SEN,Senegal,2008,1250
+SEN,Senegal,2009,1330
+SEN,Senegal,2010,1330
+SEN,Senegal,2011,1300
+SEN,Senegal,2012,1320
+SEN,Senegal,2013,1340
+SEN,Senegal,2014,1370
+SEN,Senegal,2015,1320
+SEN,Senegal,2016,1270
+SEN,Senegal,2017,1280
+SEN,Senegal,2018,1390
+SEN,Senegal,2019,1430
+SEN,Senegal,2020,1430
+SGP,Singapore,1987,8080
+SGP,Singapore,1988,9320
+SGP,Singapore,1989,10320
+SGP,Singapore,1990,11450
+SGP,Singapore,1991,12970
+SGP,Singapore,1992,15270
+SGP,Singapore,1993,17710
+SGP,Singapore,1994,20780
+SGP,Singapore,1995,23630
+SGP,Singapore,1996,25620
+SGP,Singapore,1997,27730
+SGP,Singapore,1998,24010
+SGP,Singapore,1999,23360
+SGP,Singapore,2000,23680
+SGP,Singapore,2001,22130
+SGP,Singapore,2002,22000
+SGP,Singapore,2003,23440
+SGP,Singapore,2004,26150
+SGP,Singapore,2005,28820
+SGP,Singapore,2006,32550
+SGP,Singapore,2007,36010
+SGP,Singapore,2008,37230
+SGP,Singapore,2009,37320
+SGP,Singapore,2010,44930
+SGP,Singapore,2011,48290
+SGP,Singapore,2012,51740
+SGP,Singapore,2013,54480
+SGP,Singapore,2014,56380
+SGP,Singapore,2015,53160
+SGP,Singapore,2016,53060
+SGP,Singapore,2017,54460
+SGP,Singapore,2018,56900
+SGP,Singapore,2019,58390
+SGP,Singapore,2020,54920
+SLB,Solomon Islands,1987,590
+SLB,Solomon Islands,1988,600
+SLB,Solomon Islands,1989,590
+SLB,Solomon Islands,1990,630
+SLB,Solomon Islands,1991,660
+SLB,Solomon Islands,1992,800
+SLB,Solomon Islands,1993,860
+SLB,Solomon Islands,1994,1000
+SLB,Solomon Islands,1995,1200
+SLB,Solomon Islands,1996,1320
+SLB,Solomon Islands,1997,1310
+SLB,Solomon Islands,1998,1230
+SLB,Solomon Islands,1999,1160
+SLB,Solomon Islands,2000,980
+SLB,Solomon Islands,2001,920
+SLB,Solomon Islands,2002,830
+SLB,Solomon Islands,2003,860
+SLB,Solomon Islands,2004,900
+SLB,Solomon Islands,2005,980
+SLB,Solomon Islands,2006,1040
+SLB,Solomon Islands,2007,1120
+SLB,Solomon Islands,2008,1230
+SLB,Solomon Islands,2009,1310
+SLB,Solomon Islands,2010,1470
+SLB,Solomon Islands,2011,1620
+SLB,Solomon Islands,2012,1820
+SLB,Solomon Islands,2013,2160
+SLB,Solomon Islands,2014,2200
+SLB,Solomon Islands,2015,2130
+SLB,Solomon Islands,2016,2150
+SLB,Solomon Islands,2017,2220
+SLB,Solomon Islands,2018,2360
+SLB,Solomon Islands,2019,2370
+SLB,Solomon Islands,2020,2300
+SLE,Sierra Leone,1987,180
+SLE,Sierra Leone,1988,170
+SLE,Sierra Leone,1989,210
+SLE,Sierra Leone,1990,190
+SLE,Sierra Leone,1991,170
+SLE,Sierra Leone,1992,130
+SLE,Sierra Leone,1993,160
+SLE,Sierra Leone,1994,160
+SLE,Sierra Leone,1995,180
+SLE,Sierra Leone,1996,210
+SLE,Sierra Leone,1997,200
+SLE,Sierra Leone,1998,170
+SLE,Sierra Leone,1999,150
+SLE,Sierra Leone,2000,140
+SLE,Sierra Leone,2001,150
+SLE,Sierra Leone,2002,200
+SLE,Sierra Leone,2003,270
+SLE,Sierra Leone,2004,280
+SLE,Sierra Leone,2005,290
+SLE,Sierra Leone,2006,300
+SLE,Sierra Leone,2007,360
+SLE,Sierra Leone,2008,420
+SLE,Sierra Leone,2009,440
+SLE,Sierra Leone,2010,420
+SLE,Sierra Leone,2011,430
+SLE,Sierra Leone,2012,530
+SLE,Sierra Leone,2013,660
+SLE,Sierra Leone,2014,700
+SLE,Sierra Leone,2015,550
+SLE,Sierra Leone,2016,490
+SLE,Sierra Leone,2017,520
+SLE,Sierra Leone,2018,490
+SLE,Sierra Leone,2019,540
+SLE,Sierra Leone,2020,490
+SLV,El Salvador,1987,820
+SLV,El Salvador,1988,860
+SLV,El Salvador,1989,860
+SLV,El Salvador,1990,900
+SLV,El Salvador,1991,930
+SLV,El Salvador,1992,1060
+SLV,El Salvador,1993,1170
+SLV,El Salvador,1994,1290
+SLV,El Salvador,1995,1480
+SLV,El Salvador,1996,1590
+SLV,El Salvador,1997,1690
+SLV,El Salvador,1998,1750
+SLV,El Salvador,1999,1810
+SLV,El Salvador,2000,1900
+SLV,El Salvador,2001,1950
+SLV,El Salvador,2002,2000
+SLV,El Salvador,2003,2130
+SLV,El Salvador,2004,2270
+SLV,El Salvador,2005,2420
+SLV,El Salvador,2006,2570
+SLV,El Salvador,2007,2680
+SLV,El Salvador,2008,2870
+SLV,El Salvador,2009,2820
+SLV,El Salvador,2010,2880
+SLV,El Salvador,2011,3060
+SLV,El Salvador,2012,3210
+SLV,El Salvador,2013,3350
+SLV,El Salvador,2014,3400
+SLV,El Salvador,2015,3440
+SLV,El Salvador,2016,3510
+SLV,El Salvador,2017,3600
+SLV,El Salvador,2018,3820
+SLV,El Salvador,2019,3990
+SLV,El Salvador,2020,3650
+SOM,Somalia,1987,150
+SOM,Somalia,1988,150
+SOM,Somalia,1989,150
+SOM,Somalia,1990,130
+SOM,Somalia,2015,290
+SOM,Somalia,2016,290
+SOM,Somalia,2017,290
+SOM,Somalia,2018,310
+SOM,Somalia,2019,320
+SOM,Somalia,2020,310
+SRB,Serbia,1997,2990
+SRB,Serbia,1998,2990
+SRB,Serbia,1999,2610
+SRB,Serbia,2000,1610
+SRB,Serbia,2001,1540
+SRB,Serbia,2002,1520
+SRB,Serbia,2003,2390
+SRB,Serbia,2004,3250
+SRB,Serbia,2005,3830
+SRB,Serbia,2006,4200
+SRB,Serbia,2007,4830
+SRB,Serbia,2008,6030
+SRB,Serbia,2009,6450
+SRB,Serbia,2010,6220
+SRB,Serbia,2011,6190
+SRB,Serbia,2012,6080
+SRB,Serbia,2013,6460
+SRB,Serbia,2014,6240
+SRB,Serbia,2015,5960
+SRB,Serbia,2016,5700
+SRB,Serbia,2017,5570
+SRB,Serbia,2018,6410
+SRB,Serbia,2019,7030
+SRB,Serbia,2020,7400
+SSD,South Sudan,2011,810
+SSD,South Sudan,2012,850
+SSD,South Sudan,2013,1160
+SSD,South Sudan,2014,1250
+SSD,South Sudan,2015,1090
+#N/A,Sao Tome and Principe,2003,600
+#N/A,Sao Tome and Principe,2004,700
+#N/A,Sao Tome and Principe,2005,820
+#N/A,Sao Tome and Principe,2006,940
+#N/A,Sao Tome and Principe,2007,960
+#N/A,Sao Tome and Principe,2008,1020
+#N/A,Sao Tome and Principe,2009,1060
+#N/A,Sao Tome and Principe,2010,1130
+#N/A,Sao Tome and Principe,2011,1180
+#N/A,Sao Tome and Principe,2012,1230
+#N/A,Sao Tome and Principe,2013,1430
+#N/A,Sao Tome and Principe,2014,1630
+#N/A,Sao Tome and Principe,2015,1650
+#N/A,Sao Tome and Principe,2016,1690
+#N/A,Sao Tome and Principe,2017,1700
+#N/A,Sao Tome and Principe,2018,1870
+#N/A,Sao Tome and Principe,2019,1950
+#N/A,Sao Tome and Principe,2020,2070
+SUR,Suriname,1987,2520
+SUR,Suriname,1988,2980
+SUR,Suriname,1989,2230
+SUR,Suriname,1990,1420
+SUR,Suriname,1991,1140
+SUR,Suriname,1992,1040
+SUR,Suriname,1993,970
+SUR,Suriname,1994,1100
+SUR,Suriname,1995,1320
+SUR,Suriname,1996,1630
+SUR,Suriname,1997,1840
+SUR,Suriname,1998,2050
+SUR,Suriname,1999,1950
+SUR,Suriname,2000,1970
+SUR,Suriname,2001,1670
+SUR,Suriname,2002,1930
+SUR,Suriname,2003,2200
+SUR,Suriname,2004,2820
+SUR,Suriname,2005,3320
+SUR,Suriname,2006,4040
+SUR,Suriname,2007,5050
+SUR,Suriname,2008,6330
+SUR,Suriname,2009,6960
+SUR,Suriname,2010,7620
+SUR,Suriname,2011,7920
+SUR,Suriname,2012,8550
+SUR,Suriname,2013,8950
+SUR,Suriname,2014,9260
+SUR,Suriname,2015,8890
+SUR,Suriname,2016,6930
+SUR,Suriname,2017,5930
+SUR,Suriname,2018,5960
+SUR,Suriname,2019,6340
+SUR,Suriname,2020,5510
+SVK,Slovak Republic,2011,17480
+SVK,Slovak Republic,2012,17810
+SVK,Slovak Republic,2013,18260
+SVK,Slovak Republic,2014,18320
+SVK,Slovak Republic,2015,17680
+SVK,Slovak Republic,2016,16800
+SVK,Slovak Republic,2017,16620
+SVK,Slovak Republic,2018,18330
+SVK,Slovak Republic,2019,19220
+SVK,Slovak Republic,2020,18700
+SVN,Slovenia,2009,24450
+SVN,Slovenia,2010,24620
+SVN,Slovenia,2011,24630
+SVN,Slovenia,2012,23260
+SVN,Slovenia,2013,23240
+SVN,Slovenia,2014,23620
+SVN,Slovenia,2015,22270
+SVN,Slovenia,2016,21790
+SVN,Slovenia,2017,22140
+SVN,Slovenia,2018,24610
+SVN,Slovenia,2019,25940
+SWE,Sweden,1987,19360
+SWE,Sweden,1988,24190
+SWE,Sweden,1989,26090
+SWE,Sweden,1990,27760
+SWE,Sweden,1991,29110
+SWE,Sweden,1992,31340
+SWE,Sweden,1993,28200
+SWE,Sweden,1994,27690
+SWE,Sweden,1995,28070
+SWE,Sweden,1996,30400
+SWE,Sweden,1997,31390
+SWE,Sweden,1998,31110
+SWE,Sweden,1999,31300
+SWE,Sweden,2000,31610
+SWE,Sweden,2001,29720
+SWE,Sweden,2002,29090
+SWE,Sweden,2003,32750
+SWE,Sweden,2004,39790
+SWE,Sweden,2005,45770
+SWE,Sweden,2006,49150
+SWE,Sweden,2007,52310
+SWE,Sweden,2008,55720
+SWE,Sweden,2009,52640
+SWE,Sweden,2010,54630
+SWE,Sweden,2011,56700
+SWE,Sweden,2012,59090
+SWE,Sweden,2013,61800
+SWE,Sweden,2014,61870
+SWE,Sweden,2015,58420
+SWE,Sweden,2016,54360
+SWE,Sweden,2017,53030
+SWE,Sweden,2018,55640
+SWE,Sweden,2019,56090
+SWE,Sweden,2020,53800
+SWZ,Eswatini,1990,1290
+SWZ,Eswatini,1991,1350
+SWZ,Eswatini,1992,1570
+SWZ,Eswatini,1993,1580
+SWZ,Eswatini,1994,1570
+SWZ,Eswatini,1995,1820
+SWZ,Eswatini,1996,1930
+SWZ,Eswatini,1997,1960
+SWZ,Eswatini,1998,1740
+SWZ,Eswatini,1999,1730
+SWZ,Eswatini,2000,1670
+SWZ,Eswatini,2001,1700
+SWZ,Eswatini,2002,1570
+SWZ,Eswatini,2003,1700
+SWZ,Eswatini,2004,2160
+SWZ,Eswatini,2005,3080
+SWZ,Eswatini,2006,3300
+SWZ,Eswatini,2007,3480
+SWZ,Eswatini,2008,3360
+SWZ,Eswatini,2009,3320
+SWZ,Eswatini,2010,3460
+SWZ,Eswatini,2011,3860
+SWZ,Eswatini,2012,4310
+SWZ,Eswatini,2013,4420
+SWZ,Eswatini,2014,4130
+SWZ,Eswatini,2015,3800
+SWZ,Eswatini,2016,3450
+SWZ,Eswatini,2017,3390
+SWZ,Eswatini,2018,3620
+SWZ,Eswatini,2019,3670
+SWZ,Eswatini,2020,3580
+SXM,Sint Maarten (Dutch part),2013,27540
+SXM,Sint Maarten (Dutch part),2014,28670
+SXM,Sint Maarten (Dutch part),2015,29560
+SXM,Sint Maarten (Dutch part),2016,30890
+SXM,Sint Maarten (Dutch part),2017,28210
+SXM,Sint Maarten (Dutch part),2018,27680
+SYC,Seychelles,1987,3200
+SYC,Seychelles,1988,3970
+SYC,Seychelles,1989,4540
+SYC,Seychelles,1990,5030
+SYC,Seychelles,1991,5200
+SYC,Seychelles,1992,6000
+SYC,Seychelles,1993,6390
+SYC,Seychelles,1994,6530
+SYC,Seychelles,1995,6460
+SYC,Seychelles,1996,6740
+SYC,Seychelles,1997,7330
+SYC,Seychelles,1998,7320
+SYC,Seychelles,1999,7290
+SYC,Seychelles,2000,7290
+SYC,Seychelles,2001,7310
+SYC,Seychelles,2002,6850
+SYC,Seychelles,2003,7490
+SYC,Seychelles,2004,9280
+SYC,Seychelles,2005,11140
+SYC,Seychelles,2006,12580
+SYC,Seychelles,2007,12280
+SYC,Seychelles,2008,11180
+SYC,Seychelles,2009,10230
+SYC,Seychelles,2010,10220
+SYC,Seychelles,2011,10570
+SYC,Seychelles,2012,11540
+SYC,Seychelles,2013,12700
+SYC,Seychelles,2014,13350
+SYC,Seychelles,2015,14020
+SYC,Seychelles,2016,13840
+SYC,Seychelles,2017,14350
+SYC,Seychelles,2018,15440
+SYC,Seychelles,2019,15930
+SYC,Seychelles,2020,12720
+SYR,Syrian Arab Republic,1987,1270
+SYR,Syrian Arab Republic,1988,1190
+SYR,Syrian Arab Republic,1989,890
+SYR,Syrian Arab Republic,1990,910
+SYR,Syrian Arab Republic,1991,990
+SYR,Syrian Arab Republic,1992,1110
+SYR,Syrian Arab Republic,1993,1070
+SYR,Syrian Arab Republic,1994,970
+SYR,Syrian Arab Republic,1995,900
+SYR,Syrian Arab Republic,1996,850
+SYR,Syrian Arab Republic,1997,850
+SYR,Syrian Arab Republic,1998,920
+SYR,Syrian Arab Republic,1999,890
+SYR,Syrian Arab Republic,2000,970
+SYR,Syrian Arab Republic,2001,1110
+SYR,Syrian Arab Republic,2002,1210
+SYR,Syrian Arab Republic,2003,1240
+SYR,Syrian Arab Republic,2004,1380
+SYR,Syrian Arab Republic,2005,1510
+SYR,Syrian Arab Republic,2006,1620
+SYR,Syrian Arab Republic,2007,1820
+TCA,Turks and Caicos Islands,2014,23280
+TCA,Turks and Caicos Islands,2015,25530
+TCA,Turks and Caicos Islands,2016,27300
+TCA,Turks and Caicos Islands,2017,26200
+TCA,Turks and Caicos Islands,2018,28340
+TCA,Turks and Caicos Islands,2019,30700
+TCD,Chad,1987,210
+TCD,Chad,1988,270
+TCD,Chad,1989,270
+TCD,Chad,1990,270
+TCD,Chad,1991,290
+TCD,Chad,1992,330
+TCD,Chad,1993,240
+TCD,Chad,1994,220
+TCD,Chad,1995,210
+TCD,Chad,1996,200
+TCD,Chad,1997,210
+TCD,Chad,1998,220
+TCD,Chad,1999,200
+TCD,Chad,2000,180
+TCD,Chad,2001,190
+TCD,Chad,2002,200
+TCD,Chad,2003,210
+TCD,Chad,2004,340
+TCD,Chad,2005,470
+TCD,Chad,2006,530
+TCD,Chad,2007,630
+TCD,Chad,2008,700
+TCD,Chad,2009,830
+TCD,Chad,2010,910
+TCD,Chad,2011,890
+TCD,Chad,2012,960
+TCD,Chad,2013,970
+TCD,Chad,2014,980
+TCD,Chad,2015,880
+TCD,Chad,2016,730
+TCD,Chad,2017,640
+TCD,Chad,2018,680
+TCD,Chad,2019,700
+TCD,Chad,2020,660
+TGO,Togo,1987,310
+TGO,Togo,1988,390
+TGO,Togo,1989,400
+TGO,Togo,1990,400
+TGO,Togo,1991,400
+TGO,Togo,1992,420
+TGO,Togo,1993,330
+TGO,Togo,1994,310
+TGO,Togo,1995,300
+TGO,Togo,1996,310
+TGO,Togo,1997,350
+TGO,Togo,1998,330
+TGO,Togo,1999,310
+TGO,Togo,2000,310
+TGO,Togo,2001,290
+TGO,Togo,2002,300
+TGO,Togo,2003,350
+TGO,Togo,2004,390
+TGO,Togo,2005,400
+TGO,Togo,2006,410
+TGO,Togo,2007,420
+TGO,Togo,2008,470
+TGO,Togo,2009,530
+TGO,Togo,2010,560
+TGO,Togo,2011,610
+TGO,Togo,2012,590
+TGO,Togo,2013,620
+TGO,Togo,2014,640
+TGO,Togo,2015,640
+TGO,Togo,2016,670
+TGO,Togo,2017,720
+TGO,Togo,2018,880
+TGO,Togo,2019,920
+TGO,Togo,2020,920
+THA,Thailand,1987,950
+THA,Thailand,1988,1160
+THA,Thailand,1989,1320
+THA,Thailand,1990,1490
+THA,Thailand,1991,1660
+THA,Thailand,1992,1880
+THA,Thailand,1993,2130
+THA,Thailand,1994,2400
+THA,Thailand,1995,2740
+THA,Thailand,1996,2950
+THA,Thailand,1997,2680
+THA,Thailand,1998,2080
+THA,Thailand,1999,1980
+THA,Thailand,2000,1980
+THA,Thailand,2001,1960
+THA,Thailand,2002,1990
+THA,Thailand,2003,2180
+THA,Thailand,2004,2530
+THA,Thailand,2005,2790
+THA,Thailand,2006,3100
+THA,Thailand,2007,3530
+THA,Thailand,2008,3970
+THA,Thailand,2009,4140
+THA,Thailand,2010,4580
+THA,Thailand,2011,4950
+THA,Thailand,2012,5520
+THA,Thailand,2013,5720
+THA,Thailand,2014,5760
+THA,Thailand,2015,5710
+THA,Thailand,2016,5700
+THA,Thailand,2017,5970
+THA,Thailand,2018,6610
+THA,Thailand,2019,7260
+THA,Thailand,2020,7050
+TJK,Tajikistan,1992,280
+TJK,Tajikistan,1993,240
+TJK,Tajikistan,1994,220
+TJK,Tajikistan,1995,210
+TJK,Tajikistan,1996,170
+TJK,Tajikistan,1997,170
+TJK,Tajikistan,1998,180
+TJK,Tajikistan,1999,180
+TJK,Tajikistan,2000,170
+TJK,Tajikistan,2001,160
+TJK,Tajikistan,2002,170
+TJK,Tajikistan,2003,210
+TJK,Tajikistan,2004,270
+TJK,Tajikistan,2005,380
+TJK,Tajikistan,2006,470
+TJK,Tajikistan,2007,580
+TJK,Tajikistan,2008,750
+TJK,Tajikistan,2009,800
+TJK,Tajikistan,2010,920
+TJK,Tajikistan,2011,1020
+TJK,Tajikistan,2012,1150
+TJK,Tajikistan,2013,1330
+TJK,Tajikistan,2014,1350
+TJK,Tajikistan,2015,1260
+TJK,Tajikistan,2016,1110
+TJK,Tajikistan,2017,1030
+TJK,Tajikistan,2018,1030
+TJK,Tajikistan,2019,1070
+TJK,Tajikistan,2020,1060
+TKM,Turkmenistan,1993,840
+TKM,Turkmenistan,1994,530
+TKM,Turkmenistan,1995,620
+TKM,Turkmenistan,1996,610
+TKM,Turkmenistan,1997,550
+TKM,Turkmenistan,1998,560
+TKM,Turkmenistan,1999,620
+TKM,Turkmenistan,2000,600
+TKM,Turkmenistan,2001,650
+TKM,Turkmenistan,2002,750
+TKM,Turkmenistan,2003,990
+TKM,Turkmenistan,2004,1310
+TKM,Turkmenistan,2005,1590
+TKM,Turkmenistan,2006,1890
+TKM,Turkmenistan,2007,2320
+TKM,Turkmenistan,2008,3040
+TKM,Turkmenistan,2009,3550
+TKM,Turkmenistan,2010,4070
+TKM,Turkmenistan,2011,4730
+TKM,Turkmenistan,2012,5560
+TKM,Turkmenistan,2013,6510
+TKM,Turkmenistan,2014,7200
+TKM,Turkmenistan,2015,7030
+TKM,Turkmenistan,2016,6830
+TKM,Turkmenistan,2017,6380
+TKM,Turkmenistan,2018,6740
+TKM,Turkmenistan,2019,7220
+TLS,Timor-Leste,2002,750
+TLS,Timor-Leste,2003,670
+TLS,Timor-Leste,2004,780
+TLS,Timor-Leste,2005,930
+TLS,Timor-Leste,2006,1310
+TLS,Timor-Leste,2007,1840
+TLS,Timor-Leste,2008,2970
+TLS,Timor-Leste,2009,2330
+TLS,Timor-Leste,2010,2850
+TLS,Timor-Leste,2011,3710
+TLS,Timor-Leste,2012,3630
+TLS,Timor-Leste,2013,3200
+TLS,Timor-Leste,2014,2690
+TLS,Timor-Leste,2015,2200
+TLS,Timor-Leste,2016,1750
+TLS,Timor-Leste,2017,1780
+TLS,Timor-Leste,2018,1800
+TLS,Timor-Leste,2019,2020
+TLS,Timor-Leste,2020,1830
+TON,Tonga,1987,870
+TON,Tonga,1988,1070
+TON,Tonga,1989,1160
+TON,Tonga,1990,1220
+TON,Tonga,1991,1350
+TON,Tonga,1992,1450
+TON,Tonga,1993,1530
+TON,Tonga,1994,1820
+TON,Tonga,1995,2090
+TON,Tonga,1996,2370
+TON,Tonga,1997,2340
+TON,Tonga,1998,2240
+TON,Tonga,1999,2170
+TON,Tonga,2000,2080
+TON,Tonga,2001,2030
+TON,Tonga,2002,2000
+TON,Tonga,2003,2000
+TON,Tonga,2004,2160
+TON,Tonga,2005,2410
+TON,Tonga,2006,2720
+TON,Tonga,2007,2900
+TON,Tonga,2008,3270
+TON,Tonga,2009,3180
+TON,Tonga,2010,3370
+TON,Tonga,2011,3810
+TON,Tonga,2012,4320
+TON,Tonga,2013,4540
+TON,Tonga,2014,4600
+TON,Tonga,2015,4440
+TON,Tonga,2016,4410
+TON,Tonga,2017,4590
+TON,Tonga,2018,4800
+TON,Tonga,2019,5000
+TTO,Trinidad and Tobago,1987,4280
+TTO,Trinidad and Tobago,1988,3930
+TTO,Trinidad and Tobago,1989,3630
+TTO,Trinidad and Tobago,1990,3710
+TTO,Trinidad and Tobago,1991,3890
+TTO,Trinidad and Tobago,1992,4420
+TTO,Trinidad and Tobago,1993,4080
+TTO,Trinidad and Tobago,1994,3880
+TTO,Trinidad and Tobago,1995,3970
+TTO,Trinidad and Tobago,1996,4230
+TTO,Trinidad and Tobago,1997,4500
+TTO,Trinidad and Tobago,1998,4620
+TTO,Trinidad and Tobago,1999,4890
+TTO,Trinidad and Tobago,2000,5400
+TTO,Trinidad and Tobago,2001,6070
+TTO,Trinidad and Tobago,2002,6760
+TTO,Trinidad and Tobago,2003,8070
+TTO,Trinidad and Tobago,2004,9700
+TTO,Trinidad and Tobago,2005,11190
+TTO,Trinidad and Tobago,2006,13280
+TTO,Trinidad and Tobago,2007,15000
+TTO,Trinidad and Tobago,2008,17350
+TTO,Trinidad and Tobago,2009,16200
+TTO,Trinidad and Tobago,2010,16460
+TTO,Trinidad and Tobago,2011,14970
+TTO,Trinidad and Tobago,2012,16840
+TTO,Trinidad and Tobago,2013,18750
+TTO,Trinidad and Tobago,2014,18560
+TTO,Trinidad and Tobago,2015,18910
+TTO,Trinidad and Tobago,2016,16880
+TTO,Trinidad and Tobago,2017,15980
+TTO,Trinidad and Tobago,2018,15990
+TTO,Trinidad and Tobago,2019,16580
+TTO,Trinidad and Tobago,2020,15410
+TUN,Tunisia,1987,1270
+TUN,Tunisia,1988,1330
+TUN,Tunisia,1989,1290
+TUN,Tunisia,1990,1410
+TUN,Tunisia,1991,1460
+TUN,Tunisia,1992,1680
+TUN,Tunisia,1993,1660
+TUN,Tunisia,1994,1710
+TUN,Tunisia,1995,1790
+TUN,Tunisia,1996,1970
+TUN,Tunisia,1997,2120
+TUN,Tunisia,1998,2150
+TUN,Tunisia,1999,2260
+TUN,Tunisia,2000,2270
+TUN,Tunisia,2001,2240
+TUN,Tunisia,2002,2180
+TUN,Tunisia,2003,2450
+TUN,Tunisia,2004,2900
+TUN,Tunisia,2005,3160
+TUN,Tunisia,2006,3330
+TUN,Tunisia,2007,3540
+TUN,Tunisia,2008,3860
+TUN,Tunisia,2009,4070
+TUN,Tunisia,2010,4130
+TUN,Tunisia,2011,3990
+TUN,Tunisia,2012,4100
+TUN,Tunisia,2013,4160
+TUN,Tunisia,2014,4160
+TUN,Tunisia,2015,3960
+TUN,Tunisia,2016,3760
+TUN,Tunisia,2017,3520
+TUN,Tunisia,2018,3500
+TUN,Tunisia,2019,3340
+TUN,Tunisia,2020,3100
+TUR,Turkey,1987,1740
+TUR,Turkey,1988,1860
+TUR,Turkey,1989,1920
+TUR,Turkey,1990,2310
+TUR,Turkey,1991,2590
+TUR,Turkey,1992,2940
+TUR,Turkey,1993,3140
+TUR,Turkey,1994,2680
+TUR,Turkey,1995,2850
+TUR,Turkey,1996,2920
+TUR,Turkey,1997,3190
+TUR,Turkey,1998,3440
+TUR,Turkey,1999,3590
+TUR,Turkey,2000,4320
+TUR,Turkey,2001,3580
+TUR,Turkey,2002,3590
+TUR,Turkey,2003,3950
+TUR,Turkey,2004,5270
+TUR,Turkey,2005,6820
+TUR,Turkey,2006,7880
+TUR,Turkey,2007,8950
+TUR,Turkey,2008,9850
+TUR,Turkey,2009,9640
+TUR,Turkey,2010,10490
+TUR,Turkey,2011,11310
+TUR,Turkey,2012,11960
+TUR,Turkey,2013,12600
+TUR,Turkey,2014,12630
+TUR,Turkey,2015,12030
+TUR,Turkey,2016,11260
+TUR,Turkey,2017,10970
+TUR,Turkey,2018,10510
+TUR,Turkey,2019,9690
+TUR,Turkey,2020,9050
+TUV,Tuvalu,2001,2710
+TUV,Tuvalu,2002,3310
+TUV,Tuvalu,2003,2490
+TUV,Tuvalu,2004,3240
+TUV,Tuvalu,2005,3630
+TUV,Tuvalu,2006,3780
+TUV,Tuvalu,2007,4500
+TUV,Tuvalu,2008,4660
+TUV,Tuvalu,2009,4830
+TUV,Tuvalu,2010,4400
+TUV,Tuvalu,2011,4730
+TUV,Tuvalu,2012,4430
+TUV,Tuvalu,2013,5560
+TUV,Tuvalu,2014,4670
+TUV,Tuvalu,2015,5440
+TUV,Tuvalu,2016,5060
+TUV,Tuvalu,2017,4810
+TUV,Tuvalu,2018,5440
+TUV,Tuvalu,2019,5620
+TUV,Tuvalu,2020,5820
+TZA,Tanzania,1990,200
+TZA,Tanzania,1991,190
+TZA,Tanzania,1992,180
+TZA,Tanzania,1993,170
+TZA,Tanzania,1994,160
+TZA,Tanzania,1995,170
+TZA,Tanzania,1996,190
+TZA,Tanzania,1997,220
+TZA,Tanzania,1998,270
+TZA,Tanzania,1999,330
+TZA,Tanzania,2000,410
+TZA,Tanzania,2001,410
+TZA,Tanzania,2002,420
+TZA,Tanzania,2003,430
+TZA,Tanzania,2004,470
+TZA,Tanzania,2005,500
+TZA,Tanzania,2006,520
+TZA,Tanzania,2007,540
+TZA,Tanzania,2008,600
+TZA,Tanzania,2009,670
+TZA,Tanzania,2010,720
+TZA,Tanzania,2011,770
+TZA,Tanzania,2012,810
+TZA,Tanzania,2013,890
+TZA,Tanzania,2014,970
+TZA,Tanzania,2015,980
+TZA,Tanzania,2016,970
+TZA,Tanzania,2017,970
+TZA,Tanzania,2018,1030
+TZA,Tanzania,2019,1100
+TZA,Tanzania,2020,1080
+UGA,Uganda,1987,310
+UGA,Uganda,1988,400
+UGA,Uganda,1989,400
+UGA,Uganda,1990,320
+UGA,Uganda,1991,250
+UGA,Uganda,1992,190
+UGA,Uganda,1993,180
+UGA,Uganda,1994,180
+UGA,Uganda,1995,230
+UGA,Uganda,1996,280
+UGA,Uganda,1997,300
+UGA,Uganda,1998,290
+UGA,Uganda,1999,290
+UGA,Uganda,2000,270
+UGA,Uganda,2001,250
+UGA,Uganda,2002,250
+UGA,Uganda,2003,260
+UGA,Uganda,2004,280
+UGA,Uganda,2005,310
+UGA,Uganda,2006,350
+UGA,Uganda,2007,390
+UGA,Uganda,2008,430
+UGA,Uganda,2009,550
+UGA,Uganda,2010,680
+UGA,Uganda,2011,850
+UGA,Uganda,2012,830
+UGA,Uganda,2013,800
+UGA,Uganda,2014,820
+UGA,Uganda,2015,830
+UGA,Uganda,2016,790
+UGA,Uganda,2017,740
+UGA,Uganda,2018,750
+UGA,Uganda,2019,780
+UGA,Uganda,2020,800
+UKR,Ukraine,1989,1620
+UKR,Ukraine,1990,1610
+UKR,Ukraine,1991,2280
+UKR,Ukraine,1992,2090
+UKR,Ukraine,1993,1820
+UKR,Ukraine,1994,990
+UKR,Ukraine,1995,920
+UKR,Ukraine,1996,860
+UKR,Ukraine,1997,890
+UKR,Ukraine,1998,850
+UKR,Ukraine,1999,760
+UKR,Ukraine,2000,700
+UKR,Ukraine,2001,730
+UKR,Ukraine,2002,790
+UKR,Ukraine,2003,980
+UKR,Ukraine,2004,1270
+UKR,Ukraine,2005,1540
+UKR,Ukraine,2006,1950
+UKR,Ukraine,2007,2590
+UKR,Ukraine,2008,3210
+UKR,Ukraine,2009,2840
+UKR,Ukraine,2010,2980
+UKR,Ukraine,2011,3110
+UKR,Ukraine,2012,3500
+UKR,Ukraine,2013,3800
+UKR,Ukraine,2014,3560
+UKR,Ukraine,2015,2650
+UKR,Ukraine,2016,2310
+UKR,Ukraine,2017,2380
+UKR,Ukraine,2018,2800
+UKR,Ukraine,2019,3370
+UKR,Ukraine,2020,3540
+URY,Uruguay,1987,2210
+URY,Uruguay,1988,2600
+URY,Uruguay,1989,2730
+URY,Uruguay,1990,2840
+URY,Uruguay,1991,3180
+URY,Uruguay,1992,3830
+URY,Uruguay,1993,4350
+URY,Uruguay,1994,5040
+URY,Uruguay,1995,5530
+URY,Uruguay,1996,6160
+URY,Uruguay,1997,6970
+URY,Uruguay,1998,7240
+URY,Uruguay,1999,7260
+URY,Uruguay,2000,7060
+URY,Uruguay,2001,6500
+URY,Uruguay,2002,5140
+URY,Uruguay,2003,4250
+URY,Uruguay,2004,4130
+URY,Uruguay,2005,4720
+URY,Uruguay,2006,5390
+URY,Uruguay,2007,6390
+URY,Uruguay,2008,7710
+URY,Uruguay,2009,8810
+URY,Uruguay,2010,10440
+URY,Uruguay,2011,12060
+URY,Uruguay,2012,13330
+URY,Uruguay,2013,15330
+URY,Uruguay,2014,15790
+URY,Uruguay,2015,15620
+URY,Uruguay,2016,15440
+URY,Uruguay,2017,15920
+URY,Uruguay,2018,17270
+URY,Uruguay,2019,17740
+URY,Uruguay,2020,15830
+USA,United States,1987,21390
+USA,United States,1988,23490
+USA,United States,1989,23770
+USA,United States,1990,24060
+USA,United States,1991,24270
+USA,United States,1992,25680
+USA,United States,1993,26390
+USA,United States,1994,27650
+USA,United States,1995,29040
+USA,United States,1996,30270
+USA,United States,1997,31270
+USA,United States,1998,32030
+USA,United States,1999,33670
+USA,United States,2000,35960
+USA,United States,2001,36710
+USA,United States,2002,37320
+USA,United States,2003,39770
+USA,United States,2004,43510
+USA,United States,2005,46190
+USA,United States,2006,47870
+USA,United States,2007,48500
+USA,United States,2008,48980
+USA,United States,2009,47740
+USA,United States,2010,48990
+USA,United States,2011,50580
+USA,United States,2012,52760
+USA,United States,2013,53930
+USA,United States,2014,55840
+USA,United States,2015,56740
+USA,United States,2016,57270
+USA,United States,2017,59460
+USA,United States,2018,63510
+USA,United States,2019,65910
+UZB,Uzbekistan,1992,600
+UZB,Uzbekistan,1993,590
+UZB,Uzbekistan,1994,570
+UZB,Uzbekistan,1995,580
+UZB,Uzbekistan,1996,600
+UZB,Uzbekistan,1997,610
+UZB,Uzbekistan,1998,620
+UZB,Uzbekistan,1999,650
+UZB,Uzbekistan,2000,630
+UZB,Uzbekistan,2001,560
+UZB,Uzbekistan,2002,450
+UZB,Uzbekistan,2003,420
+UZB,Uzbekistan,2004,460
+UZB,Uzbekistan,2005,530
+UZB,Uzbekistan,2006,610
+UZB,Uzbekistan,2007,770
+UZB,Uzbekistan,2008,980
+UZB,Uzbekistan,2009,1150
+UZB,Uzbekistan,2010,1390
+UZB,Uzbekistan,2011,1670
+UZB,Uzbekistan,2012,2040
+UZB,Uzbekistan,2013,2300
+UZB,Uzbekistan,2014,2470
+UZB,Uzbekistan,2015,2600
+UZB,Uzbekistan,2016,2650
+UZB,Uzbekistan,2017,2350
+UZB,Uzbekistan,2018,2020
+UZB,Uzbekistan,2019,1800
+UZB,Uzbekistan,2020,1670
+VCT,St. Vincent and the Grenadines,1987,1660
+VCT,St. Vincent and the Grenadines,1988,1950
+VCT,St. Vincent and the Grenadines,1989,2030
+VCT,St. Vincent and the Grenadines,1990,2150
+VCT,St. Vincent and the Grenadines,1991,2200
+VCT,St. Vincent and the Grenadines,1992,2480
+VCT,St. Vincent and the Grenadines,1993,2710
+VCT,St. Vincent and the Grenadines,1994,2660
+VCT,St. Vincent and the Grenadines,1995,2890
+VCT,St. Vincent and the Grenadines,1996,3000
+VCT,St. Vincent and the Grenadines,1997,3070
+VCT,St. Vincent and the Grenadines,1998,3190
+VCT,St. Vincent and the Grenadines,1999,3310
+VCT,St. Vincent and the Grenadines,2000,3470
+VCT,St. Vincent and the Grenadines,2001,3650
+VCT,St. Vincent and the Grenadines,2002,3950
+VCT,St. Vincent and the Grenadines,2003,4380
+VCT,St. Vincent and the Grenadines,2004,4730
+VCT,St. Vincent and the Grenadines,2005,4960
+VCT,St. Vincent and the Grenadines,2006,5470
+VCT,St. Vincent and the Grenadines,2007,5910
+VCT,St. Vincent and the Grenadines,2008,6260
+VCT,St. Vincent and the Grenadines,2009,6320
+VCT,St. Vincent and the Grenadines,2010,6090
+VCT,St. Vincent and the Grenadines,2011,6130
+VCT,St. Vincent and the Grenadines,2012,6400
+VCT,St. Vincent and the Grenadines,2013,6550
+VCT,St. Vincent and the Grenadines,2014,6390
+VCT,St. Vincent and the Grenadines,2015,6560
+VCT,St. Vincent and the Grenadines,2016,6800
+VCT,St. Vincent and the Grenadines,2017,6990
+VCT,St. Vincent and the Grenadines,2018,7400
+VCT,St. Vincent and the Grenadines,2019,7460
+VCT,St. Vincent and the Grenadines,2020,7340
+VEN,"Venezuela, RB",1987,3350
+VEN,"Venezuela, RB",1988,3400
+VEN,"Venezuela, RB",1989,2560
+VEN,"Venezuela, RB",1990,2670
+VEN,"Venezuela, RB",1991,2690
+VEN,"Venezuela, RB",1992,2870
+VEN,"Venezuela, RB",1993,2850
+VEN,"Venezuela, RB",1994,2740
+VEN,"Venezuela, RB",1995,3040
+VEN,"Venezuela, RB",1996,3100
+VEN,"Venezuela, RB",1997,3470
+VEN,"Venezuela, RB",1998,3420
+VEN,"Venezuela, RB",1999,3570
+VEN,"Venezuela, RB",2000,4120
+VEN,"Venezuela, RB",2001,4600
+VEN,"Venezuela, RB",2002,3990
+VEN,"Venezuela, RB",2003,3490
+VEN,"Venezuela, RB",2004,4110
+VEN,"Venezuela, RB",2005,4980
+VEN,"Venezuela, RB",2006,6130
+VEN,"Venezuela, RB",2007,7630
+VEN,"Venezuela, RB",2008,9400
+VEN,"Venezuela, RB",2009,10380
+VEN,"Venezuela, RB",2010,11810
+VEN,"Venezuela, RB",2011,11980
+VEN,"Venezuela, RB",2012,12710
+VEN,"Venezuela, RB",2013,11970
+VEN,"Venezuela, RB",2014,13080
+VNM,Vietnam,1989,210
+VNM,Vietnam,1990,130
+VNM,Vietnam,1991,110
+VNM,Vietnam,1992,130
+VNM,Vietnam,1993,160
+VNM,Vietnam,1994,190
+VNM,Vietnam,1995,250
+VNM,Vietnam,1996,300
+VNM,Vietnam,1997,330
+VNM,Vietnam,1998,340
+VNM,Vietnam,1999,360
+VNM,Vietnam,2000,410
+VNM,Vietnam,2001,430
+VNM,Vietnam,2002,450
+VNM,Vietnam,2003,500
+VNM,Vietnam,2004,580
+VNM,Vietnam,2005,630
+VNM,Vietnam,2006,720
+VNM,Vietnam,2007,840
+VNM,Vietnam,2008,980
+VNM,Vietnam,2009,1010
+VNM,Vietnam,2010,1250
+VNM,Vietnam,2011,1370
+VNM,Vietnam,2012,1540
+VNM,Vietnam,2013,1720
+VNM,Vietnam,2014,1880
+VNM,Vietnam,2015,1970
+VNM,Vietnam,2016,2080
+VNM,Vietnam,2017,2130
+VNM,Vietnam,2018,2380
+VNM,Vietnam,2019,2590
+VNM,Vietnam,2020,2660
+VUT,Vanuatu,1987,890
+VUT,Vanuatu,1988,990
+VUT,Vanuatu,1989,1110
+VUT,Vanuatu,1990,1240
+VUT,Vanuatu,1991,1120
+VUT,Vanuatu,1992,1150
+VUT,Vanuatu,1993,1150
+VUT,Vanuatu,1994,1210
+VUT,Vanuatu,1995,1240
+VUT,Vanuatu,1996,1330
+VUT,Vanuatu,1997,1390
+VUT,Vanuatu,1998,1450
+VUT,Vanuatu,1999,1430
+VUT,Vanuatu,2000,1430
+VUT,Vanuatu,2001,1370
+VUT,Vanuatu,2002,1230
+VUT,Vanuatu,2003,1360
+VUT,Vanuatu,2004,1590
+VUT,Vanuatu,2005,1780
+VUT,Vanuatu,2006,1990
+VUT,Vanuatu,2007,2100
+VUT,Vanuatu,2008,2460
+VUT,Vanuatu,2009,2530
+VUT,Vanuatu,2010,2600
+VUT,Vanuatu,2011,2800
+VUT,Vanuatu,2012,2830
+VUT,Vanuatu,2013,3000
+VUT,Vanuatu,2014,2970
+VUT,Vanuatu,2015,2780
+VUT,Vanuatu,2016,2750
+VUT,Vanuatu,2017,2860
+VUT,Vanuatu,2018,3110
+VUT,Vanuatu,2019,3360
+VUT,Vanuatu,2020,2780
+WSM,Samoa,1987,530
+WSM,Samoa,1988,550
+WSM,Samoa,1989,580
+WSM,Samoa,1990,570
+WSM,Samoa,1991,540
+WSM,Samoa,2002,1520
+WSM,Samoa,2003,1660
+WSM,Samoa,2004,1990
+WSM,Samoa,2005,2320
+WSM,Samoa,2006,2560
+WSM,Samoa,2007,2850
+WSM,Samoa,2008,3060
+WSM,Samoa,2009,3030
+WSM,Samoa,2010,3240
+WSM,Samoa,2011,3520
+WSM,Samoa,2012,3660
+WSM,Samoa,2013,3800
+WSM,Samoa,2014,3820
+WSM,Samoa,2015,3960
+WSM,Samoa,2016,4110
+WSM,Samoa,2017,4070
+WSM,Samoa,2018,4030
+WSM,Samoa,2019,4200
+WSM,Samoa,2020,4070
+XKX,Kosovo,2004,1940
+XKX,Kosovo,2005,2270
+XKX,Kosovo,2006,2470
+XKX,Kosovo,2007,2690
+XKX,Kosovo,2008,3070
+XKX,Kosovo,2009,3290
+XKX,Kosovo,2010,3420
+XKX,Kosovo,2011,3640
+XKX,Kosovo,2012,3780
+XKX,Kosovo,2013,3960
+XKX,Kosovo,2014,4020
+XKX,Kosovo,2015,4010
+XKX,Kosovo,2016,3970
+XKX,Kosovo,2017,3960
+XKX,Kosovo,2018,4340
+XKX,Kosovo,2019,4690
+XKX,Kosovo,2020,4440
+YEM,"Yemen, Rep.",1992,510
+YEM,"Yemen, Rep.",1993,460
+YEM,"Yemen, Rep.",1994,380
+YEM,"Yemen, Rep.",1995,320
+YEM,"Yemen, Rep.",1996,300
+YEM,"Yemen, Rep.",1997,330
+YEM,"Yemen, Rep.",1998,370
+YEM,"Yemen, Rep.",1999,380
+YEM,"Yemen, Rep.",2000,430
+YEM,"Yemen, Rep.",2001,480
+YEM,"Yemen, Rep.",2002,520
+YEM,"Yemen, Rep.",2003,550
+YEM,"Yemen, Rep.",2004,610
+YEM,"Yemen, Rep.",2005,700
+YEM,"Yemen, Rep.",2006,810
+YEM,"Yemen, Rep.",2007,890
+YEM,"Yemen, Rep.",2008,1010
+YEM,"Yemen, Rep.",2009,1100
+YEM,"Yemen, Rep.",2010,1200
+YEM,"Yemen, Rep.",2011,1080
+YEM,"Yemen, Rep.",2012,1260
+YEM,"Yemen, Rep.",2013,1440
+YEM,"Yemen, Rep.",2014,1460
+YEM,"Yemen, Rep.",2015,1200
+YEM,"Yemen, Rep.",2016,1150
+YEM,"Yemen, Rep.",2017,1070
+YEM,"Yemen, Rep.",2018,940
+ZAF,South Africa,1987,2210
+ZAF,South Africa,1988,2670
+ZAF,South Africa,1989,2830
+ZAF,South Africa,1990,2860
+ZAF,South Africa,1991,3000
+ZAF,South Africa,1992,3250
+ZAF,South Africa,1993,3380
+ZAF,South Africa,1994,3510
+ZAF,South Africa,1995,3640
+ZAF,South Africa,1996,3660
+ZAF,South Africa,1997,3600
+ZAF,South Africa,1998,3230
+ZAF,South Africa,1999,3130
+ZAF,South Africa,2000,3070
+ZAF,South Africa,2001,2860
+ZAF,South Africa,2002,2670
+ZAF,South Africa,2003,2920
+ZAF,South Africa,2004,3720
+ZAF,South Africa,2005,4990
+ZAF,South Africa,2006,5630
+ZAF,South Africa,2007,5910
+ZAF,South Africa,2008,5980
+ZAF,South Africa,2009,5850
+ZAF,South Africa,2010,6190
+ZAF,South Africa,2011,6990
+ZAF,South Africa,2012,7570
+ZAF,South Africa,2013,7350
+ZAF,South Africa,2014,6760
+ZAF,South Africa,2015,6050
+ZAF,South Africa,2016,5470
+ZAF,South Africa,2017,5410
+ZAF,South Africa,2018,5750
+ZAF,South Africa,2019,6040
+ZAF,South Africa,2020,5410
+ZMB,Zambia,1987,260
+ZMB,Zambia,1988,330
+ZMB,Zambia,1989,400
+ZMB,Zambia,1990,430
+ZMB,Zambia,1991,390
+ZMB,Zambia,1992,360
+ZMB,Zambia,1993,380
+ZMB,Zambia,1994,350
+ZMB,Zambia,1995,380
+ZMB,Zambia,1996,400
+ZMB,Zambia,1997,400
+ZMB,Zambia,1998,360
+ZMB,Zambia,1999,350
+ZMB,Zambia,2000,330
+ZMB,Zambia,2001,350
+ZMB,Zambia,2002,360
+ZMB,Zambia,2003,410
+ZMB,Zambia,2004,460
+ZMB,Zambia,2005,560
+ZMB,Zambia,2006,720
+ZMB,Zambia,2007,900
+ZMB,Zambia,2008,1180
+ZMB,Zambia,2009,1280
+ZMB,Zambia,2010,1340
+ZMB,Zambia,2011,1420
+ZMB,Zambia,2012,1690
+ZMB,Zambia,2013,1760
+ZMB,Zambia,2014,1800
+ZMB,Zambia,2015,1580
+ZMB,Zambia,2016,1370
+ZMB,Zambia,2017,1300
+ZMB,Zambia,2018,1440
+ZMB,Zambia,2019,1430
+ZMB,Zambia,2020,1190
+ZWE,Zimbabwe,1987,700
+ZWE,Zimbabwe,1988,810
+ZWE,Zimbabwe,1989,840
+ZWE,Zimbabwe,1990,860
+ZWE,Zimbabwe,1991,850
+ZWE,Zimbabwe,1992,700
+ZWE,Zimbabwe,1993,640
+ZWE,Zimbabwe,1994,630
+ZWE,Zimbabwe,1995,620
+ZWE,Zimbabwe,1996,690
+ZWE,Zimbabwe,1997,700
+ZWE,Zimbabwe,1998,620
+ZWE,Zimbabwe,1999,570
+ZWE,Zimbabwe,2000,510
+ZWE,Zimbabwe,2001,540
+ZWE,Zimbabwe,2002,490
+ZWE,Zimbabwe,2003,440
+ZWE,Zimbabwe,2004,450
+ZWE,Zimbabwe,2005,460
+ZWE,Zimbabwe,2006,440
+ZWE,Zimbabwe,2007,420
+ZWE,Zimbabwe,2008,330
+ZWE,Zimbabwe,2009,420
+ZWE,Zimbabwe,2010,630
+ZWE,Zimbabwe,2011,920
+ZWE,Zimbabwe,2012,1110
+ZWE,Zimbabwe,2013,1210
+ZWE,Zimbabwe,2014,1260
+ZWE,Zimbabwe,2015,1280
+ZWE,Zimbabwe,2016,1290
+ZWE,Zimbabwe,2017,1390
+ZWE,Zimbabwe,2018,1410
+ZWE,Zimbabwe,2019,1200
+ZWE,Zimbabwe,2020,1090
