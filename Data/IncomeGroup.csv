@@ -1,0 +1,5 @@
+IncomeID,Income_Class,Min,Max
+LIC,Low Income,0,1046
+LMC,Lower-Middle Income,1046,4095
+UMC,Upper-middle Income,4096,12695
+HIC,High income,12695,100000000
