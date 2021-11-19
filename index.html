@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Jumbotron example · Bootstrap v5.1</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/jumbotron/">   
+
+    <!-- Bootstrap core CSS -->
+<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+  </head>
+
+<body>    
+<main>
+  <nav nav class="navbar navbar-light" style="background-color: #e3f8fd;">
+    <span class="navbar-text"><h1 class="text-center" style="text-align: center;">World Population and GDP Predictor</h1></span>
+  </nav>
+
+  <div class="col-lg-8 mx-auto p-3 py-md-5">
+    <form method="POST" action="/send" role="form", name="petform">
+      <div class="form-group">
+          <label for="selDataset">Select your country from the list:</label>
+          <select id="selDataset" class="form-control" onchange="optionChanged(this.value)"></select>
+      </div>
+    </form>
+  </br>
+    <div class="p-5 mb-4 bg-light rounded-3">
+      <div class="container-fluid py-5">
+        <h2 class="display-5 fw-bold">Country Population</h2>
+        <p class="col-md-8 fs-4">What you should see in the below two panels should be a representation of the population of your chosen country for the last 50 years 
+          as well as the figures for the next 10 years</p>
+      </div>
+    </div>
+
+    <div class="row align-items-md-stretch">
+      <div class="col-md-10">
+        <h2>Population History</h2>
+        <p>The following should be a representation of the historical data for population</p>
+        <div id="chartContainerPopulationHistory" class="container" style="height: 350px; width: 100%;">
+        </div>
+      </div>
+      <div class="col-md-10">
+        <h2>Population Prediction</h2>
+        <p>The following should be a representation of the future data for population </p>
+        <div id="chartContainerPopulationPredict" class="container" style="height: 350px; width: 100%;">
+        </div>
+      </div>
+    </div>
+    <div class="p-5 mb-4 bg-light rounded-3">
+      <div class="container-fluid py-5">
+        <h2 class="display-5 fw-bold">Country Gross Domestic Product (GDP)</h2>
+        <p class="col-md-8 fs-4">What you should see in the below two panels should be a representation of the GDP per capita of your chosen country for the last 30 years 
+          as well as the figures for the next 10 years</p>
+      </div>
+    </div>
+
+    <div class="row align-items-md-stretch">
+      <div class="col-md-10">
+        <h2>GDP History</h2>
+        <p>The following should be a representation of the historical data for GDP</p>
+        <div id="chartContainerGDPHistory" class="container" style="height: 350px; width: 100%;">
+        </div>
+      </div>
+      <div class="col-md-10">
+        <h2>GDP Prediction</h2>
+        <p>The following should be a representation of the future data for GDP </p>
+        <div id="chartContainerGDPPredict" class="container" style="height: 350px; width: 100%;">
+        </div>
+      </div>
+    </div>
+
+    <footer class="pt-3 mt-4 text-muted border-top">
+      &copy; 2021
+    </footer>
+  </div>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
