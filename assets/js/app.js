@@ -1,6 +1,6 @@
 // Append the Drop down list with all the otu_ids on page load
 function init() {
-  d3.csv("../Data/Countries.csv").then((data) => {
+  d3.csv("Data/Countries.csv").then((data) => {
   let dropdown = document.getElementById('selDataset');
   dropdown.length = 0;
 
@@ -24,7 +24,7 @@ function optionChanged(country){
   buildplots(country)
   // BuildBubblePlot()
 
-  d3.csv("../Data/Population.csv").then((data) => {
+  d3.csv("Data/Population.csv").then((data) => {
   
   console.log(data);
 
@@ -65,7 +65,7 @@ function optionChanged(country){
 
 console.log(PopFigures);
 
-  d3.csv("../Data/Countries.csv").then((C) => {
+  d3.csv("Data/Countries.csv").then((C) => {
 
     console.log(C);
   
@@ -180,7 +180,7 @@ function buildBody(RegID,IncID,c_name) {
 
   // Income Grouping
 
-  d3.csv("../Data/IncomeGroup.csv").then((I) => {
+  d3.csv("Data/IncomeGroup.csv").then((I) => {
     console.log(I);
   
     // var resultsArray = countries.filter(CountryCity => CountryCity.CountryID == country);
@@ -219,7 +219,7 @@ function buildBody(RegID,IncID,c_name) {
 function buildplots(country){
 
 // Generate Key Cities Waste Collection Graph
-  d3.csv("../Data/Population.csv").then((R) => {
+  d3.csv("Data/Population.csv").then((R) => {
     console.log(R);
     var PopFiguresPlot = R.filter(function(d) 
       {
@@ -272,7 +272,7 @@ function buildplots(country){
       chart.render();
   });
 
-  d3.csv("../Data/Population_Forecast.csv").then((R) => {
+  d3.csv("Data/Population_Forecast.csv").then((R) => {
     console.log(R);
     var PopFiguresPlot = R.filter(function(d) 
       {
@@ -326,7 +326,7 @@ function buildplots(country){
   });
 
 // Generate Key Cities Waste Collection Graph
-d3.csv("../Data/GDP.csv").then((R) => {
+d3.csv("Data/GDP.csv").then((R) => {
   console.log(R);
   var PopFiguresGDP = R.filter(function(d) 
     {
@@ -379,7 +379,7 @@ d3.csv("../Data/GDP.csv").then((R) => {
     chart.render();
 });
 
-d3.csv("../Data/GDP_Forecast.csv").then((R) => {
+d3.csv("Data/GDP_Forecast.csv").then((R) => {
   console.log(R);
   var PopFiguresGDP = R.filter(function(d) 
     {
