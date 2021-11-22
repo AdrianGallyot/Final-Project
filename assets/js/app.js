@@ -165,7 +165,7 @@ function buildBody(RegID,c_name,country) {
   
   // Population Forecasting
 
-  d3.csv("Data/Population_forecast.csv").then((I) => {
+  d3.csv("Data/Population_Forecast.csv").then((I) => {
     console.log(I);
   
     // var resultsArray = countries.filter(CountryCity => CountryCity.CountryID == country);
