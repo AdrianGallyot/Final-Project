@@ -90,23 +90,7 @@ console.log(PopFigures);
         }
       });
 
-      // var Cpopulation = [];
 
-      // for (var i = 0; i < filteredCountry.length ; i++){
-      //     Cpopulation.push(KeyData[i].population);
-      //     console.log(KeyData[i].population);
-      //    }
-    
-      // console.log(Cpopulation);
-
-      // var CGDP = [];
-
-      // for (var i = 0; i < filteredCountry.length ; i++){
-      //     CGDP.push(KeyData[i].gdp);
-      //     console.log(KeyData[i].gdp);
-      //    }
-    
-      // console.log(CGDP);
 
       var RegID = [];
 
@@ -135,20 +119,20 @@ console.log(PopFigures);
     
       console.log(c_name);
 
-      buildBody(RegID,IncID,c_name);
+      buildBody(RegID,c_name,country);
   });
 });
 }
 
-function buildBody(RegID,IncID,c_name) {
+function buildBody(RegID,c_name,country) {
   var Panel = d3.select("#sample-metadata");
   Panel.html(""); // too Clear Previous metadata
-  Panel.append("div").text(`Country Name: ${c_name}`);
+  Panel.append("div").text(`You have selected ${c_name} as your country.`);
   Panel.append("br")
 
   // Regional Breakdown
 
-  d3.csv("../Data/Region.csv").then((R) => {
+  d3.csv("Data/Region.csv").then((R) => {
     console.log(R);
     var filterRegion = R.filter(function(d) 
       {
@@ -173,21 +157,69 @@ function buildBody(RegID,IncID,c_name) {
     
       console.log(RegName);
       // console.log(Region_Name);
-      Panel.append("div").text(`Region: ${RegName}`);
+      Panel.append("div").text(`It is located within the ${RegName} region`);
       Panel.append("br")
+
+
+  });
+  
+  // Population Forecasting
+
+  d3.csv("Data/Population_forecast.csv").then((I) => {
+    console.log(I);
+  
+    // var resultsArray = countries.filter(CountryCity => CountryCity.CountryID == country);
+  
+    var filterPop = I.filter(function(d) 
+  { 
+          if( d["CountryID"] == country && (d["Year"] == 2021 || d["Year"] == 2030))
+          { 
+              return d;
+          } 
+      });
+
+      console.log(filterPop);
+  
+      var Pop_Group = filterPop.map(function(k){
+        return{
+          Population: k.Population,
+          Yrp: k.Year
+        }
+      });
+
+      var PopCurrent = [];
+      var YrpL = [];
+      var PopChange = "";
+
+      for (var i = 0; i < Pop_Group.length ; i++){
+          PopCurrent.push(Pop_Group [i].Population);
+          console.log(Pop_Group [i].Population);
+          YrpL.push(Pop_Group [i].Yrp);
+          console.log(Pop_Group [i].Yrp);
+         }
+
+         if(PopCurrent[0] > PopCurrent[1]) {
+           PopChange = "decrease";
+         } else if (PopCurrent[0] < PopCurrent[1]) {
+           PopChange = "increase"
+         } else {PopChange = "remain the same"}
+
+      console.log(PopCurrent);
+      console.log(PopChange);
+
+      Panel.append("div").text(`It also currently has an approximate population of ${PopCurrent[0]}
+      for the year ${YrpL[0]}, and it is estimated to ${PopChange} to be ${PopCurrent[1]} in the year ${YrpL[1]}.`);
+      Panel.append("br")  
   });
 
-
-  // Income Grouping
-
-  d3.csv("Data/IncomeGroup.csv").then((I) => {
+  d3.csv("Data/GDP_Forecast.csv").then((I) => {
     console.log(I);
   
     // var resultsArray = countries.filter(CountryCity => CountryCity.CountryID == country);
   
     var filterIncome = I.filter(function(d) 
   { 
-          if( d["IncomeID"] == IncID)
+          if( d["CountryID"] == country && (d["Year"] == 2021 || d["Year"] == 2030))
           { 
               return d;
           } 
@@ -197,20 +229,42 @@ function buildBody(RegID,IncID,c_name) {
   
       var Income_Group = filterIncome.map(function(k){
         return{
-          IncomeClass: k.Income_Class
+          IncomeClass: k.Income_Level,
+          GDP_PerCap: k.GDP_Per_Capita,
+          Yr: k.Year
         }
       });
 
-      var IncName = [];
+      var IncCls = [];
+      var gdpPC = [];
+      var YrL = [];
+      var IncomeGrpChng = "";
 
       for (var i = 0; i < Income_Group.length ; i++){
-          IncName.push(Income_Group[i].IncomeClass);
+          IncCls.push(Income_Group[i].IncomeClass);
           console.log(Income_Group[i].IncomeClass);
+          gdpPC.push(Income_Group[i].GDP_PerCap);
+          console.log(Income_Group[i].GDP_PerCap);
+          YrL.push(Income_Group[i].Yr);
+          console.log(Income_Group[i].Yr);
          }
-    
-      console.log(IncName);
-      Panel.append("div").text(`Income Grouping: ${IncName}`);
-      // console.log(Income_Group);
+
+         if (IncCls[0] == IncCls[1]){
+           IncomeGrpChng = "remain as"
+         } else {
+           IncomeGrpChng = "change to be"
+         }
+
+      console.log(IncCls[0]);
+      console.log(gdpPC);
+      console.log(YrL);
+      console.log(IncomeGrpChng);
+
+      Panel.append("div").text(`Its income group is currently listed as being a ${IncCls[0]} nation, with a current GDP Per capita of ${gdpPC[0]} $USD for the year ${YrL[0]}`);
+      Panel.append("br")
+      Panel.append("div").text(`It is estimated that by the year ${YrL[1]} that the income group will ${IncomeGrpChng} a ${IncCls[1]} nation, 
+      with an estimed GDP Per capita of ${gdpPC[1]} $USD`);
+      Panel.append("br")
   });
 }  // End of build Panel Data Function
 
@@ -271,7 +325,7 @@ function buildplots(country){
       });
       chart.render();
   });
-
+// Population Forecast Plot
   d3.csv("Data/Population_Forecast.csv").then((R) => {
     console.log(R);
     var PopFiguresPlot = R.filter(function(d) 
@@ -285,7 +339,7 @@ function buildplots(country){
 
       var PopData = PopFiguresPlot.map(function(k){
         return{
-          y: parseInt((k.Population/1000000)),
+          y: parseInt((k.Population/1000000)),  // Divide by a million to better suit the Plot axis
           label: k.Year,
         }
       });
@@ -430,200 +484,7 @@ d3.csv("Data/GDP_Forecast.csv").then((R) => {
       }]
     });
     chart.render();
-});
-
-
-// // Generate Key Cities Waste Collection Graph
-// d3.csv("CountryWasteDataset.csv").then((R) => {
-//   console.log(R);
-//   var CountryWaste = R.filter(function(d) 
-//     {
-//         if( d["CountryID"] == country)
-//         { 
-//             return d;
-//         } 
-//     });
-
-//     console.log(CountryWaste);
-
-//     var CWData = CountryWaste.map(function(k){
-//       return{
-//         y: parseInt(k.Value),
-//         label: k.Attribute
-//       }
-//     });
-//     console.log(CWData);
-
-//     var CWdatap = [];
-
-  
-//     for (var i = 0; i < CWData.length; i++){
-//         CWdatap.push(CWData[i]);
-//         console.log(CWData[i]);
-//        }
-
-//       //  var output = Object.entries(CountryWaste).map(([key, value]) => ({key,value}));
-       
-//       //  console.log(output);
-
-//         console.log(CWdatap);
-  
-//        var chartPie = new CanvasJS.Chart("chartPie", {
-//         animationEnabled: true,
-//         title: {
-//           text: "Waste Material %",
-//           fontSize: 20
-//         },
-//         data: [{
-//           type: "pie",
-//           indexLabelFontSize: 10,
-//           radius: 100,
-//           indexLabel: "{label} - {y}",
-//           yValueFormatString: "###0.0\"%\"",
-//           click: explodePie,
-//           dataPoints: CWdatap
-//         }]
-//       });
-//       chartPie.render();
-// });
-
-// // Generate Key Cities Waste Collection Graph
-// d3.csv("CountryLevelSpecialWaste.csv").then((R) => {
-//   console.log(R);
-//   var CountrySpecialWaste = R.filter(function(d) 
-//     {
-//         if( d["CountryID"] == country)
-//         { 
-//             return d;
-//         } 
-//     });
-
-//     console.log(CountrySpecialWaste);
-
-//     var CSWData = CountrySpecialWaste.map(function(k){
-//       return{
-//         y: parseInt(k.Value),
-//         label: k.Attribute
-//       }
-//     });
-//     console.log(CSWData);
-
-//     var CSWdatap = [];
-
-  
-//     for (var i = 0; i < CSWData.length; i++){
-//         CSWdatap.push(CSWData[i]);
-//         console.log(CSWData[i]);
-//        }
-
-//       //  var output = Object.entries(CountryWaste).map(([key, value]) => ({key,value}));
-       
-//       //  console.log(output);
-
-//         console.log(CSWdatap);
-
-// var chartBar = new CanvasJS.Chart("chartBar", {
-// 	animationEnabled: true,
-	
-// 	title:{
-// 		text:"Waste Category",
-//     fontSize:20
-// 	},
-// 	axisX:{
-// 		interval: 1
-// 	},
-// 	axisY2:{
-// 		interlacedColor: "rgb(130, 191, 255,.3)",
-// 		gridColor: "rgb(130, 191, 255,.2)",
-// 		title: "Tons Per Year"
-// 	},
-// 	data: [{
-// 		type: "bar",
-// 		name: "companies",
-// 		axisYType: "secondary",
-// 		color: "rgb(130, 191, 255)",
-// 		dataPoints: CSWdatap
-// 	  }]
-//   });
-//   chartBar.render();
-// });
-
-
+  });
 } // End of BuildPlot function
 
-// function BuildBubblePlot(){
-
-//   // Generate Country Population to Waste Bubble Graph
-// d3.csv("Countries.csv").then((R) => {
-//   console.log(R);
-//   var CountryDomWaste = R.filter(function(d) 
-//     {
-//         if( d["Population"] > 500000)
-//         { 
-//             return d;
-//         } 
-//     });
-
-//     console.log(CountryDomWaste);
-
-//     var CDWData = CountryDomWaste.map(function(k){
-//       return{
-//         y: parseInt(k.TotalDomesticWaste/k.Population),
-//         label: k.country_name
-//       }
-//     });
-
-//     console.log(CDWData);
-
-//     var PopulationWaste = [];
-
-//     for (var i = 0; i < CDWData.length; i++){
-//         PopulationWaste.push(CDWData[i]);
-//         console.log(CDWData[i]);
-//        }
-
-//         console.log(PopulationWaste);
-
-// var chartBarp = new CanvasJS.Chart("chartBarp", {
-// 	animationEnabled: true,
-	
-// 	title:{
-// 		text:"World Average Domestic Waste Per Person",
-//     fontSize:15
-// 	},
-// 	// axisX:{
-// 	// 	interval: 1,
-//   //   fontSize:10
-// 	// },
-// 	axisY2:{
-// 		interlacedColor: "rgb(130, 191, 255,.3)",
-// 		gridColor: "rgb(130, 191, 255,.2)",
-//     fontSize: 10
-// 	},
-// 	data: [{
-// 		type: "bar",
-// 		name: "companies",
-// 		axisYType: "secondary",
-// 		color: "rgb(130, 191, 255)",
-// 		dataPoints: PopulationWaste
-// 	  }]
-//   });
-
-//   chartBarp.render();
-
-// });
-
-
-//}
-
-
-// function explodePie(e) {
-// 	for(var i = 0; i < e.dataSeries.dataPoints.length; i++) {
-// 		if(i !== e.dataPointIndex)
-// 			e.dataSeries.dataPoints[i].exploded = false;
-// 	}
-// }
-
-
-
-init();
+init();  // Load Country list into Drop down
