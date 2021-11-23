@@ -207,9 +207,19 @@ function buildBody(RegID,c_name,country) {
       console.log(PopCurrent);
       console.log(PopChange);
 
+//       Panel.append("div").text(`It also currently has an approximate population of ${PopCurrent[0]}
+//       for the year ${YrpL[0]}, and it is estimated to ${PopChange} to be ${PopCurrent[1]} in the year ${YrpL[1]}.`);
+//       Panel.append("br")  
+      var Perc_Change = parseFloat(((PopCurrent[1] - PopCurrent[0])/(PopCurrent[0]))*100).toFixed(2);
+      var AvgPerc_CHange = parseFloat(Perc_Change / 10).toFixed(2);
+
+
+      Panel.append("h3").text("Population Summary");
+      Panel.append("br") 
       Panel.append("div").text(`It also currently has an approximate population of ${PopCurrent[0]}
       for the year ${YrpL[0]}, and it is estimated to ${PopChange} to be ${PopCurrent[1]} in the year ${YrpL[1]}.`);
-      Panel.append("br")  
+      Panel.append("div").text(`This is approximately ${Perc_Change}% increase overall, and an average percentage growth of ${AvgPerc_CHange}% for each year.`);
+      Panel.append("br") 
   });
 
   d3.csv("Data/GDP_Forecast.csv").then((I) => {
@@ -260,10 +270,24 @@ function buildBody(RegID,c_name,country) {
       console.log(YrL);
       console.log(IncomeGrpChng);
 
+//       Panel.append("div").text(`Its income group is currently listed as being a ${IncCls[0]} nation, with a current GDP Per capita of ${gdpPC[0]} $USD for the year ${YrL[0]}`);
+//       Panel.append("br")
+//       Panel.append("div").text(`It is estimated that by the year ${YrL[1]} that the income group will ${IncomeGrpChng} a ${IncCls[1]} nation, 
+//       with an estimed GDP Per capita of ${gdpPC[1]} $USD`);
+//       Panel.append("br")
+    
+      var GDPPerc_Change = parseFloat(((gdpPC[1] - gdpPC[0]) / (gdpPC[0]))*100).toFixed(2);
+      var AvgGDPPerc_CHange = parseFloat(GDPPerc_Change / 10).toFixed(2);
+
+
+      Panel.append("h3").text("GDP Summary");
+      Panel.append("br") 
       Panel.append("div").text(`Its income group is currently listed as being a ${IncCls[0]} nation, with a current GDP Per capita of ${gdpPC[0]} $USD for the year ${YrL[0]}`);
       Panel.append("br")
       Panel.append("div").text(`It is estimated that by the year ${YrL[1]} that the income group will ${IncomeGrpChng} a ${IncCls[1]} nation, 
       with an estimed GDP Per capita of ${gdpPC[1]} $USD`);
+      Panel.append("br")
+      Panel.append("div").text(`This is approximately ${GDPPerc_Change}% increase overall, and an average percentage growth of ${AvgGDPPerc_CHange}% for each year.`);
       Panel.append("br")
   });
 }  // End of build Panel Data Function
